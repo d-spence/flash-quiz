@@ -21,8 +21,8 @@ Simply run the script using Python. Press the **ENTER** key to display the answe
 
 | Question | Answer |
 | -------- | ------ |
-| The script isn't working correctly. | Make sure you have a file named 'quiz-questions.txt' in the same directory as 'flash-quiz.py'. |
-| I get an error when I try to run the script. | Do you have Python 3 on your system path? Do you have the tabulate package installed? Verify that both are installed correctly. Also note that the os.system('cls') command used in the script might not work for all terminals. Try running it in PowerShell. |
+| The script isn't working correctly. | Make sure you have a file named 'quiz-questions.txt' in the same directory as 'flash-quiz.py'. Note also that the default delimitting character in the script is ':' rather than the typical ',' in an average csv file. |
+| I get an error when I try to run the script. | Do you have Python 3 installed and on your system path? Do you have the tabulate package installed? Verify that both are installed correctly. Also note that the os.system('cls') command used in the script might not work for all terminals. Try running it in PowerShell. |
 | I have another issue. | Feel free to send me a message if you can't get it working! |
 
 ## Acknowledgements
