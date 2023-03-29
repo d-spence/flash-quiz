@@ -1,9 +1,9 @@
-404 Not Found: An error message you might see on websites that have been moved or deleted 
+404 Not Found: An error message you might see on websites that have been moved or deleted
 802.1X: It is the IEEE standard for encapsulating EAP or Extensible Authentication Protocol traffic over the 802 networks
 802.1X with EAP-TLS: Offers arguably the best security available, assuming proper and secure handling of the PKI aspects of it
 AAA (authentication, authorization, accounting): The services that the directory services provide to all the computers within a company or organization
 Abstraction: To take a relatively complex system and simplify it for our use
-Absolute path: It is one that starts from the main directory 
+Absolute path: It is one that starts from the main directory
 Access Control Entries: The individual access permissions per object that make up the ACL
 Access Control List (ACL): It is a way of defining permissions or authorizations for objects
 Accounting: Keeping records of what resources and services your users access or what they did when they were using your systems
@@ -11,13 +11,13 @@ ACI: Access Control Lists
 ACK flag: One of the TCP control flags. ACK is short for acknowledge. A value of one in this field means that the acknowledgment number field should be examined
 Acknowledgement number: The number of the next expected segment in a TCP sequence
 Activation threshold: Triggers a pre-configured action when it is reached and will typically block the identified attack traffic for a specific amount of time
-Active directory (AD): The Microsoft alternative to directory services that offers customization and added features for the Windows platform 
+Active directory (AD): The Microsoft alternative to directory services that offers customization and added features for the Windows platform
 Active directory users and computers (ADUC): The client tools that are used for accessing and administering a directory server
 Address bus: Connects the CPU to the MCC and sends over the location of the data, but not the data itself
 Address class system: A system which defines how the global IP address space is split up
 Address Resolution Protocol (ARP): A protocol used to discover the hardware address of a node with a certain IP address
 Ad-Hoc network: A network configuration without supporting network infrastructure. Every device involved with the ad-hoc network communicates with every other device within range, and all nodes help pass along messages
-Administrator: A user that has complete control over a machine 
+Administrator: A user that has complete control over a machine
 Advanced Encryption Standard (AES): The first and only public cipher that's approved for use with top secret information by the United States National Security Agency
 Advanced group policy management (AGPM): A set of add-on tools from Microsoft that gives some added provision control abilities in GPMC
 Adware: Software that displays advertisements and collects data
@@ -65,14 +65,14 @@ Backup and restore: A Microsoft offer and first party solution that has modes of
 Backward compatible: It means older hardware works with newer hardware
 Baiting: An attack that happens through actual physical contact, enticing a victim to do something
 Bash: The language used to interact with the shell
-Bastion hosts or networks: A server used to provide access to a private network from an external network 
+Bastion hosts or networks: A server used to provide access to a private network from an external network
 Baud rate: A measurement of how many bits could be passed across a phone line in a second
 Binary system: The communication that a computer uses is referred to as binary system, also known as base-2 numeral system
 Binary whitelisting software: It's a list of known good and trusted software and only things that are on the list are permitted to run
 Bind: It is how clients authenticate to the server
 Bind operation: The operation which authenticates clients to the directory server
-Biometric authentication: Authentication that uses Biometric data 
-Biometric data: A way of protecting your accounts and information using biometric data such as facial recognition and fingerprint 
+Biometric authentication: Authentication that uses Biometric data
+Biometric data: A way of protecting your accounts and information using biometric data such as facial recognition and fingerprint
 BIOS/UEFI: A low-level software that initializes our computer's hardware to make sure everything is good to go
 Bios (Basic Input Output Services): The BIOS is software that helps initialize the hardware in our computer and gets our operating system up and running
 Bit: The smallest representation of data that a computer can understand
@@ -98,13 +98,13 @@ Cable modem: A device that sits at the edge of a consumer's network and connects
 Cable modem termination system: Connects lots of different cable connections to an ISP's core network
 Cables: Insulated wires that connect different devices to each other allowing data to be transmitted over them
 Cache: The assigned stored location for recently or frequently accessed data; on a mobile app it is where anything that was changed or created with that app is stored
-Cache: The assigned stored location for recently or frequently accessed data; on a mobile app it is where anything that was changed or created with that app is stored 
+Cache: The assigned stored location for recently or frequently accessed data; on a mobile app it is where anything that was changed or created with that app is stored
 Caching and recursive name servers: They are generally provided by an ISP or your local network, and their purpose is to store domain name lookups for a certain amount of time
 Caesar cipher: A substitution alphabet, where you replace characters in the alphabet with others usually by shifting or rotating the alphabet, a set of numbers or characters
 Carrier-Sense Multiple Access with Collision Detection (CSMA/CD): CSMA/CD is used to determine when the communications channels are clear and when the device is free to transmit data
 CBC-MAC (Cipher block chaining message authentication codes): A mechanism for building MACs using block ciphers
 CCMP (counter mode CBC-MAC protocol): A mode of operation for block ciphers that allows for authenticated encryption
-Centralized logging: Parsing logs in one central location 
+Centralized logging: Parsing logs in one central location
 Central management: A central service that provides instructions to all of the different parts of my IT infrastructure
 Central repository: It is needed to securely store and index keys and a certificate management system of some sort makes managing access to storage certificates and issuance of certificates easier
 Certificate-based authentication: It is the most secure option, but it requires more support and management overhead since every client must have a certificate
@@ -143,7 +143,7 @@ Coding: Translating one language to another
 Collision domain: A network segment where only one device can communicate at a time
 Command line: A text interface program for a computer that inputs text commands and translates them to the operating system
 Command Line Interface (CLI): A shell that uses text commands to interact with the operating system
-Command line mode: When you are able to run commands while still in your current shell 
+Command line mode: When you are able to run commands while still in your current shell
 Compiled programming language: A language that uses human readable instructions, then sends them through a compiler
 Computer: A device that stores and processes data by performing calculations
 Computer configuration: Contained within a Group Policy Object (GPO)
@@ -200,7 +200,7 @@ Demarcation point: Where one network or system ends and another one begins
 Demultiplexing: Taking traffic that's all aimed at the same node and delivering it to the proper receiving service
 Denial-of-Service (DoS) attack: An attack that tries to prevent access to a service for legitimate users by overwhelming the network or server
 Deployment: Hardware is set up so that the employee can do their job
-DES (Data Encryption Standard): One of the earliest encryption standards 
+DES (Data Encryption Standard): One of the earliest encryption standards
 Desktop: The main screen where we can navigate our files, folders, and applications
 Destination MAC address: The hardware address of the intended recipient that immediately follows the start frame delimiter
 Destination network: The column in a routing table that contains a row for each network that the router knows about
@@ -216,18 +216,18 @@ Dictionary attack: A type of password attack that tries out words that are commo
 Differential backup: A backup of files that are changed, or has been created since the last full backup
 Digital divide: The growing skills gap between people with and without digital literacy skills
 DIMM: Dual Inline Memory Module
-Directory Access Protocol (DAP): A protocol that is included in the X.500 directory standard from 1988 
+Directory Access Protocol (DAP): A protocol that is included in the X.500 directory standard from 1988
 Directory Information Shadow Protocol (DISP): A protocol that is included in the X.500 directory standard from 1988
 Directory Operational Bindings Protocol (DOBMP): A protocol that is included in the X.500 directory standard from 1988
 Directory server: The server that contains a lookup service that provides mapping between network resources and their network addresses
 Directory services: A lookup service contained in a network server that provides mapping between network resources and their network addresses
 Directory System Protocol (DSP): A protocol that is included in the X.500 directory standard from 1988
-Disaster recovery plan: A collection of documented procedures and plans on how to react and handle an emergency or disaster scenario, from the operational perspective 
+Disaster recovery plan: A collection of documented procedures and plans on how to react and handle an emergency or disaster scenario, from the operational perspective
 Disaster recovery testing: A regular exercise that happens once a year or so, that has different teams, including IT support specialists, going through simulations of disaster events
 Disk Management utility: Native tool for Windows that helps with managing disk space
 Disk to disk cloning: A type of cloning that happens when you connect an external hard drive to the machine you want to clone
 Display port: Port which also outputs audio and video
-Distinguished name (DN): A unique identifier for each entry in the directory 
+Distinguished name (DN): A unique identifier for each entry in the directory
 Distributed Denial-of-Service (DDoS) attack: A DoS attack using multiple systems
 Distribution: A version of the operating system
 Distribution group: A group that is only designed to group accounts and contacts for email communication
@@ -256,7 +256,7 @@ DVI: DVI cables generally just output video
 Dynamic allocation: A range of IP addresses is set aside for client devices and one of these IPs is issued to these devices when they request one
 Dynamic ARP inspection (DAI): A feature on enterprise switches that prevents certain types of attacks
 Dynamic IP address: An IP address assigned automatically to a new device through a technology known as Dynamic Host Configuration Protocol
-Dynamic-link libraries: Programs that want to use functionality that the code provides can tap into it if they need to (shared libraries) 
+Dynamic-link libraries: Programs that want to use functionality that the code provides can tap into it if they need to (shared libraries)
 .exe: A file extension found in Windows for an executable file
 EAP-TLS: One of the more common and secure EAP methods
 ECDH & ECDSA: Elliptic curve variants of Diffie-Hellman and DSA, respectively
@@ -282,7 +282,7 @@ Ethernet: The protocol most widely used to send data across individual links
 Ethernet cable: It lets you physically connect to the network through a cable
 Ethernet frame: A highly structured collection of information presented in a specific order
 EtherType field: It follows the Source MAC Address in a dataframe. It's 16 bits long and used to describe the protocol of the contents of the frame
-Event Viewer: A place where all events that have been logged are stored 
+Event Viewer: A place where all events that have been logged are stored
 Evil twin: The premise of an evil twin attack is for you to connect to a network that is identical to yours but that is controlled by an attacker. Once connected to it, they will be able to monitor your traffic
 Executable file: A file containing instructions for a computer to execute when they’re run
 Expansion slots: Give us the ability to increase the functionality of our computer
@@ -290,7 +290,7 @@ Exploit: Software that is used to take advantage of a security bug or vulnerabil
 Extensible authentication protocol (EAP over LAN, or EAPOL): A standard authentication protocol
 Exterior gateway: Protocols that are used for the exchange of information between independent autonomous systems
 External Data Bus (EDB): It's a row of wires that interconnect the parts of our computer
-Factory reset: Resetting a device to the settings it came with from the factory 
+Factory reset: Resetting a device to the settings it came with from the factory
 Fail to ban: A common open source flood guard protection tool
 Fast logon optimization: The group policy engine that applies policy settings to a local machine may sacrifice the immediate application of some types of policies in order to make logon faster
 Fiber optic cable: Fiber optic cables contain individual optical fibers which are tiny tubes made of glass about the width of a human hair. Unlike copper, which uses electrical voltages, fiber cables use pulses of light to represent the ones and zeros of the underlying data
@@ -301,9 +301,9 @@ File handling: A process of storing data using a program
 File permissions: A process for setting permissions for who has access to certain files
 File record number: The index of the files entry in the MFT
 File storage service: Allows to centrally store files and manage access between files and groups
-File system: A system used to manage files 
+File system: A system used to manage files
 FIN_WAIT: A TCP socket state indicating that a FIN has been sent, but the corresponding ACK from the other end hasn't been received yet
-FIN: One of the TCP control flags. FIN is short for finish. When this flag is set to one, it means the transmitting computer doesn't have any more data to send and the connection can be closed 
+FIN: One of the TCP control flags. FIN is short for finish. When this flag is set to one, it means the transmitting computer doesn't have any more data to send and the connection can be closed
 Finder: The file manager for all Macs
 FIPS (Federal Information Processing Standard): The DES that was adopted as a federal standard for encrypting and securing government data
 Firewall: It is a device that blocks or allows traffic based on established rules
@@ -360,7 +360,7 @@ Hardware ID: A special string of characters assigned to hardware
 Hardware resource deficiency: It refers to the lack of system resources like memory, hard drive space, et cetera
 Hash collisions: Two different inputs mapping to the same output
 Hashing (Hash function): A type of function or operation that takes in an arbitrary data input and maps it to an output of a fixed size, called a hash or a digest
-Having dependencies: A process of counting on other pieces of software to make an application work since one bit of code depends on another in order to work 
+Having dependencies: A process of counting on other pieces of software to make an application work since one bit of code depends on another in order to work
 HDD (Hard disk drive): Hard disk drives, or HDDs, use a spinning platter and a mechanical arm to read and write information
 HDMI: A type of cable that outputs both video and audio
 HDSL: High Bit-rate Digital Subscriber Lines. These are DSL technologies that provision speeds above 1.544 megabits per second
@@ -395,13 +395,13 @@ ICMP payload: Piece of the packet which lets the recipient of the message knows 
 Identification: The idea of describing an entity uniquely
 Identification field: It is a 16-bit number that's used to group messages together
 Impact: The impact of an incident is also an important issue to consider
-Implicit deny: A network security concept where anything not explicitly permitted or allowed should be denied 
+Implicit deny: A network security concept where anything not explicitly permitted or allowed should be denied
 Import: Moving a backup of the test example policy to the production example policy
 Information technology: The use of digital technology, like computers and the internet, to store and process data into useful information
 Infrastructure as a Service (IaaS): A subset of cloud computing where a network and servers are provided for customers to run their services
 Inherit only: A permission group that means that a DACL will be inherited, but not applied to a container
 Injection attacks: A common security exploit that can occur in software development and runs rampant on the web, where an attacker injects malicious code
-Inode: A file structure for metadata and files 
+Inode: A file structure for metadata and files
 Input/Output device: A device that performs input and output, including monitors, keyboards, mice, hard disk drives, speakers, bluetooth headsets, webcams, and network adapters
 Install image: A downloadable operating system image used to install an operating system on a device
 Installing from source: A process of installing from a source
@@ -412,7 +412,7 @@ Interactive mode: When the parted tool launches you into a separate program
 Interface: For a router, the port where a router connects to a network. A router gives and receives data through its interfaces. These are also used as part of the routing table
 Interior gateway: Interior gateway protocols are used by routers to share information within a single autonomous system
 Intermediary (subordinate) CA: It means that the entity that this certificate was issued to can now sign other certificates
-Internet: A worldwide system of interconnected networks 
+Internet: A worldwide system of interconnected networks
 Internet Corporation for Assigned Names and Numbers (ICANN): Where website names are registered
 Internet of Things (IoT): The concept that more and more devices are connected to the internet in a smarter fashion such as smart thermostats that turn off the air conditioner when you leave and turn it on when you come back
 Internet Protocol (IP): The most common protocol used in the network layer
@@ -424,7 +424,7 @@ Internetwork: A collection of networks connected together through routers - the 
 Interpreted programming language: A language that isn't compiled ahead of time
 Intranet: An internal network inside a company, accessible if you are on a company’s network
 Intrusion detection and intrusion protection systems (IDS/IPS): Operates by monitoring network traffic and analyzing it
-iOS: A mobile operating system developed by Apple Inc. 
+iOS: A mobile operating system developed by Apple Inc.
 IP address: The most common protocol used in the network layer, used to helps us route information
 IP datagram: A highly structured series of fields that are strictly defined
 IP masquerading: The NAT obscures the sender's IP address from the receiver
@@ -454,7 +454,7 @@ LDAP data interchange format: The tool that allows you to authenticate, add, rem
 LDAP Entry: A collection of information that's used to describe something
 LDIF files: A text file that lists attributes and values that describe something
 Library: A way to package a bunch of useful code that someone else wrote
-Lightning adaptor: One of the standard power, data and display connector types used in mobile devices 
+Lightning adaptor: One of the standard power, data and display connector types used in mobile devices
 Lightweight Directory Access Protocol (LDAP): An open industry-standard protocol for accessing and maintaining directory services; the most popular open-source alternative to the DAP
 Lightweight Directory Access Protocol (LDAP): An open industry-standard protocol for accessing and maintaining directory services; the most popular open-source alternative to the DAP
 Line coding: Modulation used for computer networks
@@ -465,13 +465,13 @@ Listen: It means that a TCP socket is ready and listening for incoming connectio
 List folder contents: A command that will execute and list folder contents and is an alias for Read and Execute
 Load balancer: Ensures that each VM receives a balanced number of queries
 Local Area Network (LAN): A single network in which multiple devices are connected
-Logging: The act of creating log events 
+Logging: The act of creating log events
 Logic bomb: A type of Malware that's intentionally installed
 Logic gates: Allow transistors to do more complex tasks, like decide where to send electrical signals depending on logical conditions
 Log rotation: A way for the OS to clean out log files to make room for new ones
 Logs: Files that record system events on our computer
-Logs: Files that record system events on our computer 
-Logs analysis systems: They are configured using user-defined rules to match interesting or atypical log entries 
+Logs: Files that record system events on our computer
+Logs analysis systems: They are configured using user-defined rules to match interesting or atypical log entries
 Loopback address: An IP address that always points to itself. This type of address is used to test internal pathing through the TCP/IP protocols
 MAC(Media Access Control) address: A globally unique identifier attached to an individual network interface. It's a 48-bit number normally represented by six groupings of two hexadecimal numbers
 MAC address: A globally unique identifier attached to an individual network interface. It's a 48-bit number normally represented by six groupings of two hexadecimal numbers
@@ -480,7 +480,7 @@ Mac OS: Apple's operating system
 MACs (Message Authentication Codes): A bit of information that allows authentication of a received message, ensuring that the message came from the alleged sender and not a third party masquerading as them
 Maintenance: Where software is updated and hardware issues are fixed if, and when, they occur
 Malware: A type of malicious software that can be used to obtain your sensitive information or delete or modify files
-Manifest: A library used if an application needs to use a shared library 
+Manifest: A library used if an application needs to use a shared library
 Master boot record (MBR): a traditional partition table within a storage disk that lets you have volume sizes of 2 terabytes or less and is mostly used in the Windows OS
 Master file table (MFT): A way NTFS stores and represents the files you’re working with on your operating system
 Mb/s: megabit per second, which is a unit of data transfer rate
@@ -490,23 +490,23 @@ MDM profile: The policies that contains settings for the device
 Meddler in the middle (formerly known as Man in the Middle): An attack that places the attacker in the middle of two hosts that think they're communicating directly with each other
 Memory controller chip (MCC): A bridge between the CPU and the RAM
 Memory management: One of the functions that a kernel performs; it optimizes memory usage and make sure our applications have enough memory to run
-Memory manager: A Windows OS program that helps manage virtual memory 
+Memory manager: A Windows OS program that helps manage virtual memory
 Memory usage: The amount of memory available in your system as well as what memory is currently being used by other applications
 Mesh networks: Like ad-hoc networks, lots of devices communicate with each other device, forming a mesh if you were to draw lines for all the links between all the nodes
 Metadata: Tells us everything we need to know about a file, including who created it, when it was last modified, who has access to it, and what type of file it is
 Metadata: Tells us everything we need to know about a file, including who created it, when it was last modified, who has access to it, and what type of file it is.
 Metered connection: An internet connection where all data transfer usage is tracked. Cell phone plans that have a limit on data usage per month or that charge based on usage are examples of metered connections
 MIC (Message Integrity Check): It is essentially a hash digest of the message in question
-Micro display port: One of the standard power, data and display connector types used in mobile devices 
-Micro HDMI: One of the standard power, data and display connector types used in mobile devices 
+Micro display port: One of the standard power, data and display connector types used in mobile devices
+Micro HDMI: One of the standard power, data and display connector types used in mobile devices
 Microsoft Install Package(.msi) and MSI files: Microsoft Install Package is a file extension used to guide a program called Windows Installer in the installation, maintenance, and removal of programs of the windows operating systems. MSI files are a combination of of databases that contain installation instructions in different tables along with all the files
 Microsoft Terminal Services Client: A client program used to create RDP connections to remote computers
-Micro USB: One of the standard power, data and display connector types used in mobile devices 
-Mini HDMI: One of the standard power, data and display connector types used in mobile devices 
-Mini USB: One of the standard power, data and display connector types used in mobile devices 
-Mobile applications: Software that is distributed on mobile OS devices 
+Micro USB: One of the standard power, data and display connector types used in mobile devices
+Mini HDMI: One of the standard power, data and display connector types used in mobile devices
+Mini USB: One of the standard power, data and display connector types used in mobile devices
+Mobile applications: Software that is distributed on mobile OS devices
 Mobile device management: A system used to apply and enforce rules about how the device has to be configured and used
-Modify: An umbrella permission that includes read and execute and write 
+Modify: An umbrella permission that includes read and execute and write
 Modulation: A way of varying the voltage of a constant electrical charge moving across a standard copper network cable
 Monitor mode: It allows to scan across channels to see all wireless traffic being sent by APs and clients
 Motherboard: The body or circulatory system of the computer that connects all the pieces together
@@ -524,7 +524,7 @@ Network Address Translation (NAT): A mitigation tool that lets organizations use
 Network Address Translation (NAT): A mitigation tool that lets organizations use one public IP address and many private IP addresses within the network
 Network file system: A protocol that enables files to be shared over a network
 Network hardening: Is the process of securing a network by reducing its potential vulnerabilities through configuration changes, and taking specific steps
-Networking: Managing, building and designing networks 
+Networking: Managing, building and designing networks
 Networking protocols: A set of rules for how we transfer data in a network
 Network layer: It's the layer that allows different networks to communicate with each other through devices known as routers. It is responsible for getting data delivered across a collection of networks
 Network port: The physical connector to be able to connect a device to the network. This may be attached directly to a device on a computer network, or could also be located on a wall or on a patch panel
@@ -535,9 +535,9 @@ Network switch: It is a level 2 or data link device that can connect to many dev
 Network time protocol (NTP): A network protocol used to synchronize the time between the authenticator token and the authentication server
 Next header field: Defines what kind of header is immediately after this current one
 Next hop: The IP address of the next router that should receive data intended for the destination networking question or this could just state the network is directly connected and that there aren't any additional hops needed. Defined as part of the routing table
-NIST: National Institute of Standards and Technology 
+NIST: National Institute of Standards and Technology
 Node: Any device connected to a network. On most networks, each node will typically act as a server or a client
-Non-metered connection: A connection where your data usage is not tracked or limited, instead you are charged a flat fee for unlimited and unrestricted usage. A Wi-Fi connection is an example of a non-metered connection 
+Non-metered connection: A connection where your data usage is not tracked or limited, instead you are charged a flat fee for unlimited and unrestricted usage. A Wi-Fi connection is an example of a non-metered connection
 Non-routable address space: They are ranges of IPs set aside for use by anyone that cannot be routed to
 Normalization: It's the process of taking log data in different formats and converting it into a standardized format that's consistent with a defined log structure
 Northbridge: interconnects stuff like RAM and video cards
@@ -549,7 +549,7 @@ OAuth: An open standard that allows users to grant third-party websites and appl
 Octet: Any number that can be represented by 8 bits
 One-time password (OTP): A short-lived token, typically a number that's entered along with a username and password
 One-time password (OTP) tokens: Another very common method for handling multifactor
-One-way cryptographic hash: The method used by AD to store passwords 
+One-way cryptographic hash: The method used by AD to store passwords
 OpenID: An open standard that allows participating sites known as Relying Parties to allow authentication of users utilizing a third party authentication service
 OpenLDAP (lightweight directory access protocol): An open source and free directory service
 Open source: This means the developers will let other developers share, modify, and distribute their software for free
@@ -569,14 +569,14 @@ Packet sniffing (packet capture): the process of intercepting network packets in
 Padding field: A series of zeros used to ensure the header is the correct total size
 Pairing: When a wireless peripheral connects to a mobile device, and the two devices exchange information, sometimes including a PIN or password, so that they can remember each other
 Pairwise Transient Key (PTK): It is generated using the PMK, AP nonce, Client nonce, AP MAC address, and Client MAC address
-Parameter: A value that is associated with a command 
+Parameter: A value that is associated with a command
 Parent directory & child directories: A parent directory is a directory that houses all subsequent child directories
 Parent group: Groups that are principal groups and contain other groups
 Partition: A logical division of a hard disk that is treated as a separate unit by operating systems and file systems
 Partition table: How the disk is partitioned on an OS
 Password attacks: Utilize software like password crackers that try and guess your password
 Password salt: Additional randomized data that's added into the hashing function to generate the hash that's unique to the password and salt combination
-Patch panel: A device containing many physical network ports 
+Patch panel: A device containing many physical network ports
 Paths: A main directory that branches off and holds other directories and files
 Payload: The actual data being transported, which is everything that isn't a header
 Payload length field: 16-bit field that defines how long the data payload section of the datagram is
@@ -588,10 +588,10 @@ PDA (Personal Digital Assistant): Allows computing to go mobile
 Penetration testing: The practice of attempting to break into a system or network to verify the systems in place
 Peripherals: the external devices which we connect to our computer that add functionality, like: a mouse, a keyboard, and a monitor
 Permission denied: An error message you might find when accessing a protected file
-Personal package archives: A software repository for uploading source packages to be built and published 
+Personal package archives: A software repository for uploading source packages to be built and published
 PGP (Pretty Good Privacy) encryption: An encryption application that allows authentication of data along with privacy from third parties relying upon asymmetric encryption to achieve this
 Phishing attack: It usually occurs when a malicious email is sent to a victim disguised as something legitimate
-PHPLDAPadmin: A tool to manage OpenLDAP 
+PHPLDAPadmin: A tool to manage OpenLDAP
 Physical layer: It represents the physical devices that interconnect computers
 Physical tokens: They take a few different forms, such as a USB device with a secret token on it, a standalone device which generates a token, or even a simple key used with a traditional lock
 PIN authentication method: It uses PINs that are eight-digits long, but the last digit is a checksum that's computed from the first seven digits
@@ -627,11 +627,11 @@ Principle of least privilege: Helps to ensure that sensitive data is only access
 Privacy policies: Oversees the access and use of sensitive data
 Private cloud: When a company owns the services and the rest of the cloud infrastructure, whether on-site or in a remote data center
 Private cloud: When a company owns the services and the rest of the cloud infrastructure, whether on-site or in a remote data center
-Processes: Help the computer run programs 
+Processes: Help the computer run programs
 Process Explorer: A utility Microsoft created to let IT support specialists and system administrators look at running processes
 Process ID: Unique identifier for processes on your computer
 Process management: The capacity to manage the many programs in a system - when to run them, the order they run in, how many resources they take up, how long they run, et cetera
-Process monitoring: A way of monitoring what processes are happening during installation 
+Process monitoring: A way of monitoring what processes are happening during installation
 Process scheduler: The part of the kernel that makes multitasking possible
 Procurement: Hardware is purchased or reused for an employee
 Production: The parts of the infrastructure where certain services are executed and serve to its users production
@@ -655,7 +655,7 @@ Public key authentication: A key pair is generated by the user who wants to auth
 Public key signatures: Digital signature generated by composing the message and combining it with the private key
 Punch cards: A sequence of cards with holes in them to automatically perform calculations instead of manually entering them by hand
 Quad A (AAAA) record: It is very similar to an A record except that it returns in IPv6 address instead of an IPv4 address
-Qwiklabs: An online platform which provides training in cloud services 
+Qwiklabs: An online platform which provides training in cloud services
 RA (Registration Authority): It is responsible for verifying the identities of any entities requesting certificates to be signed and stored with the CA
 RAID (redundant array of independent disks): A method of taking multiple physical disks and combining them into one large virtual disk
 Rainbow table attacks: To trade computational power for disk space by pre-computing the hashes and storing them in a table
@@ -665,7 +665,7 @@ Random numbers: A very important concept in encryption because it avoids some ki
 Ransomware: A type of attack that holds your data or system hostage until you pay some sort of ransom
 RC4 (Rivest Cipher 4): Asymmetric stream cipher that gained widespread adoption because of its simplicity and speed
 Read and execute permission: Permissions that grant you access to read the file that exists and execute it if its runnable
-Read permission: Permissions that grant you access to read the file that exists 
+Read permission: Permissions that grant you access to read the file that exists
 Read-write replicas: Domain controllers in the Active Directory network that each have a complete copy of the AD database and are able to make changes to it
 Receiving address: The MAC address of the access point that should receive the frame
 Recoverability: How complicated and time-consuming the recovery effort will be
@@ -679,7 +679,7 @@ Reimaging: The process of reimaging involves wiping and reinstalling an operatin
 Relative path: It is a path from your current directory
 Remote attestation: The idea of a system authenticating its software and hardware configuration to a remote system
 Remote Authentication Dial-in User Service (RADIUS): A protocol that provides AAA services for users on a network
-Remote connection: The ability to connect an authorized person to a computer or network remotely; allows us to manage multiple machines from anywhere in the world 
+Remote connection: The ability to connect an authorized person to a computer or network remotely; allows us to manage multiple machines from anywhere in the world
 Remote Desktop Protocol (RDP): A secure network communication protocol developed by Microsoft that allows a user to connect to another device remotely
 Remote wipe: A factory reset that you can trigger from your central MDM rather than having to do it in person on the device
 Replication: the store directory data is copied and distributed across a number of physically distributed servers but still appears as one unified data store for querying and administering
@@ -689,14 +689,14 @@ Reproduction case: Recreating an error to test a solution to make sure the probl
 Reset: When an SysAdmin restores or resets the password of a user
 Resource monitoring: The most common way to quickly take a peek at how system resources are doing
 Restart: A command that will let the machine reboot to complete a domain join
-Restoration procedures: A recovery process and process needs to be tested regularly that is documented and accessible so that anyone with the right access can restore operation when needed 
+Restoration procedures: A recovery process and process needs to be tested regularly that is documented and accessible so that anyone with the right access can restore operation when needed
 Resultant set of policy (RSOP): The policy that forms when all of the group policies have been grouped together for a specific machine and apply precedence rules to them
 Retirement: Hardware becomes unusable or no longer needed, and it needs to be properly removed from the fleet
 Return merchandise authorization (RMA): The process of receiving returned merchandise and authorizing a refund
 Reverse lookup zone files: They let DNS resolvers ask for an IP, and get the FQDN associated with it returned
 Reverse proxy: A service that might appear to be a single server to external clients, but actually represents many servers living behind it
 Reverse proxy: A service that might appear to be a single server to external clients, but actually represents many servers living behind it
-RGB model: Red, green, and blue is the basic model of representing colors 
+RGB model: Red, green, and blue is the basic model of representing colors
 Risk: The possibility of suffering a loss in the event of an attack on the system
 Risk assessment: Allows you to prioritize certain aspects of the organization that are more at risk if there’s an unforeseen event
 Risk mitigation: Understanding the risks your systems face, take measures to reduce those risks, and monitor them
@@ -713,13 +713,13 @@ Root user: It is the first user that gets automatically created when we install 
 Round robin: It is a concept that involves iterating over a list of items one by one in an orderly fashion
 Router: A device that knows how to forward data between independent networks
 Router: A device that knows how to forward data between independent networks
-Routing protocols: Special protocols the routers use to speak to each other in order to share what information they might have 
+Routing protocols: Special protocols the routers use to speak to each other in order to share what information they might have
 RPM: Revolutions per minute
 RSA: One of the first practical asymmetric cryptography systems to be developed, named for the initials of the three co-inventors: Ron Rivest, Adi Shamir and Leonard Adleman
 RSOP report: The process of troubleshooting group policy and comparing what you expect to be applied to a computer and the resultant set of policy report
 RST flag: One of the TCP control flags. RST is short for reset. This flag means that one of the sides in a TCP connection hasn't been able to properly recover from a series of missing or malformed segments
 SACL's: System Access Control List
-Safe operating temperature: The temperature range in which rechargeable batteries must be kept in order to avoid demanage 
+Safe operating temperature: The temperature range in which rechargeable batteries must be kept in order to avoid demanage
 SATA: The most popular serial ATA drive, which uses one cable for data transfers
 Scalability: The measure of a system’s ability to increase or decrease in performance and cost in response to varying loads in system processing demands
 Screen lock: A security feature that helps prevent unwanted access by creating an action you have to do to gain entry
@@ -731,7 +731,7 @@ SDRAM: It stands for Synchronous DRAM, this type of RAM is synchronized to our s
 Secondary or stand-by machine: A machine that is the same as a production machine, but won't receive any traffic from actual users until enabled
 Secure boot protocol: It uses public key cryptography to secure the encrypted elements of the boot process
 Secure channel: It is provided by IPsec, which provides confidentiality, integrity, and authentication of data being passed
-Secure copy: A command you can use in Linux to copy files between computers on a network 
+Secure copy: A command you can use in Linux to copy files between computers on a network
 Secure element: It's a tamper resistant chip often embedded in the microprocessor or integrated into the mainboard of a mobile device
 Secure Shell (SSH): A secure network protocol that uses encryption to allow access to a network service over unsecured networks
 Security: It's all about determining risks or exposure understanding the likelihood of attacks; and designing defenses around these risks to minimize the impact of an attack
@@ -763,7 +763,7 @@ Session manager subsystem: Process that is in charge of setting some stuff up to
 Severity: Includes factors like what and how many systems were compromised and how the breach affects business functions
 SHA1: It is part of the secure hash algorithm suite of functions, designed by the NSA and published in 1995
 Shannon's maxim: It states that the system should remain secure, even if your adversary knows exactly what kind of encryption systems you're employing, as long as your keys remain secure
-Shared folders: A way to share files between computers on the same network on Windows 
+Shared folders: A way to share files between computers on the same network on Windows
 Shell: A program that interprets text commands and sends them to the OS to execute
 Shortcut: An entry in the MFT that has a reference to some destination, so that when you open it up, you get taken to that destination
 Short-range wireless network: It is what mobile devices uses to connect to their peripherals
@@ -812,7 +812,7 @@ StartTLS: It permits a client to communicate using LDAP v3 over TLS
 Static IP address: An IP address that must be manually configured on a node
 Steganography: The practice of hiding information from observers, but not encoding it
 Stream ciphers: It takes a stream of input and encrypts the stream one character or one digit at a time, outputting one encrypted character or digit at a time
-Subdirectories: A directory below or at a deeper level in the directory hierarchy 
+Subdirectories: A directory below or at a deeper level in the directory hierarchy
 Subject: This field contains identifying information about the entity the certificate was issued to
 Subject Public Key Info: These two subfields define the algorithm of the public key along with the public key itself
 Subnet mask: 32-bit numbers that are normally written as four octets of decimal numbers
@@ -828,20 +828,20 @@ SYN_RECEIVED: A TCP socket state that means that a socket previously in a listen
 SYN_SENT: A TCP socket state that means that a synchronization request has been sent, but the connection hasn't been established yet
 SYN flag: One of the TCP flags. SYN stands for synchronize. This flag is used when first establishing a TCP connection and make sure the receiving end knows to examine the sequence number field
 SYN flood: The server is bombarded with SYN packets
-Sysinternals package: A set of tools released by Microsoft that can help you troubleshoot 
+Sysinternals package: A set of tools released by Microsoft that can help you troubleshoot
 System: A group of hardware components and software components that work together to fun the programs or processes in the computer
 System Administration: The field in IT that is responsible for maintaining reliable computer systems, in a Multi-user environment
 System properties: A control panel applet that allows you to edit the size and number and location of paging files
 Systems administrator (sysadmin): A person who works only in system administration, configuring servers, monitoring the network, provisioning, or setting up new users in computers and taking responsibility of systems
 System settings: Settings like display resolution, user accounts, network, devices, etc
 System software: Software used to keep our core system running, like operating system tools and utilities
-Tab completion: A way to auto-complete a command or file names and directories 
+Tab completion: A way to auto-complete a command or file names and directories
 TACACS+: It is a device access AAA system that manages who has access to your network devices and what they do on them
 Tailgating: Gaining access into a restricted area or building by following a real employee in
 Task bar: It gives us quick options and shows us information like network connectivity, the date, system notifications, sound etc
-Task Manager: A Windows utility that allows you to gain information about what tasks you have running in the background 
+Task Manager: A Windows utility that allows you to gain information about what tasks you have running in the background
 T-Carrier technologies: Technologies Invented to transmit multiple phone calls over a single link. Eventually, they also became common transmission systems to transfer data much faster than any dial-up connection could handle
-TCP checksum: A mechanism that makes sure that no data is lost or corrupted during a transfer 
+TCP checksum: A mechanism that makes sure that no data is lost or corrupted during a transfer
 Tcpdump: It's a super popular, lightweight command-line based utility that you can use to capture and analyze packets
 TCP segment: A payload section of an IP datagram made up of a TCP header and a data section
 TCP window: The range of sequence numbers that might be sent before an acknowledgement is required
@@ -858,10 +858,10 @@ Time-To-Live field (TTL): An 8-bit field that indicates how many router hops a d
 TKIP (Temporal Key Integrity Protocol): To address the shortcomings of WEP security
 TLS 1.2: The current recommended revision of SSL
 TLS 1.2 with AES GCM: A specific mode of operation for the AES block cipher that essentially turns it into a stream cipher
-TLS Handshake: A mechanism to initially establish a channel for an application to communicate with a service 
+TLS Handshake: A mechanism to initially establish a channel for an application to communicate with a service
 Top Level Domain (TLD): The top level of the DNS or the last part of a domain name. For example, the “com” in www.weather.com
 Total hops: The total number of devices data passes through to get from its source to its destination. Routers try to choose the shortest path, so fewest hops possible. The routing table is used to keep track of this
-Total length field: A 16-bit field that indicates the total length of the IP datagram it's attached to 
+Total length field: A 16-bit field that indicates the total length of the IP datagram it's attached to
 TPM (Trusted Platform Module): This is a hardware device that's typically integrated into the hardware of a computer, that's a dedicated crypto processor
 Traffic class field: An 8-bit field that defines the type of traffic contained within the IP datagram and allows for different classes of traffic to receive different priorities
 Transfer Control Protocol (TCP): A protocol that handles reliable delivery of information from one network to another
@@ -892,7 +892,7 @@ Unix epoch: It is the number of seconds since midnight on January first, 1970. I
 Urgent pointer field: A field used in conjunction with one of the TCP control flags to point out particular segments that might be more important than others
 URG flag: One of the TCP control flags. URG is short for urgent. A value of one here indicates that the segment is considered urgent and that the urgent pointer field has more data about this
 USB (Universal Serial Bus): A connection standard for connecting peripherals to devices such as computers
-USB-C adapter: One of the standard power, data and display connector types used in mobile devices 
+USB-C adapter: One of the standard power, data and display connector types used in mobile devices
 User configuration: Contained within a Group Policy Object (GPO)
 User Datagram Protocol (UDP): A transfer protocol that does not rely on connections. This protocol does not support the concept of an acknowledgement. With UDP, you just set a destination port and send the data packet
 User Groups: The management of resources on a computer and on a network through organizing user accounts into various groups
@@ -902,7 +902,7 @@ User space: The aspect of an operating system that humans interact with directly
 UTF-8: The most prevalent encoding standard used today
 UUID: Universally Unique ID
 Validity: This field contains two subfields, Not Before and Not After, which define the dates when the certificate is valid for
-Variable: Files that constantly change 
+Variable: Files that constantly change
 Vendor risk review: Questionnaire that covers different aspects of their security policies procedures and defenses
 Version: What version of the X.509 standard certificate adheres to
 Version field: First field in an IP header that specifies the version of IP
@@ -914,7 +914,7 @@ Virtual machine (VM): An application that uses physical resources like memory, C
 Virtual memory: A combination of hard drive space and RAM that acts like memory which our processes can use
 Viruses: The best known type of malware
 VLAN header: A piece of data that indicates what the frame itself is. In a data packet it is followed by the EtherType
-Volume: A format for a filesystem on a partition 
+Volume: A format for a filesystem on a partition
 VPN (Virtual Private Network): A secure method of connecting a device to a private network over the internet
 Vulnerability: A flaw in the system that could be exploited to compromise the system
 Vulnerability scanner: Detect lots of things, ranging from misconfigured services that represent potential risks, to detecting the presence of back doors and systems
@@ -928,7 +928,7 @@ Wildcard: A character that is used to help select files based on a certain patte
 Windows domain: A network of computers and users that are added to a central database
 Windows management instrumentation (WMI): The container that is used to define powerful targeting rules for your GPO
 Windows registry: A hierarchical database of settings that Windows, and Windows applications, use for storing configuration data
-Windows Search service: A service that indexes files on your computer by looking through them on a schedule 
+Windows Search service: A service that indexes files on your computer by looking through them on a schedule
 Windows store: A Windows store is an application repository or warehouse where you can download and instal universal Windows platform apps
 Windows update client service: System that runs in the background on your computer to download and install updates and patches for your operating system
 Wired Equivalence Privacy (WEP): An encryption technology that provides a very low level of privacy. WEP should really only be seen as being as safe as sending unencrypted data over a wired connection
@@ -945,7 +945,7 @@ WPA2 Enterprise: It's an 802.1x authentication to Wi-Fi networks
 WPS (Wifi Protected Setup): It's a convenience feature designed to make it easier for clients to join a WPA-PSK protected network
 Write permission: A permission that allows you to make changes to a file
 X.500 directory: The agreed upon directory standard that wa approved in 1988 that includes, DAP, DSP, DISP, DOP, DAP, and LDAP
-X.509 standard: It is what defines the format of digital certificates, as well as a certificate revocation list or CRL 
+X.509 standard: It is what defines the format of digital certificates, as well as a certificate revocation list or CRL
 XTACACS: It stands for Extended TACACS, which was a Cisco proprietary extension on top of TACACS
 Zone Files: Simple configuration files that declare all resource records for a particular zone
 0-Day Vulnerability (Zero Day): A vulnerability that is not known to the software developer or vendor, but is known to an attacker
