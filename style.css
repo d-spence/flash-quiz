@@ -45,10 +45,6 @@ h1 {
   transform:rotateY(0deg);
 }
 
-.card:hover {
-  /* transform: scale(1.05); */
-}
-
 .card.flipped {
   animation: 1s linear forwards flipCard;
 }
@@ -59,6 +55,18 @@ h1 {
   width: 100%;
   height: 1px;
   top: 40px;
+}
+
+#card-heading {
+  position: absolute;
+  display: flex;
+  justify-content: center;
+  width: 500px;
+  top: 10px;
+}
+
+#card-heading.flipped {
+  animation: 1s linear forwards flipText;
 }
 
 #card-text {
@@ -81,7 +89,6 @@ h1 {
 .controls {
   display: flex;
   justify-content: center;
-  flex-grow: ;
   width: 100%;
 }
 

@@ -1,5 +1,6 @@
 const quizContainer = document.getElementById('quiz-container');
 const cardEl = document.getElementById('card');
+const cardHeadingEl = document.getElementById('card-heading');
 const cardTextEl = document.getElementById('card-text');
 const nextBtn = document.getElementById('next');
 const prevBtn = document.getElementById('prev');
@@ -13,29 +14,38 @@ let flipped = false;
 const fetchQuestions = async () => {
   const res = await fetch(questionsURL);
   questions = await res.json();
-  console.log(questions);
 
-  updateCard();
+  randomCard();
 }
 
 const updateCard = () => {
+  cardHeadingEl.innerText = `QUESTION #${cardIdx + 1}`;
   cardTextEl.innerText = questions[cardIdx].QUESTION;
+  flipped = false;
 }
 
 const flipCard = () => {
   if (flipped) {
-    setTimeout(() => cardTextEl.innerText = questions[cardIdx].QUESTION, 500);
+    setTimeout(() => {
+      cardHeadingEl.innerText = `QUESTION #${cardIdx + 1}`;
+      cardTextEl.innerText = questions[cardIdx].QUESTION;
+    }, 500);
     flipped = false;
   } else {
-    setTimeout(() => cardTextEl.innerText = questions[cardIdx].ANSWER, 500);
+    setTimeout(() => {
+      cardHeadingEl.innerText = "ANSWER";
+      cardTextEl.innerText = questions[cardIdx].ANSWER;
+    }, 500);
     flipped = true;
   }
 
   cardEl.classList.remove('flipped'); // reset animation
+  cardHeadingEl.classList.remove('flipped');
   cardTextEl.classList.remove('flipped');
   void cardEl.offsetWidth; // trigger reflow
   void cardTextEl.offsetWidth;
   cardEl.classList.add('flipped');
+  cardHeadingEl.classList.add('flipped');
   cardTextEl.classList.add('flipped');
 }
 
@@ -50,7 +60,7 @@ const nextCard = () => {
 }
 
 const prevCard = () => {
-  cardIdx += 1;
+  cardIdx -= 1;
 
   if (cardIdx < 0) {
     cardIdx = questions.length - 1;
