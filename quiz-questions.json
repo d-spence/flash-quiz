@@ -1,0 +1,3804 @@
+{
+  "Questions": [
+    {
+      "ANSWER": "404 Not Found",
+      "QUESTION": "An error message you might see on websites that have been moved or deleted"
+    },
+    {
+      "ANSWER": "802.1X",
+      "QUESTION": "It is the IEEE standard for encapsulating EAP or Extensible Authentication Protocol traffic over the 802 networks"
+    },
+    {
+      "ANSWER": "802.1X with EAP-TLS",
+      "QUESTION": "Offers arguably the best security available, assuming proper and secure handling of the PKI aspects of it"
+    },
+    {
+      "ANSWER": "AAA (authentication, authorization, accounting)",
+      "QUESTION": "The services that the directory services provide to all the computers within a company or organization"
+    },
+    {
+      "ANSWER": "Abstraction",
+      "QUESTION": "To take a relatively complex system and simplify it for our use"
+    },
+    {
+      "ANSWER": "Absolute path",
+      "QUESTION": "It is one that starts from the main directory"
+    },
+    {
+      "ANSWER": "Access Control Entries",
+      "QUESTION": "The individual access permissions per object that make up the ACL"
+    },
+    {
+      "ANSWER": "Access Control List (ACL)",
+      "QUESTION": "It is a way of defining permissions or authorizations for objects"
+    },
+    {
+      "ANSWER": "Accounting",
+      "QUESTION": "Keeping records of what resources and services your users access or what they did when they were using your systems"
+    },
+    {
+      "ANSWER": "ACI",
+      "QUESTION": "Access Control Lists"
+    },
+    {
+      "ANSWER": "ACK flag",
+      "QUESTION": "One of the TCP control flags. ACK is short for acknowledge. A value of one in this field means that the acknowledgment number field should be examined"
+    },
+    {
+      "ANSWER": "Acknowledgement number",
+      "QUESTION": "The number of the next expected segment in a TCP sequence"
+    },
+    {
+      "ANSWER": "Activation threshold",
+      "QUESTION": "Triggers a pre-configured action when it is reached and will typically block the identified attack traffic for a specific amount of time"
+    },
+    {
+      "ANSWER": "Active directory (AD)",
+      "QUESTION": "The Microsoft alternative to directory services that offers customization and added features for the Windows platform"
+    },
+    {
+      "ANSWER": "Active directory users and computers (ADUC)",
+      "QUESTION": "The client tools that are used for accessing and administering a directory server"
+    },
+    {
+      "ANSWER": "Address bus",
+      "QUESTION": "Connects the CPU to the MCC and sends over the location of the data, but not the data itself"
+    },
+    {
+      "ANSWER": "Address class system",
+      "QUESTION": "A system which defines how the global IP address space is split up"
+    },
+    {
+      "ANSWER": "Address Resolution Protocol (ARP)",
+      "QUESTION": "A protocol used to discover the hardware address of a node with a certain IP address"
+    },
+    {
+      "ANSWER": "Ad-Hoc network",
+      "QUESTION": "A network configuration without supporting network infrastructure. Every device involved with the ad-hoc network communicates with every other device within range, and all nodes help pass along messages"
+    },
+    {
+      "ANSWER": "Administrator",
+      "QUESTION": "A user that has complete control over a machine"
+    },
+    {
+      "ANSWER": "Advanced Encryption Standard (AES)",
+      "QUESTION": "The first and only public cipher that's approved for use with top secret information by the United States National Security Agency"
+    },
+    {
+      "ANSWER": "Advanced group policy management (AGPM)",
+      "QUESTION": "A set of add-on tools from Microsoft that gives some added provision control abilities in GPMC"
+    },
+    {
+      "ANSWER": "Adware",
+      "QUESTION": "Software that displays advertisements and collects data"
+    },
+    {
+      "ANSWER": "Algorithm",
+      "QUESTION": "A series of steps that solves specific problems"
+    },
+    {
+      "ANSWER": "Alias",
+      "QUESTION": "A nickname for common commands"
+    },
+    {
+      "ANSWER": "Analyzing logs",
+      "QUESTION": "The practice of collecting logs from different network and sometimes client devices on your network, then performing an automated analysis on them"
+    },
+    {
+      "ANSWER": "Android",
+      "QUESTION": "A mobile operating system based on Linux"
+    },
+    {
+      "ANSWER": "Antivirus software",
+      "QUESTION": "It monitors and analyze things like new files being created or being modified on the system in order to watch for any behavior that matches a known malware signature"
+    },
+    {
+      "ANSWER": "Anycast",
+      "QUESTION": "A technique that's used to route traffic to different destinations depending on factors like location, congestion, or link health"
+    },
+    {
+      "ANSWER": "Appending flags",
+      "QUESTION": "A way to add the data of the file without erasing existing data"
+    },
+    {
+      "ANSWER": "Application",
+      "QUESTION": "A computer program designed for a specific use"
+    },
+    {
+      "ANSWER": "Application layer",
+      "QUESTION": "The layer that allows network applications to communicate in a way they understand"
+    },
+    {
+      "ANSWER": "Application layer payload",
+      "QUESTION": "The entire contents of whatever data applications want to send to each other"
+    },
+    {
+      "ANSWER": "Application policies",
+      "QUESTION": "Defines boundaries of what applications are permitted or not, but they also help educate folks on how to use software more securely"
+    },
+    {
+      "ANSWER": "Application software",
+      "QUESTION": "Any software created to fulfill a specific need, like a text editor, web browser, or graphics editor"
+    },
+    {
+      "ANSWER": "App store apps",
+      "QUESTION": "A Package Manager that acts as a repository"
+    },
+    {
+      "ANSWER": "App store repository",
+      "QUESTION": "A app store service that also acts as a repository"
+    },
+    {
+      "ANSWER": "App stores",
+      "QUESTION": "A central managed marketplace for app developers to publish and sell mobile apps"
+    },
+    {
+      "ANSWER": "APPX",
+      "QUESTION": "An APPX is another way to package contents of a file to act like a unit of distribution"
+    },
+    {
+      "ANSWER": "Archive",
+      "QUESTION": "An archive is comprised of one or more files that are compressed into a single file\" for verb agreement"
+    },
+    {
+      "ANSWER": "A record",
+      "QUESTION": "The most common resource record, used to point a certain domain name at a certain IPv4 IP address"
+    },
+    {
+      "ANSWER": "ARPANET",
+      "QUESTION": "The earliest version of the Internet that we see today, created by the US government project DARPA in the 1960s"
+    },
+    {
+      "ANSWER": "ARP table",
+      "QUESTION": "A list of IP addresses and the MAC addresses associated with them"
+    },
+    {
+      "ANSWER": "ASCII",
+      "QUESTION": "The oldest character encoding standard used is ASCII. It represents the English alphabet, digits, and punctuation marks"
+    },
+    {
+      "ANSWER": "ASN",
+      "QUESTION": "Autonomous System Number is a number assigned to an individual autonomous system"
+    },
+    {
+      "ANSWER": "Assembly language",
+      "QUESTION": "A language that allowed computer scientists to use human readable instructions, assembled into code that the machines could understand"
+    },
+    {
+      "ANSWER": "Asymmetric Digital Subscriber Line (ADSL)",
+      "QUESTION": "A device that establishes data connections across phone lines and different speeds for uploading and downloading data"
+    },
+    {
+      "ANSWER": "Asymmetric encryption",
+      "QUESTION": "Systems where different keys are used to encrypt and decrypt"
+    },
+    {
+      "ANSWER": "ATA",
+      "QUESTION": "The most common interface that hard drives use to connect to our system"
+    },
+    {
+      "ANSWER": "Attack",
+      "QUESTION": "An actual attempt at causing harm to a system"
+    },
+    {
+      "ANSWER": "Attack surface",
+      "QUESTION": "It's the sum of all the different attack vectors in a given system"
+    },
+    {
+      "ANSWER": "Attack vector",
+      "QUESTION": "Method or mechanism by which an attacker or malware gains access to a network or system"
+    },
+    {
+      "ANSWER": "ATX (Advanced Technology eXtended)",
+      "QUESTION": "The most common form factor for motherboards"
+    },
+    {
+      "ANSWER": "Auditing",
+      "QUESTION": "It involves reviewing records to ensure that nothing is out of the ordinary"
+    },
+    {
+      "ANSWER": "Authentication",
+      "QUESTION": "A crucial application for cryptographic hash functions"
+    },
+    {
+      "ANSWER": "Authentication server (AS)",
+      "QUESTION": "It includes the user ID of the authenticating user"
+    },
+    {
+      "ANSWER": "Authorization",
+      "QUESTION": "It pertains to describing what the user account has access to or doesn't have access to"
+    },
+    {
+      "ANSWER": "Automatic allocation",
+      "QUESTION": "A range of IP addresses is set aside for assignment purposes"
+    },
+    {
+      "ANSWER": "Automation",
+      "QUESTION": "It makes processes work automatically"
+    },
+    {
+      "ANSWER": "Autoscaling",
+      "QUESTION": "A system that allows the service to increase or reduce capacity as needed, while the service owner only pays for the cost of the machines that are in use at any given time"
+    },
+    {
+      "ANSWER": "Availability",
+      "QUESTION": "Means that the information we have is readily accessible to those people that should have it"
+    },
+    {
+      "ANSWER": "Backdoor",
+      "QUESTION": "A way to get into a system if the other methods to get in a system aren't allowed, it's a secret entryway for attackers"
+    },
+    {
+      "ANSWER": "Background processes/Daemon processes",
+      "QUESTION": "Processes that run or take place in the background"
+    },
+    {
+      "ANSWER": "Backup and restore",
+      "QUESTION": "A Microsoft offer and first party solution that has modes of operation, as a file based version where files are backed up to a zip archive"
+    },
+    {
+      "ANSWER": "Backward compatible",
+      "QUESTION": "It means older hardware works with newer hardware"
+    },
+    {
+      "ANSWER": "Baiting",
+      "QUESTION": "An attack that happens through actual physical contact, enticing a victim to do something"
+    },
+    {
+      "ANSWER": "Bash",
+      "QUESTION": "The language used to interact with the shell"
+    },
+    {
+      "ANSWER": "Bastion hosts or networks",
+      "QUESTION": "A server used to provide access to a private network from an external network"
+    },
+    {
+      "ANSWER": "Baud rate",
+      "QUESTION": "A measurement of how many bits could be passed across a phone line in a second"
+    },
+    {
+      "ANSWER": "Binary system",
+      "QUESTION": "The communication that a computer uses is referred to as binary system, also known as base-2 numeral system"
+    },
+    {
+      "ANSWER": "Binary whitelisting software",
+      "QUESTION": "It's a list of known good and trusted software and only things that are on the list are permitted to run"
+    },
+    {
+      "ANSWER": "Bind",
+      "QUESTION": "It is how clients authenticate to the server"
+    },
+    {
+      "ANSWER": "Bind operation",
+      "QUESTION": "The operation which authenticates clients to the directory server"
+    },
+    {
+      "ANSWER": "Biometric authentication",
+      "QUESTION": "Authentication that uses Biometric data"
+    },
+    {
+      "ANSWER": "Biometric data",
+      "QUESTION": "A way of protecting your accounts and information using biometric data such as facial recognition and fingerprint"
+    },
+    {
+      "ANSWER": "BIOS/UEFI",
+      "QUESTION": "A low-level software that initializes our computer's hardware to make sure everything is good to go"
+    },
+    {
+      "ANSWER": "Bios (Basic Input Output Services)",
+      "QUESTION": "The BIOS is software that helps initialize the hardware in our computer and gets our operating system up and running"
+    },
+    {
+      "ANSWER": "Bit",
+      "QUESTION": "The smallest representation of data that a computer can understand"
+    },
+    {
+      "ANSWER": "Block ciphers",
+      "QUESTION": "The cipher takes data in, places that into a bucket or block of data that's a fixed size, then encodes that entire block as one unit"
+    },
+    {
+      "ANSWER": "Block devices",
+      "QUESTION": "A system that acts like USB drives and hard drive by transmitting data"
+    },
+    {
+      "ANSWER": "Block storage",
+      "QUESTION": "It improves faster handling of data because the data isn't stored in one long piece but in blocks, so it can be accessed more quickly"
+    },
+    {
+      "ANSWER": "Bluetooth",
+      "QUESTION": "The most common short range wireless network"
+    },
+    {
+      "ANSWER": "Boot",
+      "QUESTION": "To start up a computer"
+    },
+    {
+      "ANSWER": "Bootloader",
+      "QUESTION": "A small program that loads the operating system"
+    },
+    {
+      "ANSWER": "Border Gateway Protocol (BGP)",
+      "QUESTION": "A protocol by which routers share data with each other"
+    },
+    {
+      "ANSWER": "Botnet",
+      "QUESTION": "A collection of one or more Bots"
+    },
+    {
+      "ANSWER": "Bots",
+      "QUESTION": "Machines compromised by malware that are utilized to perform tasks centrally controlled by an attacker"
+    },
+    {
+      "ANSWER": "Broadband",
+      "QUESTION": "Any connectivity technology that isn't dial-up Internet"
+    },
+    {
+      "ANSWER": "Broadcast",
+      "QUESTION": "A type of Ethernet transmission, sent to every single device on a LAN"
+    },
+    {
+      "ANSWER": "Broadcast address",
+      "QUESTION": "A special destination used by an Ethernet broadcast composed by all Fs"
+    },
+    {
+      "ANSWER": "Browser",
+      "QUESTION": "A user interface for displaying and interacting with web pages"
+    },
+    {
+      "ANSWER": "Brute force attacks",
+      "QUESTION": "A common password attack which consists of just continuously trying different combinations of characters and letters until one gets access"
+    },
+    {
+      "ANSWER": "BYOD (Bring Your Own Device)",
+      "QUESTION": "Refers to the practice of allowing people to use their own personal devices for work"
+    },
+    {
+      "ANSWER": "Byte",
+      "QUESTION": "A group of 8 bits"
+    },
+    {
+      "ANSWER": "CA (Certificate authority)",
+      "QUESTION": "It's the entity that's responsible for storing, issuing, and signing certificates. It's a crucial component of the PKI system"
+    },
+    {
+      "ANSWER": "Cable categories",
+      "QUESTION": "Groups of cables that are made with the same material. Most network cables used today can be split into two categories, copper and fiber"
+    },
+    {
+      "ANSWER": "Cable modem",
+      "QUESTION": "A device that sits at the edge of a consumer's network and connects it to the cable modem termination system"
+    },
+    {
+      "ANSWER": "Cable modem termination system",
+      "QUESTION": "Connects lots of different cable connections to an ISP's core network"
+    },
+    {
+      "ANSWER": "Cables",
+      "QUESTION": "Insulated wires that connect different devices to each other allowing data to be transmitted over them"
+    },
+    {
+      "ANSWER": "Cache",
+      "QUESTION": "The assigned stored location for recently or frequently accessed data; on a mobile app it is where anything that was changed or created with that app is stored"
+    },
+    {
+      "ANSWER": "Cache",
+      "QUESTION": "The assigned stored location for recently or frequently accessed data; on a mobile app it is where anything that was changed or created with that app is stored"
+    },
+    {
+      "ANSWER": "Caching and recursive name servers",
+      "QUESTION": "They are generally provided by an ISP or your local network, and their purpose is to store domain name lookups for a certain amount of time"
+    },
+    {
+      "ANSWER": "Caesar cipher",
+      "QUESTION": "A substitution alphabet, where you replace characters in the alphabet with others usually by shifting or rotating the alphabet, a set of numbers or characters"
+    },
+    {
+      "ANSWER": "Carrier-Sense Multiple Access with Collision Detection (CSMA/CD)",
+      "QUESTION": "CSMA/CD is used to determine when the communications channels are clear and when the device is free to transmit data"
+    },
+    {
+      "ANSWER": "CBC-MAC (Cipher block chaining message authentication codes)",
+      "QUESTION": "A mechanism for building MACs using block ciphers"
+    },
+    {
+      "ANSWER": "CCMP (counter mode CBC-MAC protocol)",
+      "QUESTION": "A mode of operation for block ciphers that allows for authenticated encryption"
+    },
+    {
+      "ANSWER": "Centralized logging",
+      "QUESTION": "Parsing logs in one central location"
+    },
+    {
+      "ANSWER": "Central management",
+      "QUESTION": "A central service that provides instructions to all of the different parts of my IT infrastructure"
+    },
+    {
+      "ANSWER": "Central repository",
+      "QUESTION": "It is needed to securely store and index keys and a certificate management system of some sort makes managing access to storage certificates and issuance of certificates easier"
+    },
+    {
+      "ANSWER": "Certificate-based authentication",
+      "QUESTION": "It is the most secure option, but it requires more support and management overhead since every client must have a certificate"
+    },
+    {
+      "ANSWER": "Certificate fingerprints",
+      "QUESTION": "These are just hash digests of the whole certificate, and aren't actually fields in the certificate itself, but are computed by clients when validating or inspecting certificates"
+    },
+    {
+      "ANSWER": "Certificate Revocation List (CRL)",
+      "QUESTION": "A means to distribute a list of certificates that are no longer valid"
+    },
+    {
+      "ANSWER": "Certificate Signature Algorithm",
+      "QUESTION": "This field indicates what public key algorithm is used for the public key and what hashing algorithm is used to sign the certificate"
+    },
+    {
+      "ANSWER": "Certificate Signature Value",
+      "QUESTION": "The digital signature data itself"
+    },
+    {
+      "ANSWER": "Change management process",
+      "QUESTION": "The process to notify others in the organization about the changes that you are about to make"
+    },
+    {
+      "ANSWER": "Channels",
+      "QUESTION": "Individual, smaller sections of the overall frequency band used by a wireless network"
+    },
+    {
+      "ANSWER": "Character devices",
+      "QUESTION": "A way to transmit data character by character like a keyboard and mouse"
+    },
+    {
+      "ANSWER": "Character encoding",
+      "QUESTION": "Is used to assign our binary values to characters so that we as humans can read them"
+    },
+    {
+      "ANSWER": "Charge cycle",
+      "QUESTION": "One full charge and discharge of a battery"
+    },
+    {
+      "ANSWER": "Child directories",
+      "QUESTION": "It is a directory housed by a parent directory"
+    },
+    {
+      "ANSWER": "Children's Online Privacy Protection Act (COPPA)",
+      "QUESTION": "Regulates the information we show to children under the age of 13"
+    },
+    {
+      "ANSWER": "Chipset",
+      "QUESTION": "It decides how components talk to each other on our machine"
+    },
+    {
+      "ANSWER": "Chocolatey",
+      "QUESTION": "A third party package manager for Windows"
+    },
+    {
+      "ANSWER": "Chrome OS",
+      "QUESTION": "A Linux-based operating system designed by Google"
+    },
+    {
+      "ANSWER": "CIA Triad",
+      "QUESTION": "Confidentiality, integrity, and availability. Three key principles of a guiding model for designing information security policies"
+    },
+    {
+      "ANSWER": "CLI",
+      "QUESTION": "Command line interpreter"
+    },
+    {
+      "ANSWER": "Client",
+      "QUESTION": "A device that receives data from a server"
+    },
+    {
+      "ANSWER": "Client/Server runtime subsystem",
+      "QUESTION": "System that handles running Windows GUI and Command line"
+    },
+    {
+      "ANSWER": "Client certificates",
+      "QUESTION": "They operate very similarly to server certificates but are presented by clients and allow servers to authenticate and verify clients"
+    },
+    {
+      "ANSWER": "Clients",
+      "QUESTION": "A device that receives data from a server"
+    },
+    {
+      "ANSWER": "Clock cycle",
+      "QUESTION": "When you send a voltage to the clock wire"
+    },
+    {
+      "ANSWER": "Clock speed",
+      "QUESTION": "The maximum number of clock cycles that it can handle in a set in a certain time period"
+    },
+    {
+      "ANSWER": "Clock wire",
+      "QUESTION": "When you send or receive data, it sends a voltage to that clock wire to let the CPU know it can start doing calculations"
+    },
+    {
+      "ANSWER": "CLOSE_WAIT",
+      "QUESTION": "A connection state that indicates that the connection has been closed at the TCP layer, but that the application that opened the socket hasn't released its hold on the socket yet"
+    },
+    {
+      "ANSWER": "CLOSE",
+      "QUESTION": "A connection state that indicates that the connection has been fully terminated, and that no further communication is possible"
+    },
+    {
+      "ANSWER": "Closed source packages",
+      "QUESTION": "A source code that does not allow public access"
+    },
+    {
+      "ANSWER": "Cloud computing",
+      "QUESTION": "The concept and technological approach of accessing data, using applications, storing files, etc. from anywhere in the world as long as you have an internet connection"
+    },
+    {
+      "ANSWER": "Cloud computing",
+      "QUESTION": "The concept and technological approach of accessing data, using applications, storing files, etc. from anywhere in the world as long as you have an internet connection"
+    },
+    {
+      "ANSWER": "CMACs (Cipher-based Message Authentication Codes)",
+      "QUESTION": "The process is similar to HMAC, but instead of using a hashing function to produce a digest, a symmetric cipher with a shared keys used to encrypt the message and the resulting output is used as the MAC"
+    },
+    {
+      "ANSWER": "CNAME",
+      "QUESTION": "A resource record used to map one domain to another"
+    },
+    {
+      "ANSWER": "Code signing certificates",
+      "QUESTION": "It is used for signing executable programs and allows users of these signed applications to verify the signatures and ensure that the application was not tampered with"
+    },
+    {
+      "ANSWER": "Coding",
+      "QUESTION": "Translating one language to another"
+    },
+    {
+      "ANSWER": "Collision domain",
+      "QUESTION": "A network segment where only one device can communicate at a time"
+    },
+    {
+      "ANSWER": "Command line",
+      "QUESTION": "A text interface program for a computer that inputs text commands and translates them to the operating system"
+    },
+    {
+      "ANSWER": "Command Line Interface (CLI)",
+      "QUESTION": "A shell that uses text commands to interact with the operating system"
+    },
+    {
+      "ANSWER": "Command line mode",
+      "QUESTION": "When you are able to run commands while still in your current shell"
+    },
+    {
+      "ANSWER": "Compiled programming language",
+      "QUESTION": "A language that uses human readable instructions, then sends them through a compiler"
+    },
+    {
+      "ANSWER": "Computer",
+      "QUESTION": "A device that stores and processes data by performing calculations"
+    },
+    {
+      "ANSWER": "Computer configuration",
+      "QUESTION": "Contained within a Group Policy Object (GPO)"
+    },
+    {
+      "ANSWER": "Computer file",
+      "QUESTION": "Data that we store and a file can be anything, a word document, a picture, a song, literally anything"
+    },
+    {
+      "ANSWER": "Computer management",
+      "QUESTION": "A tool that lets you manage a local or remote computer"
+    },
+    {
+      "ANSWER": "Computer networking",
+      "QUESTION": "The full scope of how computers communicate with each other"
+    },
+    {
+      "ANSWER": "Confidentiality",
+      "QUESTION": "Keeping things hidden"
+    },
+    {
+      "ANSWER": "Configuration management",
+      "QUESTION": "The creation of rules about how things should work in your organization, such as printers, configure software, or mounting network file systems"
+    },
+    {
+      "ANSWER": "Connectionless protocol",
+      "QUESTION": "A data-transmission protocol that allows data to be exchanged without an established connection at the transport layer. The most common of these is known as UDP, or User Datagram Protocol"
+    },
+    {
+      "ANSWER": "Connection-oriented protocol",
+      "QUESTION": "A data-transmission protocol that establishes a connection at the transport layer, and uses this to ensure that all data has been properly transmitted"
+    },
+    {
+      "ANSWER": "Copper cable categories",
+      "QUESTION": "These categories have different physical characteristics like the number of twists in the pair of copper wires. These are defined as names like category (or cat) 5, 5e, or 6, and how quickly data can be sent across them and how resistant they are to outside interference are all related to the way the twisted pairs inside are arranged"
+    },
+    {
+      "ANSWER": "Copyright",
+      "QUESTION": "Used when creating original work"
+    },
+    {
+      "ANSWER": "Correlation analysis",
+      "QUESTION": "The process of taking log data from different systems, and matching events across the systems"
+    },
+    {
+      "ANSWER": "Counter-based tokens",
+      "QUESTION": "They use a secret seed value along with the secret counter value that's incremented every time a one-time password is generated on the device"
+    },
+    {
+      "ANSWER": "CPU",
+      "QUESTION": "Central processing unit"
+    },
+    {
+      "ANSWER": "CPU sockets",
+      "QUESTION": "A CPU socket is a series of pins that connect a CPU’s processor to the PC’s motherboard"
+    },
+    {
+      "ANSWER": "Cross-site scripting (XSS)",
+      "QUESTION": "A type of injection attack where the attacker can insert malicious code and target the user of the service"
+    },
+    {
+      "ANSWER": "Crosstalk",
+      "QUESTION": "Crosstalk is when an electrical pulse on one wire is accidentally detected on another wire"
+    },
+    {
+      "ANSWER": "Cryptanalysis",
+      "QUESTION": "Looking for hidden messages or trying to decipher coded message"
+    },
+    {
+      "ANSWER": "Cryptographic hashing",
+      "QUESTION": "It is distinctly different from encryption because cryptographic hash functions should be one directional"
+    },
+    {
+      "ANSWER": "Cryptography",
+      "QUESTION": "The overarching discipline that covers the practice of coding and hiding messages from third parties"
+    },
+    {
+      "ANSWER": "Cryptography",
+      "QUESTION": "The overarching discipline that covers the practice of coding and hiding messages from third parties"
+    },
+    {
+      "ANSWER": "Cryptology",
+      "QUESTION": "The study of cryptography"
+    },
+    {
+      "ANSWER": "Cryptosystem",
+      "QUESTION": "A collection of algorithms for key generation and encryption and decryption operations that comprise a cryptographic service"
+    },
+    {
+      "ANSWER": "Cyclical Redundancy Check (CRC)",
+      "QUESTION": "A mathematical transformation that uses polynomial division to create a number that represents a larger set of data. It is an important concept for data integrity and is used all over computing, not just network transmissions"
+    },
+    {
+      "ANSWER": "DACL",
+      "QUESTION": "Directory Control Lists"
+    },
+    {
+      "ANSWER": "DARPA",
+      "QUESTION": "A US government project in the 1960s that went on to create the earliest version of the Internet that we see today"
+    },
+    {
+      "ANSWER": "Data",
+      "QUESTION": "Actual content of a file"
+    },
+    {
+      "ANSWER": "Databases",
+      "QUESTION": "Databases allow us to store query, filter, and manage large amounts of data"
+    },
+    {
+      "ANSWER": "Data binding and sealing",
+      "QUESTION": "It involves using the secret key to derive a unique key that's then used for encryption of data"
+    },
+    {
+      "ANSWER": "Data blocks",
+      "QUESTION": "Data that can be broken down into many pieces and written to different parts of the hard disk"
+    },
+    {
+      "ANSWER": "Data buffer",
+      "QUESTION": "A region of RAM that’s used to temporarily store data while it’s being moved around"
+    },
+    {
+      "ANSWER": "Data center",
+      "QUESTION": "A facility that stores hundreds, if not thousands of servers"
+    },
+    {
+      "ANSWER": "Data exfiltration",
+      "QUESTION": "The unauthorized transfer of data from a computer. It's also a very important concern when a security incident happens"
+    },
+    {
+      "ANSWER": "Data handling policies",
+      "QUESTION": "Should cover the details of how different data is classified"
+    },
+    {
+      "ANSWER": "Data information tree",
+      "QUESTION": "A structure where objects will have one parent and can have one or more children that belong to the parent object"
+    },
+    {
+      "ANSWER": "Datalink layer",
+      "QUESTION": "The layer in which the first protocols are introduced. This layer is responsible for defining a common way of interpreting signals, so network devices can communicate"
+    },
+    {
+      "ANSWER": "Data offset field",
+      "QUESTION": "The number of the next expected segment in a TCP packet/datagram"
+    },
+    {
+      "ANSWER": "Data packet",
+      "QUESTION": "An all-encompassing term that represents any single set of binary data being sent across a network link"
+    },
+    {
+      "ANSWER": "Data payload section",
+      "QUESTION": "Has all of the data of the protocols further up the stack of a frame"
+    },
+    {
+      "ANSWER": "Data recovery",
+      "QUESTION": "Is the process of trying to restore data after an unexpected event that results in data loss or corruption"
+    },
+    {
+      "ANSWER": "Data sizes",
+      "QUESTION": "Metrics that refer to data sizes including bit, byte, kilobyte, kibibyte, and megabyte"
+    },
+    {
+      "ANSWER": "Data tapes",
+      "QUESTION": "The standard medium for archival backup data storage"
+    },
+    {
+      "ANSWER": "DDR SDRAM (Double Data Rate SDRAM)",
+      "QUESTION": "A type of RAM that is faster, takes up less power, and has a larger capacity than earlier SDRAM versions"
+    },
+    {
+      "ANSWER": "Debian(.deb)",
+      "QUESTION": "A Debian package is packaged as a .deb file"
+    },
+    {
+      "ANSWER": "Decimal form- base 10 system",
+      "QUESTION": "In the decimal system, there are 10 possible numbers you can use ranging from zero to nine"
+    },
+    {
+      "ANSWER": "Decryption",
+      "QUESTION": "The reverse process from encryption; taking the garbled output and transforming it back into the readable plain text"
+    },
+    {
+      "ANSWER": "Default domain control policy",
+      "QUESTION": "One of the two GPOs that are created when a new Active Directory domain has been made"
+    },
+    {
+      "ANSWER": "Defense in depth",
+      "QUESTION": "The concept of having multiple overlapping systems of defense to protect IT systems"
+    },
+    {
+      "ANSWER": "Defragmentation",
+      "QUESTION": "A process of taking all the files stored on a given disk and reorganizing them into neighboring locations"
+    },
+    {
+      "ANSWER": "Delegation",
+      "QUESTION": "The administrative tasks that you need to perform a lot as a part of your day to day job but you don't need to have broad access to make changes in AD"
+    },
+    {
+      "ANSWER": "Demarcate",
+      "QUESTION": "To set the boundaries of something"
+    },
+    {
+      "ANSWER": "Demarcation point",
+      "QUESTION": "Where one network or system ends and another one begins"
+    },
+    {
+      "ANSWER": "Demultiplexing",
+      "QUESTION": "Taking traffic that's all aimed at the same node and delivering it to the proper receiving service"
+    },
+    {
+      "ANSWER": "Denial-of-Service (DoS) attack",
+      "QUESTION": "An attack that tries to prevent access to a service for legitimate users by overwhelming the network or server"
+    },
+    {
+      "ANSWER": "Deployment",
+      "QUESTION": "Hardware is set up so that the employee can do their job"
+    },
+    {
+      "ANSWER": "DES (Data Encryption Standard)",
+      "QUESTION": "One of the earliest encryption standards"
+    },
+    {
+      "ANSWER": "Desktop",
+      "QUESTION": "The main screen where we can navigate our files, folders, and applications"
+    },
+    {
+      "ANSWER": "Destination MAC address",
+      "QUESTION": "The hardware address of the intended recipient that immediately follows the start frame delimiter"
+    },
+    {
+      "ANSWER": "Destination network",
+      "QUESTION": "The column in a routing table that contains a row for each network that the router knows about"
+    },
+    {
+      "ANSWER": "Destination port",
+      "QUESTION": "The port of the service the TCP packet is intended for"
+    },
+    {
+      "ANSWER": "Detection measure",
+      "QUESTION": "The measures to alert you and your team that a disaster has occurred that can impact operations"
+    },
+    {
+      "ANSWER": "Deterministic",
+      "QUESTION": "It means that the same input value should always return the same hash value"
+    },
+    {
+      "ANSWER": "Device manager",
+      "QUESTION": "A console management system for your device"
+    },
+    {
+      "ANSWER": "DH (Diffie-Hellman)",
+      "QUESTION": "A popular key exchange algorithm, named for its co-inventors"
+    },
+    {
+      "ANSWER": "DHCP",
+      "QUESTION": "A technology that assigns an IP address automatically to a new device. It is an application layer protocol that automates the configuration process of hosts on a network"
+    },
+    {
+      "ANSWER": "DHCP discovery",
+      "QUESTION": "The process by which a client configured to use DHCP attempts to get network configuration information"
+    },
+    {
+      "ANSWER": "Dial-up",
+      "QUESTION": "Uses POTS for data transfer, and gets its name because the connection is established by actually dialing a phone number"
+    },
+    {
+      "ANSWER": "Dictionary attack",
+      "QUESTION": "A type of password attack that tries out words that are commonly used in passwords, like password, monkey, football"
+    },
+    {
+      "ANSWER": "Differential backup",
+      "QUESTION": "A backup of files that are changed, or has been created since the last full backup"
+    },
+    {
+      "ANSWER": "Digital divide",
+      "QUESTION": "The growing skills gap between people with and without digital literacy skills"
+    },
+    {
+      "ANSWER": "DIMM",
+      "QUESTION": "Dual Inline Memory Module"
+    },
+    {
+      "ANSWER": "Directory Access Protocol (DAP)",
+      "QUESTION": "A protocol that is included in the X.500 directory standard from 1988"
+    },
+    {
+      "ANSWER": "Directory Information Shadow Protocol (DISP)",
+      "QUESTION": "A protocol that is included in the X.500 directory standard from 1988"
+    },
+    {
+      "ANSWER": "Directory Operational Bindings Protocol (DOBMP)",
+      "QUESTION": "A protocol that is included in the X.500 directory standard from 1988"
+    },
+    {
+      "ANSWER": "Directory server",
+      "QUESTION": "The server that contains a lookup service that provides mapping between network resources and their network addresses"
+    },
+    {
+      "ANSWER": "Directory services",
+      "QUESTION": "A lookup service contained in a network server that provides mapping between network resources and their network addresses"
+    },
+    {
+      "ANSWER": "Directory System Protocol (DSP)",
+      "QUESTION": "A protocol that is included in the X.500 directory standard from 1988"
+    },
+    {
+      "ANSWER": "Disaster recovery plan",
+      "QUESTION": "A collection of documented procedures and plans on how to react and handle an emergency or disaster scenario, from the operational perspective"
+    },
+    {
+      "ANSWER": "Disaster recovery testing",
+      "QUESTION": "A regular exercise that happens once a year or so, that has different teams, including IT support specialists, going through simulations of disaster events"
+    },
+    {
+      "ANSWER": "Disk Management utility",
+      "QUESTION": "Native tool for Windows that helps with managing disk space"
+    },
+    {
+      "ANSWER": "Disk to disk cloning",
+      "QUESTION": "A type of cloning that happens when you connect an external hard drive to the machine you want to clone"
+    },
+    {
+      "ANSWER": "Display port",
+      "QUESTION": "Port which also outputs audio and video"
+    },
+    {
+      "ANSWER": "Distinguished name (DN)",
+      "QUESTION": "A unique identifier for each entry in the directory"
+    },
+    {
+      "ANSWER": "Distributed Denial-of-Service (DDoS) attack",
+      "QUESTION": "A DoS attack using multiple systems"
+    },
+    {
+      "ANSWER": "Distribution",
+      "QUESTION": "A version of the operating system"
+    },
+    {
+      "ANSWER": "Distribution group",
+      "QUESTION": "A group that is only designed to group accounts and contacts for email communication"
+    },
+    {
+      "ANSWER": "Distributions",
+      "QUESTION": "Some common Linux distributions are Ubuntu, Debian, and Red Hat"
+    },
+    {
+      "ANSWER": "DNS Cache Poisoning Attack",
+      "QUESTION": "It works by tricking a DNS server into accepting a fake DNS record that will point you to a compromised DNS server"
+    },
+    {
+      "ANSWER": "DNS records",
+      "QUESTION": "A DNS request for the SRV records matching the domain that it's been bound to"
+    },
+    {
+      "ANSWER": "DNS zones",
+      "QUESTION": "A portion of space in the Domain Name System (DNS) that is controlled by an authoritative name server"
+    },
+    {
+      "ANSWER": "Domain",
+      "QUESTION": "Used to demarcate where control moves from a top-level domain name server to an authoritative name server"
+    },
+    {
+      "ANSWER": "Domain admin",
+      "QUESTION": "The administrators of the Active Directory domain"
+    },
+    {
+      "ANSWER": "Domain computers",
+      "QUESTION": "All the computers joined to the domain except domain controllers"
+    },
+    {
+      "ANSWER": "Domain controllers (DC)",
+      "QUESTION": "The service that hosts copies of the Active Directory database"
+    },
+    {
+      "ANSWER": "Domain local",
+      "QUESTION": "The tool used used to assign permission to a resource"
+    },
+    {
+      "ANSWER": "Domain name",
+      "QUESTION": "A website name; the part of the URL following www."
+    },
+    {
+      "ANSWER": "Domain Name System (DNS)",
+      "QUESTION": "A global and highly distributed network service that resolves strings of letters, such as a website name, into an IP address"
+    },
+    {
+      "ANSWER": "Domain users",
+      "QUESTION": "A group that contains every user account in the domain"
+    },
+    {
+      "ANSWER": "Dotted decimal notation",
+      "QUESTION": "A format of using dots to separate numbers in a string, such as in an IP address"
+    },
+    {
+      "ANSWER": "DRAM",
+      "QUESTION": "Dynamic Random Access Memory"
+    },
+    {
+      "ANSWER": "Driver",
+      "QUESTION": "Used to help our hardware devices interact with our Operating System"
+    },
+    {
+      "ANSWER": "Drivers",
+      "QUESTION": "The drivers contain the instructions our CPU needs to understand external devices like keyboards, webcams, printers"
+    },
+    {
+      "ANSWER": "DSA (Digital Signature Algorithm)",
+      "QUESTION": "It is another example of an asymmetric encryption system, though its used for signing and verifying data"
+    },
+    {
+      "ANSWER": "DSL",
+      "QUESTION": "Digital subscriber line was able to send much more data across the wire than traditional dial-up technologies by operating at a frequency range that didn't interfere with normal phone calls"
+    },
+    {
+      "ANSWER": "DSLAM",
+      "QUESTION": "Digital Subscriber Line Access Multiplexers are devices that connect multiple DSL connections to a high-speed digital communications channel"
+    },
+    {
+      "ANSWER": "Duplex communication",
+      "QUESTION": "A form of communication where information can flow in both directions across a cable"
+    },
+    {
+      "ANSWER": "Duration field",
+      "QUESTION": "Specifies how long the total frame is"
+    },
+    {
+      "ANSWER": "DVI",
+      "QUESTION": "DVI cables generally just output video"
+    },
+    {
+      "ANSWER": "Dynamic allocation",
+      "QUESTION": "A range of IP addresses is set aside for client devices and one of these IPs is issued to these devices when they request one"
+    },
+    {
+      "ANSWER": "Dynamic ARP inspection (DAI)",
+      "QUESTION": "A feature on enterprise switches that prevents certain types of attacks"
+    },
+    {
+      "ANSWER": "Dynamic IP address",
+      "QUESTION": "An IP address assigned automatically to a new device through a technology known as Dynamic Host Configuration Protocol"
+    },
+    {
+      "ANSWER": "Dynamic-link libraries",
+      "QUESTION": "Programs that want to use functionality that the code provides can tap into it if they need to (shared libraries)"
+    },
+    {
+      "ANSWER": ".exe",
+      "QUESTION": "A file extension found in Windows for an executable file"
+    },
+    {
+      "ANSWER": "EAP-TLS",
+      "QUESTION": "One of the more common and secure EAP methods"
+    },
+    {
+      "ANSWER": "ECDH & ECDSA",
+      "QUESTION": "Elliptic curve variants of Diffie-Hellman and DSA, respectively"
+    },
+    {
+      "ANSWER": "Electrostatic discharge",
+      "QUESTION": "Electrostatic discharge is a sudden and momentary flow of electric current between two electrically charged objects caused by contact, an electrical short or dielectric breakdown"
+    },
+    {
+      "ANSWER": "Eliptic curve cryptography (ECC)",
+      "QUESTION": "A public key encryption system that uses the algebraic structure of elliptic curves over finite fields to generate secure keys"
+    },
+    {
+      "ANSWER": "Encapsulating security payload",
+      "QUESTION": "It's a part of the IPsec suite of protocols, which encapsulates IP packets, providing confidentiality, integrity, and authentication of the packets"
+    },
+    {
+      "ANSWER": "Encryption",
+      "QUESTION": "The act of taking a message (plaintext), and applying an operation to it (cipher), so that you receive a garbled, unreadable message as the output (ciphertext)"
+    },
+    {
+      "ANSWER": "Encryption algorithm",
+      "QUESTION": "The underlying logic or process that's used to convert the plaintext into ciphertext"
+    },
+    {
+      "ANSWER": "End-entity (leaf certificate)",
+      "QUESTION": "A certificate that has no authority as a CA"
+    },
+    {
+      "ANSWER": "Enterprise admin",
+      "QUESTION": "The administrators of the Active Directory domain that has permission to make changes to the domain that affect other domains in a multi-domain forest"
+    },
+    {
+      "ANSWER": "Enterprise app management",
+      "QUESTION": "A management system that allows an organization to distribute custom mobile apps"
+    },
+    {
+      "ANSWER": "Enterprise mobility management (EMM)",
+      "QUESTION": "A system that can create and distribute policies and MDMs"
+    },
+    {
+      "ANSWER": "Entropy pool",
+      "QUESTION": "A source of random data to help seed random number generators"
+    },
+    {
+      "ANSWER": "Entry point",
+      "QUESTION": "the act to determine the entry point to figure out how the attacker got in, or what vulnerability the malware exploited"
+    },
+    {
+      "ANSWER": "Environment",
+      "QUESTION": "Whatever settings or variables a child process inherits from the parent’s process"
+    },
+    {
+      "ANSWER": "Error detection",
+      "QUESTION": "The ability for a protocol or program to determine that something went wrong"
+    },
+    {
+      "ANSWER": "Error message",
+      "QUESTION": "Helpful indicators that can point you in the right direction"
+    },
+    {
+      "ANSWER": "Error recovery",
+      "QUESTION": "The ability for a protocol or program to attempt to fix an error"
+    },
+    {
+      "ANSWER": "Escape characters",
+      "QUESTION": "A concept that means that the next character after the back tick should be treated literally"
+    },
+    {
+      "ANSWER": "ESTABLISHED",
+      "QUESTION": "Status indicating that the TCP connection is in working order, and both sides are free to send each other data"
+    },
+    {
+      "ANSWER": "Etcher.io",
+      "QUESTION": "A tool you can use to load an install image onto your USB device and make it bootable"
+    },
+    {
+      "ANSWER": "Ethernet",
+      "QUESTION": "The protocol most widely used to send data across individual links"
+    },
+    {
+      "ANSWER": "Ethernet cable",
+      "QUESTION": "It lets you physically connect to the network through a cable"
+    },
+    {
+      "ANSWER": "Ethernet frame",
+      "QUESTION": "A highly structured collection of information presented in a specific order"
+    },
+    {
+      "ANSWER": "EtherType field",
+      "QUESTION": "It follows the Source MAC Address in a dataframe. It's 16 bits long and used to describe the protocol of the contents of the frame"
+    },
+    {
+      "ANSWER": "Event Viewer",
+      "QUESTION": "A place where all events that have been logged are stored"
+    },
+    {
+      "ANSWER": "Evil twin",
+      "QUESTION": "The premise of an evil twin attack is for you to connect to a network that is identical to yours but that is controlled by an attacker. Once connected to it, they will be able to monitor your traffic"
+    },
+    {
+      "ANSWER": "Executable file",
+      "QUESTION": "A file containing instructions for a computer to execute when they’re run"
+    },
+    {
+      "ANSWER": "Expansion slots",
+      "QUESTION": "Give us the ability to increase the functionality of our computer"
+    },
+    {
+      "ANSWER": "Exploit",
+      "QUESTION": "Software that is used to take advantage of a security bug or vulnerability"
+    },
+    {
+      "ANSWER": "Extensible authentication protocol (EAP over LAN, or EAPOL)",
+      "QUESTION": "A standard authentication protocol"
+    },
+    {
+      "ANSWER": "Exterior gateway",
+      "QUESTION": "Protocols that are used for the exchange of information between independent autonomous systems"
+    },
+    {
+      "ANSWER": "External Data Bus (EDB)",
+      "QUESTION": "It's a row of wires that interconnect the parts of our computer"
+    },
+    {
+      "ANSWER": "Factory reset",
+      "QUESTION": "Resetting a device to the settings it came with from the factory"
+    },
+    {
+      "ANSWER": "Fail to ban",
+      "QUESTION": "A common open source flood guard protection tool"
+    },
+    {
+      "ANSWER": "Fast logon optimization",
+      "QUESTION": "The group policy engine that applies policy settings to a local machine may sacrifice the immediate application of some types of policies in order to make logon faster"
+    },
+    {
+      "ANSWER": "Fiber optic cable",
+      "QUESTION": "Fiber optic cables contain individual optical fibers which are tiny tubes made of glass about the width of a human hair. Unlike copper, which uses electrical voltages, fiber cables use pulses of light to represent the ones and zeros of the underlying data"
+    },
+    {
+      "ANSWER": "File-based encryption",
+      "QUESTION": "Guarantees confidentiality and integrity of files protected by encryption"
+    },
+    {
+      "ANSWER": "File compression",
+      "QUESTION": "The files and folder structures are copied and put into an archive"
+    },
+    {
+      "ANSWER": "File extension",
+      "QUESTION": "The appended part of a filename that tells us what type of file it is in certain operating systems"
+    },
+    {
+      "ANSWER": "File handling",
+      "QUESTION": "A process of storing data using a program"
+    },
+    {
+      "ANSWER": "File permissions",
+      "QUESTION": "A process for setting permissions for who has access to certain files"
+    },
+    {
+      "ANSWER": "File record number",
+      "QUESTION": "The index of the files entry in the MFT"
+    },
+    {
+      "ANSWER": "File storage service",
+      "QUESTION": "Allows to centrally store files and manage access between files and groups"
+    },
+    {
+      "ANSWER": "File system",
+      "QUESTION": "A system used to manage files"
+    },
+    {
+      "ANSWER": "FIN_WAIT",
+      "QUESTION": "A TCP socket state indicating that a FIN has been sent, but the corresponding ACK from the other end hasn't been received yet"
+    },
+    {
+      "ANSWER": "FIN",
+      "QUESTION": "One of the TCP control flags. FIN is short for finish. When this flag is set to one, it means the transmitting computer doesn't have any more data to send and the connection can be closed"
+    },
+    {
+      "ANSWER": "Finder",
+      "QUESTION": "The file manager for all Macs"
+    },
+    {
+      "ANSWER": "FIPS (Federal Information Processing Standard)",
+      "QUESTION": "The DES that was adopted as a federal standard for encrypting and securing government data"
+    },
+    {
+      "ANSWER": "Firewall",
+      "QUESTION": "It is a device that blocks or allows traffic based on established rules"
+    },
+    {
+      "ANSWER": "Firmware",
+      "QUESTION": "Software that's permanently stored on a computer component"
+    },
+    {
+      "ANSWER": "Five layer model",
+      "QUESTION": "A model used to explain how network devices communicate. This model has five layers that stack on top of each other - Physical, Data Link, Network, Transport, and Application"
+    },
+    {
+      "ANSWER": "Fixed allocation",
+      "QUESTION": "Requires a manually specified list of MAC address and the corresponding IPs"
+    },
+    {
+      "ANSWER": "Flag field",
+      "QUESTION": "It is used to indicate if a datagram is allowed to be fragmented, or to indicate that the datagram has already been fragmented"
+    },
+    {
+      "ANSWER": "Flat file",
+      "QUESTION": "A collection of records/information that follow a consistent format with rules around stored values. On a host computer, one use is to have a list of network address and host name pairs (a hosts file)"
+    },
+    {
+      "ANSWER": "Flexible single-master operations (FSMO)",
+      "QUESTION": "The single domain controller that has been tasked with making changes to the AD database that can only be made by one DC at a time"
+    },
+    {
+      "ANSWER": "Flood guards",
+      "QUESTION": "Provide protection against DoS or Denial of Service Attacks"
+    },
+    {
+      "ANSWER": "Flow label field",
+      "QUESTION": "20-bit field that's used in conjunction with the traffic class field for routers to make decisions about the quality of service level for a specific datagram"
+    },
+    {
+      "ANSWER": "Folders/Directories",
+      "QUESTION": "Used to organize files"
+    },
+    {
+      "ANSWER": "Forest",
+      "QUESTION": "The hierarchy above a domain that contains multiple domains, allowing accounts to share resources between domains that are in the same forest"
+    },
+    {
+      "ANSWER": "Form factor",
+      "QUESTION": "A mathematical way to compensate for irregularities in the shape of an object by using a ratio between its volume and height"
+    },
+    {
+      "ANSWER": "Forward secrecy",
+      "QUESTION": "This is a property of a cryptographic system so that even in the event that the private key is compromised, the session keys are still safe"
+    },
+    {
+      "ANSWER": "Four-Way Handshake",
+      "QUESTION": "It is designed to allow an AP to confirm that the client has the correct pairwise master key in a WPA-PSK setup without disclosing the PMK"
+    },
+    {
+      "ANSWER": "Fragmentation",
+      "QUESTION": "The process of taking a single IP datagram and splitting it up into several smaller datagrams"
+    },
+    {
+      "ANSWER": "Fragmentation offset field",
+      "QUESTION": "It contains values used by the receiving end to take all the parts of a fragmented packet and put them back together in the correct order"
+    },
+    {
+      "ANSWER": "Frame check sequence",
+      "QUESTION": "It is a 4-byte or 32-bit number that represents a checksum value for the entire frame"
+    },
+    {
+      "ANSWER": "Frame control field",
+      "QUESTION": "16 bits long, it contains a number of sub-fields that are used to describe how the frame itself should be processed"
+    },
+    {
+      "ANSWER": "Frequency analysis",
+      "QUESTION": "The practice of studying the frequency with which letters appear in ciphertext"
+    },
+    {
+      "ANSWER": "Frequency band",
+      "QUESTION": "A certain section of the radio spectrum that's been agreed upon to be used for certain communications"
+    },
+    {
+      "ANSWER": "FTP",
+      "QUESTION": "An older method used for transferring files from one computer to another, but you still see it in use today"
+    },
+    {
+      "ANSWER": "FTTB",
+      "QUESTION": "Fiber to the building, fiber to the business or even fiber to the basement, since this is generally where cables to buildings physically enter. FTTB is a setup where fiber technologies are used for data delivery to an individual building"
+    },
+    {
+      "ANSWER": "FTTH",
+      "QUESTION": "Fiber to the home. This is used in instances where fiber is actually run to each individual residents in a neighborhood or apartment building"
+    },
+    {
+      "ANSWER": "FTTN",
+      "QUESTION": "Fiber to the neighborhood. This means that fiber technologies are used to deliver data to a single physical cabinet that serves a certain amount of the population"
+    },
+    {
+      "ANSWER": "FTTP",
+      "QUESTION": "Fiber to the premises. FTTH and FTTB may both also be referred to as FTTP"
+    },
+    {
+      "ANSWER": "FTTX",
+      "QUESTION": "Stands for fiber to the X, where the X can be one of many things"
+    },
+    {
+      "ANSWER": "Full backup",
+      "QUESTION": "The full unmodified contents of all files to be backed up is are included in this backup mechanism whether the data was modified or not"
+    },
+    {
+      "ANSWER": "Full control",
+      "QUESTION": "A user or group with full control that can do anything they want to files"
+    },
+    {
+      "ANSWER": "Full disk encryption (FDE)",
+      "QUESTION": "It is the practice of encrypting the entire drive in the system"
+    },
+    {
+      "ANSWER": "Full duplex",
+      "QUESTION": "The capacity of devices on either side of a networking link to communicate with each other at the exact same time"
+    },
+    {
+      "ANSWER": "Fully qualified domain name",
+      "QUESTION": "When you combine all the parts of a domain together"
+    },
+    {
+      "ANSWER": "Functional levels",
+      "QUESTION": "The different versions of Active Directory, a functional level that describes the features that it supports"
+    },
+    {
+      "ANSWER": "GIT",
+      "QUESTION": "A version control system that helps keep track of changes made to files and directories"
+    },
+    {
+      "ANSWER": "Global",
+      "QUESTION": "The tool that is used to group accounts into a role"
+    },
+    {
+      "ANSWER": "Globalization",
+      "QUESTION": "The movement that lets governments, businesses, and organizations communicate and integrate together on an international scale"
+    },
+    {
+      "ANSWER": "Group policy management console (GPMC)",
+      "QUESTION": "The tools used for creating and viewing a group policy object"
+    },
+    {
+      "ANSWER": "Group policy objects (GPO)",
+      "QUESTION": "The ways to manage the configuration of Windows machines, referring to the objects that represent things in your network that you want to be able to reference or manage"
+    },
+    {
+      "ANSWER": "Group policy settings reference",
+      "QUESTION": "A spreadsheet that details the GPO policies and preferences that are available and where to find them"
+    },
+    {
+      "ANSWER": "Groups",
+      "QUESTION": "A collection of users"
+    },
+    {
+      "ANSWER": "Group scope",
+      "QUESTION": "The way that group definitions are replicated across domains"
+    },
+    {
+      "ANSWER": "GTK (Groupwise Transient Key)",
+      "QUESTION": "A temporal key, which is actually used to encrypt data"
+    },
+    {
+      "ANSWER": "GUI",
+      "QUESTION": "A graphical user interface"
+    },
+    {
+      "ANSWER": "GUID partition table",
+      "QUESTION": "Only used if you are using UEFI booting"
+    },
+    {
+      "ANSWER": "Hacker",
+      "QUESTION": "Someone who attempts to break into or exploit a system"
+    },
+    {
+      "ANSWER": "Half-duplex",
+      "QUESTION": "It means that, while communication is possible in each direction, only one device can be communicating at a time"
+    },
+    {
+      "ANSWER": "Half-open attacks",
+      "QUESTION": "A way to refer to SYN floods"
+    },
+    {
+      "ANSWER": "Handshake",
+      "QUESTION": "A way for two devices to ensure that they're speaking the same protocol and will be able to understand each other"
+    },
+    {
+      "ANSWER": "Hard drive",
+      "QUESTION": "It is a long term memory component that holds all of our data, which can include music, pictures, applications"
+    },
+    {
+      "ANSWER": "Hard link",
+      "QUESTION": "When created in NTFS, an entry is added to the MFT that points to the linked file record number, not the name of the file. This means the file name of the target can change and the hard link will still point to it"
+    },
+    {
+      "ANSWER": "Hardware",
+      "QUESTION": "External or internal devices and equipment that help you perform major functions"
+    },
+    {
+      "ANSWER": "Hardware ID",
+      "QUESTION": "A special string of characters assigned to hardware"
+    },
+    {
+      "ANSWER": "Hardware resource deficiency",
+      "QUESTION": "It refers to the lack of system resources like memory, hard drive space, et cetera"
+    },
+    {
+      "ANSWER": "Hash collisions",
+      "QUESTION": "Two different inputs mapping to the same output"
+    },
+    {
+      "ANSWER": "Hashing (Hash function)",
+      "QUESTION": "A type of function or operation that takes in an arbitrary data input and maps it to an output of a fixed size, called a hash or a digest"
+    },
+    {
+      "ANSWER": "Having dependencies",
+      "QUESTION": "A process of counting on other pieces of software to make an application work since one bit of code depends on another in order to work"
+    },
+    {
+      "ANSWER": "HDD (Hard disk drive)",
+      "QUESTION": "Hard disk drives, or HDDs, use a spinning platter and a mechanical arm to read and write information"
+    },
+    {
+      "ANSWER": "HDMI",
+      "QUESTION": "A type of cable that outputs both video and audio"
+    },
+    {
+      "ANSWER": "HDSL",
+      "QUESTION": "High Bit-rate Digital Subscriber Lines. These are DSL technologies that provision speeds above 1.544 megabits per second"
+    },
+    {
+      "ANSWER": "Header checksum field",
+      "QUESTION": "A checksum of the contents of the entire IP datagram header"
+    },
+    {
+      "ANSWER": "Header length field",
+      "QUESTION": "A four bit field that declares how long the entire header is. It is almost always 20 bytes in length when dealing with IPv4"
+    },
+    {
+      "ANSWER": "Heatsink",
+      "QUESTION": "It is used to dissipate heat from our CPU"
+    },
+    {
+      "ANSWER": "Hexadecimal",
+      "QUESTION": "A way to represent numbers using a numerical base of 16"
+    },
+    {
+      "ANSWER": "HFS+/APFS",
+      "QUESTION": "HFS+ is a journaling system developed by Apple Inc. and APFS is another but more encrypted Apple journaling system"
+    },
+    {
+      "ANSWER": "Hidden files",
+      "QUESTION": "A set of files that are not visible either to avoid alteration or simply because you don’t want someone to see them"
+    },
+    {
+      "ANSWER": "High value data",
+      "QUESTION": "usually includes account information, like usernames and passwords. Typically, any kind of user data is considered high value, especially if payment processing is involved"
+    },
+    {
+      "ANSWER": "HMAC (Keyed-Hash Message Authentication Codes)",
+      "QUESTION": "It uses a cryptographic hash function along with a secret key to generate a MAC"
+    },
+    {
+      "ANSWER": "Hop limit field",
+      "QUESTION": "An 8-bit field that's identical in purpose to the TTL field in an IPv4 header"
+    },
+    {
+      "ANSWER": "Host-based firewalls",
+      "QUESTION": "Protects individual hosts from being compromised when they're used in untrusted and potentially malicious environments"
+    },
+    {
+      "ANSWER": "Host file",
+      "QUESTION": "It is a flat file that contains, on each line, a network address followed by the host name it can be referred to as"
+    },
+    {
+      "ANSWER": "Hostname",
+      "QUESTION": "Used to identify the computer when it needs to talk to other computers"
+    },
+    {
+      "ANSWER": "Hot key",
+      "QUESTION": "A keyboard shortcut that does a particular task"
+    },
+    {
+      "ANSWER": "HTTPS",
+      "QUESTION": "Hypertext Transfer Protocol Secure is a secure version of HTTP that ensures the communication your web browser has with the website is secured through encryption."
+    },
+    {
+      "ANSWER": "HTTPS",
+      "QUESTION": "Hypertext Transfer Protocol Secure is a secure version of HTTP that ensures the communication your web browser has with the website is secured through encryption."
+    },
+    {
+      "ANSWER": "HTTP status code",
+      "QUESTION": "The codes or numbers that indicate some sort of error or info messages that occurred when trying to access a web resource"
+    },
+    {
+      "ANSWER": "Hub",
+      "QUESTION": "It is a physical layer device that broadcasts data to everything computer connected to it"
+    },
+    {
+      "ANSWER": "Hubs",
+      "QUESTION": "Devices that serve as a central location through which data travels through"
+    },
+    {
+      "ANSWER": "Hubs",
+      "QUESTION": "Devices that serve as a central location through which data travels through; a quick and dirty way of getting packets mirrored to your capture interface"
+    },
+    {
+      "ANSWER": "Hybrid cloud",
+      "QUESTION": "Used to describe situations where companies might run things like their most sensitive proprietary technologies on a private cloud or on premise while entrusting their less sensitive servers to a public cloud"
+    },
+    {
+      "ANSWER": "Hybrid cloud",
+      "QUESTION": "Used to describe situations where companies might run things like their most sensitive proprietary technologies on a private cloud or on premise while entrusting their less sensitive servers to a public cloud"
+    },
+    {
+      "ANSWER": "Hypervisor",
+      "QUESTION": "A piece of software that runs and manages virtual machines while also offering guests a virtual operating platform that's indistinguishable from actual hardware"
+    },
+    {
+      "ANSWER": "I/O management",
+      "QUESTION": "Anything that can give us input or that we can use for output of data"
+    },
+    {
+      "ANSWER": "I/O Streams",
+      "QUESTION": "An input stream handles data flowing into and out of a program"
+    },
+    {
+      "ANSWER": "IANA",
+      "QUESTION": "The Internet Assigned Numbers Authority, is a non-profit organization that helps manage things like IP address allocation"
+    },
+    {
+      "ANSWER": "ICMP",
+      "QUESTION": "Internet control message protocol is used by router or remote hosts to communicate error messages when network problems prevent delivery of IP packets"
+    },
+    {
+      "ANSWER": "ICMP payload",
+      "QUESTION": "Piece of the packet which lets the recipient of the message knows which of their transmissions caused the error being reported"
+    },
+    {
+      "ANSWER": "Identification",
+      "QUESTION": "The idea of describing an entity uniquely"
+    },
+    {
+      "ANSWER": "Identification field",
+      "QUESTION": "It is a 16-bit number that's used to group messages together"
+    },
+    {
+      "ANSWER": "Impact",
+      "QUESTION": "The impact of an incident is also an important issue to consider"
+    },
+    {
+      "ANSWER": "Implicit deny",
+      "QUESTION": "A network security concept where anything not explicitly permitted or allowed should be denied"
+    },
+    {
+      "ANSWER": "Import",
+      "QUESTION": "Moving a backup of the test example policy to the production example policy"
+    },
+    {
+      "ANSWER": "Information technology",
+      "QUESTION": "The use of digital technology, like computers and the internet, to store and process data into useful information"
+    },
+    {
+      "ANSWER": "Infrastructure as a Service (IaaS)",
+      "QUESTION": "A subset of cloud computing where a network and servers are provided for customers to run their services"
+    },
+    {
+      "ANSWER": "Inherit only",
+      "QUESTION": "A permission group that means that a DACL will be inherited, but not applied to a container"
+    },
+    {
+      "ANSWER": "Injection attacks",
+      "QUESTION": "A common security exploit that can occur in software development and runs rampant on the web, where an attacker injects malicious code"
+    },
+    {
+      "ANSWER": "Inode",
+      "QUESTION": "A file structure for metadata and files"
+    },
+    {
+      "ANSWER": "Input/Output device",
+      "QUESTION": "A device that performs input and output, including monitors, keyboards, mice, hard disk drives, speakers, bluetooth headsets, webcams, and network adapters"
+    },
+    {
+      "ANSWER": "Install image",
+      "QUESTION": "A downloadable operating system image used to install an operating system on a device"
+    },
+    {
+      "ANSWER": "Installing from source",
+      "QUESTION": "A process of installing from a source"
+    },
+    {
+      "ANSWER": "Instantiation",
+      "QUESTION": "The actual implementation of something defined elsewhere"
+    },
+    {
+      "ANSWER": "Instruction set",
+      "QUESTION": "A list of instructions that our CPU is able to run"
+    },
+    {
+      "ANSWER": "Integrity",
+      "QUESTION": "Means keeping our data accurate and untampered with"
+    },
+    {
+      "ANSWER": "Interactive mode",
+      "QUESTION": "When the parted tool launches you into a separate program"
+    },
+    {
+      "ANSWER": "Interface",
+      "QUESTION": "For a router, the port where a router connects to a network. A router gives and receives data through its interfaces. These are also used as part of the routing table"
+    },
+    {
+      "ANSWER": "Interior gateway",
+      "QUESTION": "Interior gateway protocols are used by routers to share information within a single autonomous system"
+    },
+    {
+      "ANSWER": "Intermediary (subordinate) CA",
+      "QUESTION": "It means that the entity that this certificate was issued to can now sign other certificates"
+    },
+    {
+      "ANSWER": "Internet",
+      "QUESTION": "A worldwide system of interconnected networks"
+    },
+    {
+      "ANSWER": "Internet Corporation for Assigned Names and Numbers (ICANN)",
+      "QUESTION": "Where website names are registered"
+    },
+    {
+      "ANSWER": "Internet of Things (IoT)",
+      "QUESTION": "The concept that more and more devices are connected to the internet in a smarter fashion such as smart thermostats that turn off the air conditioner when you leave and turn it on when you come back"
+    },
+    {
+      "ANSWER": "Internet Protocol (IP)",
+      "QUESTION": "The most common protocol used in the network layer"
+    },
+    {
+      "ANSWER": "Internet Protocol version 4 (IPv4)",
+      "QUESTION": "An address that consists of 32 bits separated into four groups"
+    },
+    {
+      "ANSWER": "Internet Protocol version 6 (IPv6)",
+      "QUESTION": "An address that consist of a 128 bits, four times the amount that IPv4 uses"
+    },
+    {
+      "ANSWER": "Internet service provider (ISP)",
+      "QUESTION": "A company that provides a consumer an internet connection"
+    },
+    {
+      "ANSWER": "Internet Service Provider (ISP)",
+      "QUESTION": "A company that provides a consumer an internet connection"
+    },
+    {
+      "ANSWER": "Internetwork",
+      "QUESTION": "A collection of networks connected together through routers - the most famous of these being the Internet"
+    },
+    {
+      "ANSWER": "Interpreted programming language",
+      "QUESTION": "A language that isn't compiled ahead of time"
+    },
+    {
+      "ANSWER": "Intranet",
+      "QUESTION": "An internal network inside a company, accessible if you are on a company’s network"
+    },
+    {
+      "ANSWER": "Intrusion detection and intrusion protection systems (IDS/IPS)",
+      "QUESTION": "Operates by monitoring network traffic and analyzing it"
+    },
+    {
+      "ANSWER": "iOS",
+      "QUESTION": "A mobile operating system developed by Apple Inc."
+    },
+    {
+      "ANSWER": "IP address",
+      "QUESTION": "The most common protocol used in the network layer, used to helps us route information"
+    },
+    {
+      "ANSWER": "IP datagram",
+      "QUESTION": "A highly structured series of fields that are strictly defined"
+    },
+    {
+      "ANSWER": "IP masquerading",
+      "QUESTION": "The NAT obscures the sender's IP address from the receiver"
+    },
+    {
+      "ANSWER": "IP options field",
+      "QUESTION": "An optional field and is used to set special characteristics for datagrams primarily used for testing purposes"
+    },
+    {
+      "ANSWER": "IPsec (Internet Protocol security)",
+      "QUESTION": "A VPN protocol that was designed in conjunction with IPv6"
+    },
+    {
+      "ANSWER": "IP source guard (IPSG)",
+      "QUESTION": "It can be enabled on enterprise switches along with DHCP snooping"
+    },
+    {
+      "ANSWER": "IPv6 tunnel",
+      "QUESTION": "IPv6 tunnel servers on either end of a connection take incoming IPv6 traffic and encapsulate it within traditional IPv4 datagrams"
+    },
+    {
+      "ANSWER": "IPv6 tunnel brokers",
+      "QUESTION": "Companies that provide IPv6 tunneling endpoints for you, so you don't have to introduce additional equipment to your network"
+    },
+    {
+      "ANSWER": "Issuer Name",
+      "QUESTION": "This field contains information about the authority that signed the certificate"
+    },
+    {
+      "ANSWER": "IT Infrastructure",
+      "QUESTION": "The software, the hardware, network, and services required for an organization to operate in an enterprise IT environment"
+    },
+    {
+      "ANSWER": "ITX (Information Technology eXtended)",
+      "QUESTION": "A form factor for motherboards that is much smaller than ATX boards"
+    },
+    {
+      "ANSWER": "Kerberos",
+      "QUESTION": "A network authentication protocol that uses tickets to allow entities to prove their identity over potentially insecure channels to provide mutual authentication"
+    },
+    {
+      "ANSWER": "Kerberos",
+      "QUESTION": "A network authentication protocol that uses tickets to allow entities to prove their identity over potentially insecure channels to provide mutual authentication"
+    },
+    {
+      "ANSWER": "Kerckhoff's principle",
+      "QUESTION": "A principle that states that a cryptosystem, or a collection of algorithms for key generation and encryption and decryption operations that comprise a cryptographic service should remain secure, even if everything about the system is known except for the key"
+    },
+    {
+      "ANSWER": "Kernel",
+      "QUESTION": "The main core of an operating system that creates processes, efficiently schedules them, and manages how processes are terminated"
+    },
+    {
+      "ANSWER": "Kernel module",
+      "QUESTION": "It extends the kernel's functionality so developers don't have to actually touch the Linux kernel"
+    },
+    {
+      "ANSWER": "Key",
+      "QUESTION": "A crucial component of a cipher, which introduces something unique into your cipher"
+    },
+    {
+      "ANSWER": "Key escrow",
+      "QUESTION": "Allows encryption key to be securely stored for later retrieval by an authorized party"
+    },
+    {
+      "ANSWER": "Key length",
+      "QUESTION": "It defines the maximum potential strength of the system"
+    },
+    {
+      "ANSWER": "Keylogger",
+      "QUESTION": "A common type of spyware that's used to record every keystroke you make"
+    },
+    {
+      "ANSWER": "Key signing parties",
+      "QUESTION": "Organized by people who are interested in establishing a web of trust, and participants perform the same verification and signing"
+    },
+    {
+      "ANSWER": "Key size",
+      "QUESTION": "It is the total number of bits or data that comprises the encryption key"
+    },
+    {
+      "ANSWER": "KVM Switch",
+      "QUESTION": "Keyboard, video, & mouse switch that looks like a hub that you can connect multiple computers to and control using one keyboard, mouse, and monitor"
+    },
+    {
+      "ANSWER": "L2TP (Layer 2 Tunneling Protocol)",
+      "QUESTION": "It is typically used to support VPNs"
+    },
+    {
+      "ANSWER": "Land Grid Array (LGA)",
+      "QUESTION": "It is a type of CPU socket that stick out of the motherboard"
+    },
+    {
+      "ANSWER": "LDAP data interchange format",
+      "QUESTION": "The tool that allows you to authenticate, add, remove users, groups, computers and so on in a directory service"
+    },
+    {
+      "ANSWER": "LDAP Entry",
+      "QUESTION": "A collection of information that's used to describe something"
+    },
+    {
+      "ANSWER": "LDIF files",
+      "QUESTION": "A text file that lists attributes and values that describe something"
+    },
+    {
+      "ANSWER": "Library",
+      "QUESTION": "A way to package a bunch of useful code that someone else wrote"
+    },
+    {
+      "ANSWER": "Lightning adaptor",
+      "QUESTION": "One of the standard power, data and display connector types used in mobile devices"
+    },
+    {
+      "ANSWER": "Lightweight Directory Access Protocol (LDAP)",
+      "QUESTION": "An open industry-standard protocol for accessing and maintaining directory services; the most popular open-source alternative to the DAP"
+    },
+    {
+      "ANSWER": "Lightweight Directory Access Protocol (LDAP)",
+      "QUESTION": "An open industry-standard protocol for accessing and maintaining directory services; the most popular open-source alternative to the DAP"
+    },
+    {
+      "ANSWER": "Line coding",
+      "QUESTION": "Modulation used for computer networks"
+    },
+    {
+      "ANSWER": "Linked",
+      "QUESTION": "A GPO that all of the computers or users under a domain, site, or OU will have a policy applied"
+    },
+    {
+      "ANSWER": "Link-local unicast address",
+      "QUESTION": "Allow for local network segment communications and are configured based upon a host's MAC address"
+    },
+    {
+      "ANSWER": "Linux OS",
+      "QUESTION": "Linux is one of the largest an open source operating system used heavily in business infrastructure and in the consumer space"
+    },
+    {
+      "ANSWER": "Listen",
+      "QUESTION": "It means that a TCP socket is ready and listening for incoming connections"
+    },
+    {
+      "ANSWER": "List folder contents",
+      "QUESTION": "A command that will execute and list folder contents and is an alias for Read and Execute"
+    },
+    {
+      "ANSWER": "Load balancer",
+      "QUESTION": "Ensures that each VM receives a balanced number of queries"
+    },
+    {
+      "ANSWER": "Local Area Network (LAN)",
+      "QUESTION": "A single network in which multiple devices are connected"
+    },
+    {
+      "ANSWER": "Logging",
+      "QUESTION": "The act of creating log events"
+    },
+    {
+      "ANSWER": "Logic bomb",
+      "QUESTION": "A type of Malware that's intentionally installed"
+    },
+    {
+      "ANSWER": "Logic gates",
+      "QUESTION": "Allow transistors to do more complex tasks, like decide where to send electrical signals depending on logical conditions"
+    },
+    {
+      "ANSWER": "Log rotation",
+      "QUESTION": "A way for the OS to clean out log files to make room for new ones"
+    },
+    {
+      "ANSWER": "Logs",
+      "QUESTION": "Files that record system events on our computer"
+    },
+    {
+      "ANSWER": "Logs",
+      "QUESTION": "Files that record system events on our computer"
+    },
+    {
+      "ANSWER": "Logs analysis systems",
+      "QUESTION": "They are configured using user-defined rules to match interesting or atypical log entries"
+    },
+    {
+      "ANSWER": "Loopback address",
+      "QUESTION": "An IP address that always points to itself. This type of address is used to test internal pathing through the TCP/IP protocols"
+    },
+    {
+      "ANSWER": "MAC(Media Access Control) address",
+      "QUESTION": "A globally unique identifier attached to an individual network interface. It's a 48-bit number normally represented by six groupings of two hexadecimal numbers"
+    },
+    {
+      "ANSWER": "MAC address",
+      "QUESTION": "A globally unique identifier attached to an individual network interface. It's a 48-bit number normally represented by six groupings of two hexadecimal numbers"
+    },
+    {
+      "ANSWER": "MAC filtering",
+      "QUESTION": "Access points are configured to only allow for connections from a specific set of MAC addresses belonging to devices you trust"
+    },
+    {
+      "ANSWER": "Mac OS",
+      "QUESTION": "Apple's operating system"
+    },
+    {
+      "ANSWER": "MACs (Message Authentication Codes)",
+      "QUESTION": "A bit of information that allows authentication of a received message, ensuring that the message came from the alleged sender and not a third party masquerading as them"
+    },
+    {
+      "ANSWER": "Maintenance",
+      "QUESTION": "Where software is updated and hardware issues are fixed if, and when, they occur"
+    },
+    {
+      "ANSWER": "Malware",
+      "QUESTION": "A type of malicious software that can be used to obtain your sensitive information or delete or modify files"
+    },
+    {
+      "ANSWER": "Manifest",
+      "QUESTION": "A library used if an application needs to use a shared library"
+    },
+    {
+      "ANSWER": "Master boot record (MBR)",
+      "QUESTION": "a traditional partition table within a storage disk that lets you have volume sizes of 2 terabytes or less and is mostly used in the Windows OS"
+    },
+    {
+      "ANSWER": "Master file table (MFT)",
+      "QUESTION": "A way NTFS stores and represents the files you’re working with on your operating system"
+    },
+    {
+      "ANSWER": "Mb/s",
+      "QUESTION": "megabit per second, which is a unit of data transfer rate"
+    },
+    {
+      "ANSWER": "MD5",
+      "QUESTION": "A popular and widely used hash function designed in the early 1990s as a cryptographic hashing function"
+    },
+    {
+      "ANSWER": "MDM policy",
+      "QUESTION": "The profiles that contains settings for the device"
+    },
+    {
+      "ANSWER": "MDM profile",
+      "QUESTION": "The policies that contains settings for the device"
+    },
+    {
+      "ANSWER": "Meddler in the middle (formerly known as Man in the Middle)",
+      "QUESTION": "An attack that places the attacker in the middle of two hosts that think they're communicating directly with each other"
+    },
+    {
+      "ANSWER": "Memory controller chip (MCC)",
+      "QUESTION": "A bridge between the CPU and the RAM"
+    },
+    {
+      "ANSWER": "Memory management",
+      "QUESTION": "One of the functions that a kernel performs; it optimizes memory usage and make sure our applications have enough memory to run"
+    },
+    {
+      "ANSWER": "Memory manager",
+      "QUESTION": "A Windows OS program that helps manage virtual memory"
+    },
+    {
+      "ANSWER": "Memory usage",
+      "QUESTION": "The amount of memory available in your system as well as what memory is currently being used by other applications"
+    },
+    {
+      "ANSWER": "Mesh networks",
+      "QUESTION": "Like ad-hoc networks, lots of devices communicate with each other device, forming a mesh if you were to draw lines for all the links between all the nodes"
+    },
+    {
+      "ANSWER": "Metadata",
+      "QUESTION": "Tells us everything we need to know about a file, including who created it, when it was last modified, who has access to it, and what type of file it is"
+    },
+    {
+      "ANSWER": "Metadata",
+      "QUESTION": "Tells us everything we need to know about a file, including who created it, when it was last modified, who has access to it, and what type of file it is."
+    },
+    {
+      "ANSWER": "Metered connection",
+      "QUESTION": "An internet connection where all data transfer usage is tracked. Cell phone plans that have a limit on data usage per month or that charge based on usage are examples of metered connections"
+    },
+    {
+      "ANSWER": "MIC (Message Integrity Check)",
+      "QUESTION": "It is essentially a hash digest of the message in question"
+    },
+    {
+      "ANSWER": "Micro display port",
+      "QUESTION": "One of the standard power, data and display connector types used in mobile devices"
+    },
+    {
+      "ANSWER": "Micro HDMI",
+      "QUESTION": "One of the standard power, data and display connector types used in mobile devices"
+    },
+    {
+      "ANSWER": "Microsoft Install Package(.msi) and MSI files",
+      "QUESTION": "Microsoft Install Package is a file extension used to guide a program called Windows Installer in the installation, maintenance, and removal of programs of the windows operating systems. MSI files are a combination of of databases that contain installation instructions in different tables along with all the files"
+    },
+    {
+      "ANSWER": "Microsoft Terminal Services Client",
+      "QUESTION": "A client program used to create RDP connections to remote computers"
+    },
+    {
+      "ANSWER": "Micro USB",
+      "QUESTION": "One of the standard power, data and display connector types used in mobile devices"
+    },
+    {
+      "ANSWER": "Mini HDMI",
+      "QUESTION": "One of the standard power, data and display connector types used in mobile devices"
+    },
+    {
+      "ANSWER": "Mini USB",
+      "QUESTION": "One of the standard power, data and display connector types used in mobile devices"
+    },
+    {
+      "ANSWER": "Mobile applications",
+      "QUESTION": "Software that is distributed on mobile OS devices"
+    },
+    {
+      "ANSWER": "Mobile device management",
+      "QUESTION": "A system used to apply and enforce rules about how the device has to be configured and used"
+    },
+    {
+      "ANSWER": "Modify",
+      "QUESTION": "An umbrella permission that includes read and execute and write"
+    },
+    {
+      "ANSWER": "Modulation",
+      "QUESTION": "A way of varying the voltage of a constant electrical charge moving across a standard copper network cable"
+    },
+    {
+      "ANSWER": "Monitor mode",
+      "QUESTION": "It allows to scan across channels to see all wireless traffic being sent by APs and clients"
+    },
+    {
+      "ANSWER": "Motherboard",
+      "QUESTION": "The body or circulatory system of the computer that connects all the pieces together"
+    },
+    {
+      "ANSWER": "Mounting",
+      "QUESTION": "Making a file or hard disk accessible to the computer"
+    },
+    {
+      "ANSWER": "Multicast",
+      "QUESTION": "A way of addressing groups of hosts all at once"
+    },
+    {
+      "ANSWER": "Multicast frame",
+      "QUESTION": "If the least significant bit in the first octet of a destination address is set to one, it means you're dealing with a multicast frame. A multicast frame is similarly set to all devices on the local network signal, and it will be accepted or discarded by each device depending on criteria aside from their own hardware MAC address"
+    },
+    {
+      "ANSWER": "Multifactor authentication (MFA)",
+      "QUESTION": "A system where users are authenticated by presenting multiple pieces of information or objects"
+    },
+    {
+      "ANSWER": "Multilingual user interface",
+      "QUESTION": "Interface that offers and support different languages"
+    },
+    {
+      "ANSWER": "Multiplexing",
+      "QUESTION": "It means that nodes on the network have the ability to direct traffic toward many different receiving services"
+    },
+    {
+      "ANSWER": "MX record",
+      "QUESTION": "It stands for mail exchange and this resource record is used in order to deliver email to the correct server"
+    },
+    {
+      "ANSWER": "Name resolution",
+      "QUESTION": "This process of using DNS to turn a domain name into an IP address"
+    },
+    {
+      "ANSWER": "NAS device",
+      "QUESTION": "A network attached storage device that has hard drives to automatically create backups and store data"
+    },
+    {
+      "ANSWER": "Network",
+      "QUESTION": "The interconnection of computers"
+    },
+    {
+      "ANSWER": "Network Address Translation (NAT)",
+      "QUESTION": "A mitigation tool that lets organizations use one public IP address and many private IP addresses within the network"
+    },
+    {
+      "ANSWER": "Network Address Translation (NAT)",
+      "QUESTION": "A mitigation tool that lets organizations use one public IP address and many private IP addresses within the network"
+    },
+    {
+      "ANSWER": "Network file system",
+      "QUESTION": "A protocol that enables files to be shared over a network"
+    },
+    {
+      "ANSWER": "Network hardening",
+      "QUESTION": "Is the process of securing a network by reducing its potential vulnerabilities through configuration changes, and taking specific steps"
+    },
+    {
+      "ANSWER": "Networking",
+      "QUESTION": "Managing, building and designing networks"
+    },
+    {
+      "ANSWER": "Networking protocols",
+      "QUESTION": "A set of rules for how we transfer data in a network"
+    },
+    {
+      "ANSWER": "Network layer",
+      "QUESTION": "It's the layer that allows different networks to communicate with each other through devices known as routers. It is responsible for getting data delivered across a collection of networks"
+    },
+    {
+      "ANSWER": "Network port",
+      "QUESTION": "The physical connector to be able to connect a device to the network. This may be attached directly to a device on a computer network, or could also be located on a wall or on a patch panel"
+    },
+    {
+      "ANSWER": "Network separation (network segmentation)",
+      "QUESTION": "A good security principle for an IT support specialists to implement. It permits more flexible management of the network, and provides some security benefits. This is the concept of using VLANs to create virtual networks for different device classes or types"
+    },
+    {
+      "ANSWER": "Network software hardening",
+      "QUESTION": "Includes things like firewalls, proxies, and VPNs"
+    },
+    {
+      "ANSWER": "Network stack",
+      "QUESTION": "A set of hardware or software that provides the infrastructure for a computer"
+    },
+    {
+      "ANSWER": "Network switch",
+      "QUESTION": "It is a level 2 or data link device that can connect to many devices so they can communicate. It can inspect the contents of the Ethernet protocol data being sent around the network, determine which system the data is intended for and then only send that data to that one system"
+    },
+    {
+      "ANSWER": "Network time protocol (NTP)",
+      "QUESTION": "A network protocol used to synchronize the time between the authenticator token and the authentication server"
+    },
+    {
+      "ANSWER": "Next header field",
+      "QUESTION": "Defines what kind of header is immediately after this current one"
+    },
+    {
+      "ANSWER": "Next hop",
+      "QUESTION": "The IP address of the next router that should receive data intended for the destination networking question or this could just state the network is directly connected and that there aren't any additional hops needed. Defined as part of the routing table"
+    },
+    {
+      "ANSWER": "NIST",
+      "QUESTION": "National Institute of Standards and Technology"
+    },
+    {
+      "ANSWER": "Node",
+      "QUESTION": "Any device connected to a network. On most networks, each node will typically act as a server or a client"
+    },
+    {
+      "ANSWER": "Non-metered connection",
+      "QUESTION": "A connection where your data usage is not tracked or limited, instead you are charged a flat fee for unlimited and unrestricted usage. A Wi-Fi connection is an example of a non-metered connection"
+    },
+    {
+      "ANSWER": "Non-routable address space",
+      "QUESTION": "They are ranges of IPs set aside for use by anyone that cannot be routed to"
+    },
+    {
+      "ANSWER": "Normalization",
+      "QUESTION": "It's the process of taking log data in different formats and converting it into a standardized format that's consistent with a defined log structure"
+    },
+    {
+      "ANSWER": "Northbridge",
+      "QUESTION": "interconnects stuff like RAM and video cards"
+    },
+    {
+      "ANSWER": "NS record",
+      "QUESTION": "It indicates other name servers that may also be responsible for a particular zone"
+    },
+    {
+      "ANSWER": "NTP",
+      "QUESTION": "Network Time Protocol, keeping clocks synchronized on machines connected to a network"
+    },
+    {
+      "ANSWER": "NTP servers",
+      "QUESTION": "Used to keep all computers on a network synchronized in time"
+    },
+    {
+      "ANSWER": "NVMe (NVM Express)",
+      "QUESTION": "interface standard which allows greater throughput of data and increased efficiency"
+    },
+    {
+      "ANSWER": "OAuth",
+      "QUESTION": "An open standard that allows users to grant third-party websites and applications access to their information without sharing account credentials"
+    },
+    {
+      "ANSWER": "Octet",
+      "QUESTION": "Any number that can be represented by 8 bits"
+    },
+    {
+      "ANSWER": "One-time password (OTP)",
+      "QUESTION": "A short-lived token, typically a number that's entered along with a username and password"
+    },
+    {
+      "ANSWER": "One-time password (OTP) tokens",
+      "QUESTION": "Another very common method for handling multifactor"
+    },
+    {
+      "ANSWER": "One-way cryptographic hash",
+      "QUESTION": "The method used by AD to store passwords"
+    },
+    {
+      "ANSWER": "OpenID",
+      "QUESTION": "An open standard that allows participating sites known as Relying Parties to allow authentication of users utilizing a third party authentication service"
+    },
+    {
+      "ANSWER": "OpenLDAP (lightweight directory access protocol)",
+      "QUESTION": "An open source and free directory service"
+    },
+    {
+      "ANSWER": "Open source",
+      "QUESTION": "This means the developers will let other developers share, modify, and distribute their software for free"
+    },
+    {
+      "ANSWER": "Open SSH",
+      "QUESTION": "The most popular program to use SSH within Linux"
+    },
+    {
+      "ANSWER": "Operating system",
+      "QUESTION": "The whole package that manages our computers resources and lets us interact with it"
+    },
+    {
+      "ANSWER": "Optical Network Terminator",
+      "QUESTION": "Converts data from protocols the fiber network can understand to those that are more traditional twisted pair copper networks can understand"
+    },
+    {
+      "ANSWER": "Options field",
+      "QUESTION": "It is sometimes used for more complicated flow control protocols"
+    },
+    {
+      "ANSWER": "Organizationally Unique Identifier (OUI)",
+      "QUESTION": "The first three octets of a MAC address"
+    },
+    {
+      "ANSWER": "Organizational units (OU)",
+      "QUESTION": "A hierarchical model of objects and containers that can contain objects or more organizational units"
+    },
+    {
+      "ANSWER": "Organizational units (OUs)",
+      "QUESTION": "Folders that let us group related objects into units like people or groups to distinguish between individual user accounts and groups that accounts can belong to"
+    },
+    {
+      "ANSWER": "OSI model",
+      "QUESTION": "A model used to define how network devices communicate. This model has seven layers that stack on top of each other - Physical, Data Link, Network, Transport, Session, Presentation, and Application"
+    },
+    {
+      "ANSWER": "OTA update",
+      "QUESTION": "A type of update that is installed by the mobile device itself"
+    },
+    {
+      "ANSWER": "Overclocking",
+      "QUESTION": "it increases the rate of your CPU clock cycles in order to perform more tasks"
+    },
+    {
+      "ANSWER": "Packaged archives",
+      "QUESTION": "The core or source software files that are compressed into one file"
+    },
+    {
+      "ANSWER": "Packaged managers",
+      "QUESTION": "An application that makes package installation and removal easier"
+    },
+    {
+      "ANSWER": "Packet sniffing (packet capture)",
+      "QUESTION": "the process of intercepting network packets in their entirety for analysis"
+    },
+    {
+      "ANSWER": "Padding field",
+      "QUESTION": "A series of zeros used to ensure the header is the correct total size"
+    },
+    {
+      "ANSWER": "Pairing",
+      "QUESTION": "When a wireless peripheral connects to a mobile device, and the two devices exchange information, sometimes including a PIN or password, so that they can remember each other"
+    },
+    {
+      "ANSWER": "Pairwise Transient Key (PTK)",
+      "QUESTION": "It is generated using the PMK, AP nonce, Client nonce, AP MAC address, and Client MAC address"
+    },
+    {
+      "ANSWER": "Parameter",
+      "QUESTION": "A value that is associated with a command"
+    },
+    {
+      "ANSWER": "Parent directory & child directories",
+      "QUESTION": "A parent directory is a directory that houses all subsequent child directories"
+    },
+    {
+      "ANSWER": "Parent group",
+      "QUESTION": "Groups that are principal groups and contain other groups"
+    },
+    {
+      "ANSWER": "Partition",
+      "QUESTION": "A logical division of a hard disk that is treated as a separate unit by operating systems and file systems"
+    },
+    {
+      "ANSWER": "Partition table",
+      "QUESTION": "How the disk is partitioned on an OS"
+    },
+    {
+      "ANSWER": "Password attacks",
+      "QUESTION": "Utilize software like password crackers that try and guess your password"
+    },
+    {
+      "ANSWER": "Password salt",
+      "QUESTION": "Additional randomized data that's added into the hashing function to generate the hash that's unique to the password and salt combination"
+    },
+    {
+      "ANSWER": "Patch panel",
+      "QUESTION": "A device containing many physical network ports"
+    },
+    {
+      "ANSWER": "Paths",
+      "QUESTION": "A main directory that branches off and holds other directories and files"
+    },
+    {
+      "ANSWER": "Payload",
+      "QUESTION": "The actual data being transported, which is everything that isn't a header"
+    },
+    {
+      "ANSWER": "Payload length field",
+      "QUESTION": "16-bit field that defines how long the data payload section of the datagram is"
+    },
+    {
+      "ANSWER": "PBKDF2 (Password Based Key Derivation Function 2)",
+      "QUESTION": "Password Based Key Derivation Function 2"
+    },
+    {
+      "ANSWER": "PC",
+      "QUESTION": "Personal computer, which technically means a computer that one person uses"
+    },
+    {
+      "ANSWER": "PCI DSS",
+      "QUESTION": "Payment Card Industry Data Security Standard"
+    },
+    {
+      "ANSWER": "PCI Express",
+      "QUESTION": "Peripheral Component Interconnect Express"
+    },
+    {
+      "ANSWER": "PDA (Personal Digital Assistant)",
+      "QUESTION": "Allows computing to go mobile"
+    },
+    {
+      "ANSWER": "Penetration testing",
+      "QUESTION": "The practice of attempting to break into a system or network to verify the systems in place"
+    },
+    {
+      "ANSWER": "Peripherals",
+      "QUESTION": "the external devices which we connect to our computer that add functionality, like - a mouse, a keyboard, and a monitor"
+    },
+    {
+      "ANSWER": "Permission denied",
+      "QUESTION": "An error message you might find when accessing a protected file"
+    },
+    {
+      "ANSWER": "Personal package archives",
+      "QUESTION": "A software repository for uploading source packages to be built and published"
+    },
+    {
+      "ANSWER": "PGP (Pretty Good Privacy) encryption",
+      "QUESTION": "An encryption application that allows authentication of data along with privacy from third parties relying upon asymmetric encryption to achieve this"
+    },
+    {
+      "ANSWER": "Phishing attack",
+      "QUESTION": "It usually occurs when a malicious email is sent to a victim disguised as something legitimate"
+    },
+    {
+      "ANSWER": "PHPLDAPadmin",
+      "QUESTION": "A tool to manage OpenLDAP"
+    },
+    {
+      "ANSWER": "Physical layer",
+      "QUESTION": "It represents the physical devices that interconnect computers"
+    },
+    {
+      "ANSWER": "Physical tokens",
+      "QUESTION": "They take a few different forms, such as a USB device with a secret token on it, a standalone device which generates a token, or even a simple key used with a traditional lock"
+    },
+    {
+      "ANSWER": "PIN authentication method",
+      "QUESTION": "It uses PINs that are eight-digits long, but the last digit is a checksum that's computed from the first seven digits"
+    },
+    {
+      "ANSWER": "Ping flood",
+      "QUESTION": "It sends tons of ping packets to a system. If a computer can't keep up with this, then it's prone to being overwhelmed and taken down"
+    },
+    {
+      "ANSWER": "Pin Grid Array (PGA)",
+      "QUESTION": "CPU socket where the pins are located on the processor itself"
+    },
+    {
+      "ANSWER": "PKI system",
+      "QUESTION": "A system that defines the creation, storage and distribution of digital certificates"
+    },
+    {
+      "ANSWER": "Platform as a service",
+      "QUESTION": "A subset of cloud computing where a platform is provided for customers to run their services"
+    },
+    {
+      "ANSWER": "Platform key",
+      "QUESTION": "It's the public key corresponding to the private key used to sign the boot files"
+    },
+    {
+      "ANSWER": "Platform services",
+      "QUESTION": "A platform for developers to completely build and deploy software applications, without having to deal with OS maintenance, server hardware, networking or other services that are needed to use the platform tools"
+    },
+    {
+      "ANSWER": "Plink (PuTTY Link)",
+      "QUESTION": "A tool built into the command line after PuTTY is installed that is used to make remote SSH connections"
+    },
+    {
+      "ANSWER": "Pointer resource record",
+      "QUESTION": "It resolves an IP to a name"
+    },
+    {
+      "ANSWER": "Point-To-Point VPN",
+      "QUESTION": "Establishes a VPN tunnel between two sites but VPN tunneling logic is handled by network devices at either side, so that users don't all have to establish their own connections"
+    },
+    {
+      "ANSWER": "Policies",
+      "QUESTION": "Settings that are reapplied every few minutes, and aren’t meant to be changed even by the local administrators"
+    },
+    {
+      "ANSWER": "Port",
+      "QUESTION": "It is a 16-bit number that's used to direct traffic to specific services running on a networked computer"
+    },
+    {
+      "ANSWER": "Portable Executable (PE) format",
+      "QUESTION": "Windows unique version of .exe"
+    },
+    {
+      "ANSWER": "Port forwarding",
+      "QUESTION": "A technique where specific destination ports can be configured to always be delivered to specific nodes"
+    },
+    {
+      "ANSWER": "Port mirroring",
+      "QUESTION": "Allows the switch to take all packets from a specified port, port range, or the entire VLAN and mirror the packets to a specified switch port"
+    },
+    {
+      "ANSWER": "Port preservation",
+      "QUESTION": "A technique where the source port chosen by a client, is the same port used by the router"
+    },
+    {
+      "ANSWER": "Ports",
+      "QUESTION": "Connection points that we can connect devices to that extend the functionality of our computer"
+    },
+    {
+      "ANSWER": "POST (Power On Self Test)",
+      "QUESTION": "It figures out what hardware is on the computer"
+    },
+    {
+      "ANSWER": "Post-fail analysis",
+      "QUESTION": "Investigating how a compromise happened after the breach is detected"
+    },
+    {
+      "ANSWER": "Post mortem",
+      "QUESTION": "A way for you to document any problems you discovered along the when recovering data, and the ways you fixed them so you can make sure they don't happen again"
+    },
+    {
+      "ANSWER": "Powershell",
+      "QUESTION": "A shell (program that interprets text commands) for Windows"
+    },
+    {
+      "ANSWER": "Power supply",
+      "QUESTION": "Converts electricity from our wall outlet onto a format that our computer can use"
+    },
+    {
+      "ANSWER": "Power user",
+      "QUESTION": "Above average computer users"
+    },
+    {
+      "ANSWER": "Preamble",
+      "QUESTION": "The first part of an Ethernet frame, it is 8 bytes or 64 bits long and can itself be split into two sections"
+    },
+    {
+      "ANSWER": "Precedence",
+      "QUESTION": "When computers are processing the Group Policy Objects that apply to them, all of these policies will be applied in a specific order based on a set of precedents rules"
+    },
+    {
+      "ANSWER": "Presentation layer",
+      "QUESTION": "It is responsible for making sure that the unencapsulated application layer data is actually able to be understood by the application in question"
+    },
+    {
+      "ANSWER": "Pre-shared key",
+      "QUESTION": "It's the Wi-Fi password you share with people when they come over and want to use your wireless network"
+    },
+    {
+      "ANSWER": "Preventative measures",
+      "QUESTION": "Any procedures or systems in place that will proactively minimize the impact of a disaster"
+    },
+    {
+      "ANSWER": "Primary account",
+      "QUESTION": "The initial account you made during setup"
+    },
+    {
+      "ANSWER": "Principle of least privilege",
+      "QUESTION": "Helps to ensure that sensitive data is only accessed by people who are authorized to access it"
+    },
+    {
+      "ANSWER": "Privacy policies",
+      "QUESTION": "Oversees the access and use of sensitive data"
+    },
+    {
+      "ANSWER": "Private cloud",
+      "QUESTION": "When a company owns the services and the rest of the cloud infrastructure, whether on-site or in a remote data center"
+    },
+    {
+      "ANSWER": "Private cloud",
+      "QUESTION": "When a company owns the services and the rest of the cloud infrastructure, whether on-site or in a remote data center"
+    },
+    {
+      "ANSWER": "Processes",
+      "QUESTION": "Help the computer run programs"
+    },
+    {
+      "ANSWER": "Process Explorer",
+      "QUESTION": "A utility Microsoft created to let IT support specialists and system administrators look at running processes"
+    },
+    {
+      "ANSWER": "Process ID",
+      "QUESTION": "Unique identifier for processes on your computer"
+    },
+    {
+      "ANSWER": "Process management",
+      "QUESTION": "The capacity to manage the many programs in a system - when to run them, the order they run in, how many resources they take up, how long they run, et cetera"
+    },
+    {
+      "ANSWER": "Process monitoring",
+      "QUESTION": "A way of monitoring what processes are happening during installation"
+    },
+    {
+      "ANSWER": "Process scheduler",
+      "QUESTION": "The part of the kernel that makes multitasking possible"
+    },
+    {
+      "ANSWER": "Procurement",
+      "QUESTION": "Hardware is purchased or reused for an employee"
+    },
+    {
+      "ANSWER": "Production",
+      "QUESTION": "The parts of the infrastructure where certain services are executed and serve to its users production"
+    },
+    {
+      "ANSWER": "Programming",
+      "QUESTION": "Coding in a programming language"
+    },
+    {
+      "ANSWER": "Programming language",
+      "QUESTION": "Special languages that software developers use to write instructions for computers to execute"
+    },
+    {
+      "ANSWER": "Programs",
+      "QUESTION": "Basic instructions that tell the computer what to do"
+    },
+    {
+      "ANSWER": "Programs",
+      "QUESTION": "The applications that we can run"
+    },
+    {
+      "ANSWER": "Promiscuous mode",
+      "QUESTION": "A type of computer networking operational mode in which all network data packets can be accessed and viewed by all network adapters operating in this mode"
+    },
+    {
+      "ANSWER": "Prompt",
+      "QUESTION": "A prompt shows you which directory you’re currently in"
+    },
+    {
+      "ANSWER": "Protocol",
+      "QUESTION": "A defined set of standards that computers must follow in order to communicate properly is called a protocol"
+    },
+    {
+      "ANSWER": "Protocol field",
+      "QUESTION": "A protocol field is an 8-bit field that contains data about what transport layer protocol is being used"
+    },
+    {
+      "ANSWER": "Proxy",
+      "QUESTION": "Can be useful to protect client devices and their traffic. They also provide secure remote access without using a VPN"
+    },
+    {
+      "ANSWER": "Proxy server",
+      "QUESTION": "An intermediary between a company's network and the Internet, receiving network traffic and relaying that information to the company network"
+    },
+    {
+      "ANSWER": "Proxy service",
+      "QUESTION": "A server that acts on behalf of a client in order to access another service"
+    },
+    {
+      "ANSWER": "Pseudo-random",
+      "QUESTION": "Something that isn't truly random"
+    },
+    {
+      "ANSWER": "PSH flag",
+      "QUESTION": "One of the TCP control flags. PSH is short for push. This flag means that the transmitting device wants the receiving device to push currently- buffered data to the application on the receiving end as soon as possible"
+    },
+    {
+      "ANSWER": "Public cloud",
+      "QUESTION": "The cloud services provided by a third party"
+    },
+    {
+      "ANSWER": "Public cloud",
+      "QUESTION": "The cloud services provided by a third party"
+    },
+    {
+      "ANSWER": "Public DNS servers",
+      "QUESTION": "Name servers specifically set up so that anyone can use them for free"
+    },
+    {
+      "ANSWER": "Public key authentication",
+      "QUESTION": "A key pair is generated by the user who wants to authenticate"
+    },
+    {
+      "ANSWER": "Public key signatures",
+      "QUESTION": "Digital signature generated by composing the message and combining it with the private key"
+    },
+    {
+      "ANSWER": "Punch cards",
+      "QUESTION": "A sequence of cards with holes in them to automatically perform calculations instead of manually entering them by hand"
+    },
+    {
+      "ANSWER": "Quad A (AAAA) record",
+      "QUESTION": "It is very similar to an A record except that it returns in IPv6 address instead of an IPv4 address"
+    },
+    {
+      "ANSWER": "Qwiklabs",
+      "QUESTION": "An online platform which provides training in cloud services"
+    },
+    {
+      "ANSWER": "RA (Registration Authority)",
+      "QUESTION": "It is responsible for verifying the identities of any entities requesting certificates to be signed and stored with the CA"
+    },
+    {
+      "ANSWER": "RAID (redundant array of independent disks)",
+      "QUESTION": "A method of taking multiple physical disks and combining them into one large virtual disk"
+    },
+    {
+      "ANSWER": "Rainbow table attacks",
+      "QUESTION": "To trade computational power for disk space by pre-computing the hashes and storing them in a table"
+    },
+    {
+      "ANSWER": "Rainbow tables",
+      "QUESTION": "A pre-computed table of all possible password values and their corresponding hashes"
+    },
+    {
+      "ANSWER": "RAM",
+      "QUESTION": "Random Access Memory"
+    },
+    {
+      "ANSWER": "Random numbers",
+      "QUESTION": "A very important concept in encryption because it avoids some kind of pattern that an adversary can discover through close observation and analysis of encrypted messages over time"
+    },
+    {
+      "ANSWER": "Ransomware",
+      "QUESTION": "A type of attack that holds your data or system hostage until you pay some sort of ransom"
+    },
+    {
+      "ANSWER": "RC4 (Rivest Cipher 4)",
+      "QUESTION": "Asymmetric stream cipher that gained widespread adoption because of its simplicity and speed"
+    },
+    {
+      "ANSWER": "Read and execute permission",
+      "QUESTION": "Permissions that grant you access to read the file that exists and execute it if its runnable"
+    },
+    {
+      "ANSWER": "Read permission",
+      "QUESTION": "Permissions that grant you access to read the file that exists"
+    },
+    {
+      "ANSWER": "Read-write replicas",
+      "QUESTION": "Domain controllers in the Active Directory network that each have a complete copy of the AD database and are able to make changes to it"
+    },
+    {
+      "ANSWER": "Receiving address",
+      "QUESTION": "The MAC address of the access point that should receive the frame"
+    },
+    {
+      "ANSWER": "Recoverability",
+      "QUESTION": "How complicated and time-consuming the recovery effort will be"
+    },
+    {
+      "ANSWER": "Recursive name servers",
+      "QUESTION": "Servers that perform full DNS resolution requests"
+    },
+    {
+      "ANSWER": "Re-flash",
+      "QUESTION": "A way to preserve end-user data on a device that you plan on resetting"
+    },
+    {
+      "ANSWER": "Regions",
+      "QUESTION": "A geographical location containing a number of data centers"
+    },
+    {
+      "ANSWER": "Registers",
+      "QUESTION": "An accessible location for storing the data that our CPU works with"
+    },
+    {
+      "ANSWER": "Registrar",
+      "QUESTION": "An organization responsible for assigning individual domain names to other organizations or individuals"
+    },
+    {
+      "ANSWER": "Regular expression",
+      "QUESTION": "A pattern matching language that describes words, phrases, or more complicated patterns; regular expressions are used to help you do advanced pattern based selection"
+    },
+    {
+      "ANSWER": "Reimaging",
+      "QUESTION": "The process of reimaging involves wiping and reinstalling an operating system using a disk image which is a copy of an operating system"
+    },
+    {
+      "ANSWER": "Relative path",
+      "QUESTION": "It is a path from your current directory"
+    },
+    {
+      "ANSWER": "Remote attestation",
+      "QUESTION": "The idea of a system authenticating its software and hardware configuration to a remote system"
+    },
+    {
+      "ANSWER": "Remote Authentication Dial-in User Service (RADIUS)",
+      "QUESTION": "A protocol that provides AAA services for users on a network"
+    },
+    {
+      "ANSWER": "Remote connection",
+      "QUESTION": "The ability to connect an authorized person to a computer or network remotely; allows us to manage multiple machines from anywhere in the world"
+    },
+    {
+      "ANSWER": "Remote Desktop Protocol (RDP)",
+      "QUESTION": "A secure network communication protocol developed by Microsoft that allows a user to connect to another device remotely"
+    },
+    {
+      "ANSWER": "Remote wipe",
+      "QUESTION": "A factory reset that you can trigger from your central MDM rather than having to do it in person on the device"
+    },
+    {
+      "ANSWER": "Replication",
+      "QUESTION": "the store directory data is copied and distributed across a number of physically distributed servers but still appears as one unified data store for querying and administering"
+    },
+    {
+      "ANSWER": "Replication failure",
+      "QUESTION": "A reason that a GPO might fail to apply as expected"
+    },
+    {
+      "ANSWER": "Repository",
+      "QUESTION": "A server that acts like a central storage location for packages"
+    },
+    {
+      "ANSWER": "Reproduction case",
+      "QUESTION": "Recreating an error to test a solution to make sure the problem is gone after a fix has been applied"
+    },
+    {
+      "ANSWER": "Reset",
+      "QUESTION": "When an SysAdmin restores or resets the password of a user"
+    },
+    {
+      "ANSWER": "Resource monitoring",
+      "QUESTION": "The most common way to quickly take a peek at how system resources are doing"
+    },
+    {
+      "ANSWER": "Restart",
+      "QUESTION": "A command that will let the machine reboot to complete a domain join"
+    },
+    {
+      "ANSWER": "Restoration procedures",
+      "QUESTION": "A recovery process and process needs to be tested regularly that is documented and accessible so that anyone with the right access can restore operation when needed"
+    },
+    {
+      "ANSWER": "Resultant set of policy (RSOP)",
+      "QUESTION": "The policy that forms when all of the group policies have been grouped together for a specific machine and apply precedence rules to them"
+    },
+    {
+      "ANSWER": "Retirement",
+      "QUESTION": "Hardware becomes unusable or no longer needed, and it needs to be properly removed from the fleet"
+    },
+    {
+      "ANSWER": "Return merchandise authorization (RMA)",
+      "QUESTION": "The process of receiving returned merchandise and authorizing a refund"
+    },
+    {
+      "ANSWER": "Reverse lookup zone files",
+      "QUESTION": "They let DNS resolvers ask for an IP, and get the FQDN associated with it returned"
+    },
+    {
+      "ANSWER": "Reverse proxy",
+      "QUESTION": "A service that might appear to be a single server to external clients, but actually represents many servers living behind it"
+    },
+    {
+      "ANSWER": "Reverse proxy",
+      "QUESTION": "A service that might appear to be a single server to external clients, but actually represents many servers living behind it"
+    },
+    {
+      "ANSWER": "RGB model",
+      "QUESTION": "Red, green, and blue is the basic model of representing colors"
+    },
+    {
+      "ANSWER": "Risk",
+      "QUESTION": "The possibility of suffering a loss in the event of an attack on the system"
+    },
+    {
+      "ANSWER": "Risk assessment",
+      "QUESTION": "Allows you to prioritize certain aspects of the organization that are more at risk if there’s an unforeseen event"
+    },
+    {
+      "ANSWER": "Risk mitigation",
+      "QUESTION": "Understanding the risks your systems face, take measures to reduce those risks, and monitor them"
+    },
+    {
+      "ANSWER": "Rogue Access Point (AP) Attack",
+      "QUESTION": "An access point that is installed on the network without the network administrator's knowledge"
+    },
+    {
+      "ANSWER": "Rogue DHCP server attack",
+      "QUESTION": "An attacker can hand out DHCP leases with whatever information they want by deploying a rogue DHCP server on your network, setting a gateway address or DNS server, that's actually a machine within their control"
+    },
+    {
+      "ANSWER": "Role-based access control (RBAC)",
+      "QUESTION": "The process of changing a persons group that they are a part of when they have changed roles within a company to limit or change their access to resources"
+    },
+    {
+      "ANSWER": "Rollback",
+      "QUESTION": "Reverting to the previous state before you made changes"
+    },
+    {
+      "ANSWER": "ROM chip (Read Only Memory)",
+      "QUESTION": "A read-only memory chip where the BIOS is stored"
+    },
+    {
+      "ANSWER": "Root cause",
+      "QUESTION": "The main factor that's causing a range of issues"
+    },
+    {
+      "ANSWER": "Root certificate authority",
+      "QUESTION": "They are self signed because they are the start of the chain of trust, so there's no higher authority that can sign on their behalf"
+    },
+    {
+      "ANSWER": "Root directory",
+      "QUESTION": "A parent directory for all other directories in a file system"
+    },
+    {
+      "ANSWER": "Rootkit",
+      "QUESTION": "A collection of software or tools that an admin would use"
+    },
+    {
+      "ANSWER": "Root user",
+      "QUESTION": "It is the first user that gets automatically created when we install a Linux OS and has all the privileges on the OS. Also called the super user. There's technically only one superuser or root account, but anyone that's granted access to use their powers can be called a superuser too"
+    },
+    {
+      "ANSWER": "Round robin",
+      "QUESTION": "It is a concept that involves iterating over a list of items one by one in an orderly fashion"
+    },
+    {
+      "ANSWER": "Router",
+      "QUESTION": "A device that knows how to forward data between independent networks"
+    },
+    {
+      "ANSWER": "Router",
+      "QUESTION": "A device that knows how to forward data between independent networks"
+    },
+    {
+      "ANSWER": "Routing protocols",
+      "QUESTION": "Special protocols the routers use to speak to each other in order to share what information they might have"
+    },
+    {
+      "ANSWER": "RPM",
+      "QUESTION": "Revolutions per minute"
+    },
+    {
+      "ANSWER": "RSA",
+      "QUESTION": "One of the first practical asymmetric cryptography systems to be developed, named for the initials of the three co-inventors - Ron Rivest, Adi Shamir and Leonard Adleman"
+    },
+    {
+      "ANSWER": "RSOP report",
+      "QUESTION": "The process of troubleshooting group policy and comparing what you expect to be applied to a computer and the resultant set of policy report"
+    },
+    {
+      "ANSWER": "RST flag",
+      "QUESTION": "One of the TCP control flags. RST is short for reset. This flag means that one of the sides in a TCP connection hasn't been able to properly recover from a series of missing or malformed segments"
+    },
+    {
+      "ANSWER": "SACL's",
+      "QUESTION": "System Access Control List"
+    },
+    {
+      "ANSWER": "Safe operating temperature",
+      "QUESTION": "The temperature range in which rechargeable batteries must be kept in order to avoid demanage"
+    },
+    {
+      "ANSWER": "SATA",
+      "QUESTION": "The most popular serial ATA drive, which uses one cable for data transfers"
+    },
+    {
+      "ANSWER": "Scalability",
+      "QUESTION": "The measure of a system’s ability to increase or decrease in performance and cost in response to varying loads in system processing demands"
+    },
+    {
+      "ANSWER": "Screen lock",
+      "QUESTION": "A security feature that helps prevent unwanted access by creating an action you have to do to gain entry"
+    },
+    {
+      "ANSWER": "Script",
+      "QUESTION": "It is run by an interpreter, which interprets the code into CPU instructions just in time to run them"
+    },
+    {
+      "ANSWER": "Scripting",
+      "QUESTION": "Coding in a scripting language"
+    },
+    {
+      "ANSWER": "Scripts",
+      "QUESTION": "Mainly used to perform a single or limited range task"
+    },
+    {
+      "ANSWER": "SD devices",
+      "QUESTION": "Mass storage devices like hard drives"
+    },
+    {
+      "ANSWER": "SDRAM",
+      "QUESTION": "It stands for Synchronous DRAM, this type of RAM is synchronized to our systems' clock speed allowing quicker processing of data"
+    },
+    {
+      "ANSWER": "Secondary or stand-by machine",
+      "QUESTION": "A machine that is the same as a production machine, but won't receive any traffic from actual users until enabled"
+    },
+    {
+      "ANSWER": "Secure boot protocol",
+      "QUESTION": "It uses public key cryptography to secure the encrypted elements of the boot process"
+    },
+    {
+      "ANSWER": "Secure channel",
+      "QUESTION": "It is provided by IPsec, which provides confidentiality, integrity, and authentication of data being passed"
+    },
+    {
+      "ANSWER": "Secure copy",
+      "QUESTION": "A command you can use in Linux to copy files between computers on a network"
+    },
+    {
+      "ANSWER": "Secure element",
+      "QUESTION": "It's a tamper resistant chip often embedded in the microprocessor or integrated into the mainboard of a mobile device"
+    },
+    {
+      "ANSWER": "Secure Shell (SSH)",
+      "QUESTION": "A secure network protocol that uses encryption to allow access to a network service over unsecured networks"
+    },
+    {
+      "ANSWER": "Security",
+      "QUESTION": "It's all about determining risks or exposure understanding the likelihood of attacks; and designing defenses around these risks to minimize the impact of an attack"
+    },
+    {
+      "ANSWER": "Security account manager (SAM)",
+      "QUESTION": "A database in windows that stores user names and password"
+    },
+    {
+      "ANSWER": "Security filtering",
+      "QUESTION": "A tool to make group policies apply more selectively"
+    },
+    {
+      "ANSWER": "Security group",
+      "QUESTION": "One of the two categories that groups in Active Directories can be part of, they can contain user accounts, computer accounts or other security groups"
+    },
+    {
+      "ANSWER": "Security information and event management systems (SIEMS)",
+      "QUESTION": "Form of centralized logging for security administration purposes"
+    },
+    {
+      "ANSWER": "Security keys",
+      "QUESTION": "Small embedded cryptoprocessors, that have secure storage of asymmetric keys and additional slots to run embedded code"
+    },
+    {
+      "ANSWER": "Security patch",
+      "QUESTION": "A piece of software that is meant to fix up a security hole"
+    },
+    {
+      "ANSWER": "Security principal",
+      "QUESTION": "Any entity that can be authenticated by the system, such as a user account, a computer account, or a thread or process that runs in the security context of a user or computer account"
+    },
+    {
+      "ANSWER": "Security through obscurity",
+      "QUESTION": "The principle that if no one knows what algorithm is being used or general security practices, then one is safe from attackers"
+    },
+    {
+      "ANSWER": "Seed value",
+      "QUESTION": "A secret value that is used to initialize a process that is generated by software using one or more values"
+    },
+    {
+      "ANSWER": "Self-signed certificate",
+      "QUESTION": "This certificate has been signed by the same entity that issued the certificate"
+    },
+    {
+      "ANSWER": "Sequence control field",
+      "QUESTION": "A field that is 16 bits long and mainly contains a sequence number used to keep track of ordering the frames"
+    },
+    {
+      "ANSWER": "Sequence number",
+      "QUESTION": "A 32-bit number that's used to keep track of where in a sequence of TCP segments this one is expected to be"
+    },
+    {
+      "ANSWER": "Serial number",
+      "QUESTION": "A unique identifier for their certificate assigned by the CA which allows the CA to manage and identify individual certificates"
+    },
+    {
+      "ANSWER": "Server",
+      "QUESTION": "A device that provides data to another device that is requesting that data, also known as a client"
+    },
+    {
+      "ANSWER": "Server",
+      "QUESTION": "Software or a machine that provides services to other software or machines"
+    },
+    {
+      "ANSWER": "Server logs",
+      "QUESTION": "Text files that contains recorded information about activities performed on a specific web server in a defined period of time"
+    },
+    {
+      "ANSWER": "Server operating systems",
+      "QUESTION": "Regularly operating systems that are optimized for server functionality"
+    },
+    {
+      "ANSWER": "Server or Service",
+      "QUESTION": "A program running on a computer waiting to be asked for data"
+    },
+    {
+      "ANSWER": "Servers",
+      "QUESTION": "Devices that provide data to other devices that request that data, also known as a client"
+    },
+    {
+      "ANSWER": "Service discovery",
+      "QUESTION": "One of the services that the domain controller provides to the clients"
+    },
+    {
+      "ANSWER": "Service type field",
+      "QUESTION": "A eight bit field that can be used to specify details about quality of service or QoS technologies"
+    },
+    {
+      "ANSWER": "Session hijacking (cookie hijacking)",
+      "QUESTION": "A common meddler in the middle attack"
+    },
+    {
+      "ANSWER": "Session key",
+      "QUESTION": "The shared symmetric encryption key using TLS sessions to encrypt data being sent back and forth"
+    },
+    {
+      "ANSWER": "Session layer",
+      "QUESTION": "The network layer responsible for facilitating the communication between actual applications and the transport layer"
+    },
+    {
+      "ANSWER": "Session manager subsystem",
+      "QUESTION": "Process that is in charge of setting some stuff up to work for the OS"
+    },
+    {
+      "ANSWER": "Severity",
+      "QUESTION": "Includes factors like what and how many systems were compromised and how the breach affects business functions"
+    },
+    {
+      "ANSWER": "SHA1",
+      "QUESTION": "It is part of the secure hash algorithm suite of functions, designed by the NSA and published in 1995"
+    },
+    {
+      "ANSWER": "Shannon's maxim",
+      "QUESTION": "It states that the system should remain secure, even if your adversary knows exactly what kind of encryption systems you're employing, as long as your keys remain secure"
+    },
+    {
+      "ANSWER": "Shared folders",
+      "QUESTION": "A way to share files between computers on the same network on Windows"
+    },
+    {
+      "ANSWER": "Shell",
+      "QUESTION": "A program that interprets text commands and sends them to the OS to execute"
+    },
+    {
+      "ANSWER": "Shortcut",
+      "QUESTION": "An entry in the MFT that has a reference to some destination, so that when you open it up, you get taken to that destination"
+    },
+    {
+      "ANSWER": "Short-range wireless network",
+      "QUESTION": "It is what mobile devices uses to connect to their peripherals"
+    },
+    {
+      "ANSWER": "Side-by-side assemblies",
+      "QUESTION": "A system that manages most shared libraries and resources on Windows and supports access to multiple versions of the same shared library automatically"
+    },
+    {
+      "ANSWER": "Side-loading",
+      "QUESTION": "A process of installing mobile apps directly without using an app store"
+    },
+    {
+      "ANSWER": "Signal",
+      "QUESTION": "A way to tell a process that something has just happened"
+    },
+    {
+      "ANSWER": "Simple authentication and security layer (SASL)",
+      "QUESTION": "The authentication method that can employ the help of security protocols like TLS, it requires the client and the directory server to authenticate using some method"
+    },
+    {
+      "ANSWER": "Simple permissions",
+      "QUESTION": "Special or specific permissions"
+    },
+    {
+      "ANSWER": "Simplex communication",
+      "QUESTION": "A form of data communication that only goes in one direction across a cable"
+    },
+    {
+      "ANSWER": "Single point of failure",
+      "QUESTION": "When one system in a redundant pair suffers a failure"
+    },
+    {
+      "ANSWER": "Single sign on (SSO)",
+      "QUESTION": "An account that grants you access to multiple accounts without require constant entry of a password or username"
+    },
+    {
+      "ANSWER": "SOC (System On a Chip)",
+      "QUESTION": "Packs the CPU, Ram, and sometimes even the storage onto a single chip"
+    },
+    {
+      "ANSWER": "Social engineering",
+      "QUESTION": "An attack method that relies heavily on interactions with humans instead of computers"
+    },
+    {
+      "ANSWER": "Socket",
+      "QUESTION": "The instantiation of an endpoint in a potential TCP connection"
+    },
+    {
+      "ANSWER": "Softlinks",
+      "QUESTION": "A shortcut in Linux, that allows us to link to another file using a file name"
+    },
+    {
+      "ANSWER": "Software",
+      "QUESTION": "The intangible instructions that tell the hardware what to do"
+    },
+    {
+      "ANSWER": "Software as a Service (SaaS)",
+      "QUESTION": "A way of licensing the use of software to others while keeping that software centrally hosted and managed"
+    },
+    {
+      "ANSWER": "Software bug",
+      "QUESTION": "An error in software that causes unexpected results"
+    },
+    {
+      "ANSWER": "Software management",
+      "QUESTION": "A broad term used to refer to any and all kinds of software that are designed to manage or help manage some sort of project or task"
+    },
+    {
+      "ANSWER": "Software services",
+      "QUESTION": "The services that employees use that allow them to do their daily job functions, such as word processors, Internet browsers, email clients, chat clients, and more"
+    },
+    {
+      "ANSWER": "Software signing certificate",
+      "QUESTION": "Trust mechanism where a software vendor can cryptographically sign binaries they distribute using a private key"
+    },
+    {
+      "ANSWER": "Source MAC address",
+      "QUESTION": "The hardware address of the device that sent the ethernet frame or data packet. In the data packet it follows the destination MAC address"
+    },
+    {
+      "ANSWER": "Source port",
+      "QUESTION": "A high numbered port chosen from a special section of ports known as ephemeral ports"
+    },
+    {
+      "ANSWER": "Southbridge",
+      "QUESTION": "It maintains our IO or input/output controllers, like hard drives and USB devices that input and output data"
+    },
+    {
+      "ANSWER": "Spear phishing",
+      "QUESTION": "Phishing that targets individual or group - the fake emails may contain some personal information like your name, or the names of friends or family"
+    },
+    {
+      "ANSWER": "Spoofing",
+      "QUESTION": "When a source is masquerading around as something else"
+    },
+    {
+      "ANSWER": "Spyware",
+      "QUESTION": "The type of malware that's meant to spy on you"
+    },
+    {
+      "ANSWER": "SQL Injection Attack",
+      "QUESTION": "An attack that targets the entire website if the website is using a SQL database"
+    },
+    {
+      "ANSWER": "SRV record",
+      "QUESTION": "A service record used to define the location of various specific services"
+    },
+    {
+      "ANSWER": "SSD",
+      "QUESTION": "Solid State Drive"
+    },
+    {
+      "ANSWER": "SSH (Secure shell)",
+      "QUESTION": "A protocol implemented by other programs to securely access one computer from another"
+    },
+    {
+      "ANSWER": "SSH authentication key",
+      "QUESTION": "A secure authentication method for accessing a computer from other device"
+    },
+    {
+      "ANSWER": "SSH client",
+      "QUESTION": "A program you must have installed on your device in order to establish an SSH connection with another device"
+    },
+    {
+      "ANSWER": "SSH server",
+      "QUESTION": "Software installed on a machine that allows for that device to accept an SSH connection"
+    },
+    {
+      "ANSWER": "SSL/TLS Client Certificate",
+      "QUESTION": "Certificates that are bound to clients and are used to authenticate the client to the server, allowing access control to a SSL/TLS service"
+    },
+    {
+      "ANSWER": "SSL 3.0",
+      "QUESTION": "The latest revision of SSL that was deprecated in 2015"
+    },
+    {
+      "ANSWER": "Standard error (stderr)",
+      "QUESTION": "A data stream that redirects the output of error messages in a different output stream. It works both in Linux and Windows"
+    },
+    {
+      "ANSWER": "Standard In (stdin)",
+      "QUESTION": "A data stream in which the input that you provide through the keyboard goes to the standard in stream of the process that you're interacting with. It works both in Linux and Windows"
+    },
+    {
+      "ANSWER": "Standardization",
+      "QUESTION": "A systematic way of naming hosts"
+    },
+    {
+      "ANSWER": "Standard out (stdout)",
+      "QUESTION": "A data stream that, when a process creates output, it adds data to the standard out stream, which flows out of the process. It works both in Linux and Windows"
+    },
+    {
+      "ANSWER": "Standard user",
+      "QUESTION": "A user who is given access to the machine but has restricted access to do thing like install software or change certain setting"
+    },
+    {
+      "ANSWER": "Standoffs",
+      "QUESTION": "Used to raise and attach your motherboard to the case"
+    },
+    {
+      "ANSWER": "Start Frame Delimiter (SFD)",
+      "QUESTION": "The last byte in the preamble, that signals to a receiving device that the preamble is over and that the actual frame contents will now follow"
+    },
+    {
+      "ANSWER": "Start of authority",
+      "QUESTION": "A declaration of the zone and the name of the name server that is authoritative for it"
+    },
+    {
+      "ANSWER": "StartTLS",
+      "QUESTION": "It permits a client to communicate using LDAP v3 over TLS"
+    },
+    {
+      "ANSWER": "Static IP address",
+      "QUESTION": "An IP address that must be manually configured on a node"
+    },
+    {
+      "ANSWER": "Steganography",
+      "QUESTION": "The practice of hiding information from observers, but not encoding it"
+    },
+    {
+      "ANSWER": "Stream ciphers",
+      "QUESTION": "It takes a stream of input and encrypts the stream one character or one digit at a time, outputting one encrypted character or digit at a time"
+    },
+    {
+      "ANSWER": "Subdirectories",
+      "QUESTION": "A directory below or at a deeper level in the directory hierarchy"
+    },
+    {
+      "ANSWER": "Subject",
+      "QUESTION": "This field contains identifying information about the entity the certificate was issued to"
+    },
+    {
+      "ANSWER": "Subject Public Key Info",
+      "QUESTION": "These two subfields define the algorithm of the public key along with the public key itself"
+    },
+    {
+      "ANSWER": "Subnet mask",
+      "QUESTION": "32-bit numbers that are normally written as four octets of decimal numbers"
+    },
+    {
+      "ANSWER": "Subnetting",
+      "QUESTION": "The process of taking a large network and splitting it up into many individual smaller sub networks or subnets"
+    },
+    {
+      "ANSWER": "Substitution cipher",
+      "QUESTION": "An encryption mechanism that replaces parts of your plaintext with ciphertext"
+    },
+    {
+      "ANSWER": "Suspended apps",
+      "QUESTION": "A command that will tell the OS to suspend background mobile apps"
+    },
+    {
+      "ANSWER": "Swap space",
+      "QUESTION": "The allocated space where the virtual memory is stored on the hard drive when the amount of physical memory space is used up or full"
+    },
+    {
+      "ANSWER": "Switches",
+      "QUESTION": "Devices that help our data travel"
+    },
+    {
+      "ANSWER": "Symbolic links",
+      "QUESTION": "Work similarly to shortcuts, but at the file system level. The key difference is that the operating system treats them like substitutes for the file they're linked to in almost every meaningful way"
+    },
+    {
+      "ANSWER": "Symmetric Digital Subscriber Line (SDSL)",
+      "QUESTION": "A device that establishes data connections across phone lines and has upload and download speeds that are the same"
+    },
+    {
+      "ANSWER": "Symmetric key algorithm",
+      "QUESTION": "Encryption algorithms that use the same key to encrypt and decrypt messages"
+    },
+    {
+      "ANSWER": "SYN_RECEIVED",
+      "QUESTION": "A TCP socket state that means that a socket previously in a listener state, has received a synchronization request and sent a SYN_ACK back"
+    },
+    {
+      "ANSWER": "SYN_SENT",
+      "QUESTION": "A TCP socket state that means that a synchronization request has been sent, but the connection hasn't been established yet"
+    },
+    {
+      "ANSWER": "SYN flag",
+      "QUESTION": "One of the TCP flags. SYN stands for synchronize. This flag is used when first establishing a TCP connection and make sure the receiving end knows to examine the sequence number field"
+    },
+    {
+      "ANSWER": "SYN flood",
+      "QUESTION": "The server is bombarded with SYN packets"
+    },
+    {
+      "ANSWER": "Sysinternals package",
+      "QUESTION": "A set of tools released by Microsoft that can help you troubleshoot"
+    },
+    {
+      "ANSWER": "System",
+      "QUESTION": "A group of hardware components and software components that work together to fun the programs or processes in the computer"
+    },
+    {
+      "ANSWER": "System Administration",
+      "QUESTION": "The field in IT that is responsible for maintaining reliable computer systems, in a Multi-user environment"
+    },
+    {
+      "ANSWER": "System properties",
+      "QUESTION": "A control panel applet that allows you to edit the size and number and location of paging files"
+    },
+    {
+      "ANSWER": "Systems administrator (sysadmin)",
+      "QUESTION": "A person who works only in system administration, configuring servers, monitoring the network, provisioning, or setting up new users in computers and taking responsibility of systems"
+    },
+    {
+      "ANSWER": "System settings",
+      "QUESTION": "Settings like display resolution, user accounts, network, devices, etc"
+    },
+    {
+      "ANSWER": "System software",
+      "QUESTION": "Software used to keep our core system running, like operating system tools and utilities"
+    },
+    {
+      "ANSWER": "Tab completion",
+      "QUESTION": "A way to auto-complete a command or file names and directories"
+    },
+    {
+      "ANSWER": "TACACS+",
+      "QUESTION": "It is a device access AAA system that manages who has access to your network devices and what they do on them"
+    },
+    {
+      "ANSWER": "Tailgating",
+      "QUESTION": "Gaining access into a restricted area or building by following a real employee in"
+    },
+    {
+      "ANSWER": "Task bar",
+      "QUESTION": "It gives us quick options and shows us information like network connectivity, the date, system notifications, sound etc"
+    },
+    {
+      "ANSWER": "Task Manager",
+      "QUESTION": "A Windows utility that allows you to gain information about what tasks you have running in the background"
+    },
+    {
+      "ANSWER": "T-Carrier technologies",
+      "QUESTION": "Technologies Invented to transmit multiple phone calls over a single link. Eventually, they also became common transmission systems to transfer data much faster than any dial-up connection could handle"
+    },
+    {
+      "ANSWER": "TCP checksum",
+      "QUESTION": "A mechanism that makes sure that no data is lost or corrupted during a transfer"
+    },
+    {
+      "ANSWER": "Tcpdump",
+      "QUESTION": "It's a super popular, lightweight command-line based utility that you can use to capture and analyze packets"
+    },
+    {
+      "ANSWER": "TCP segment",
+      "QUESTION": "A payload section of an IP datagram made up of a TCP header and a data section"
+    },
+    {
+      "ANSWER": "TCP window",
+      "QUESTION": "The range of sequence numbers that might be sent before an acknowledgement is required"
+    },
+    {
+      "ANSWER": "Terminal",
+      "QUESTION": "A text based interface to the computer"
+    },
+    {
+      "ANSWER": "Termination signal",
+      "QUESTION": "A kill command that will stop whatever process you tell it to"
+    },
+    {
+      "ANSWER": "Test environment",
+      "QUESTION": "A virtual machine running the same configuration as a production environment, but isn't actually serving any users of the service"
+    },
+    {
+      "ANSWER": "Thermal paste",
+      "QUESTION": "A substance used to better connect our CPU and heat sink, so the heat transfers from to the other better"
+    },
+    {
+      "ANSWER": "Threat",
+      "QUESTION": "The possibility of danger that could exploit a vulnerability"
+    },
+    {
+      "ANSWER": "Threats & password policies",
+      "QUESTION": "Protects Data & IP, Data Protection, Infrastructure Defense, Identity Management, and users"
+    },
+    {
+      "ANSWER": "Ticket granting service (TGS)",
+      "QUESTION": "It decrypts the Ticket Granting Ticket using the Ticket Granting Service secret key, which provides the Ticket Granting Service with the client Ticket Granting Service session key"
+    },
+    {
+      "ANSWER": "Time-based token (TOTP)",
+      "QUESTION": "A One-Time-Password that's rotated periodically"
+    },
+    {
+      "ANSWER": "Time slice",
+      "QUESTION": "A very short interval of time that gets allocated to a process for CPU execution"
+    },
+    {
+      "ANSWER": "Time-To-Live field (TTL)",
+      "QUESTION": "An 8-bit field that indicates how many router hops a datagram can traverse before it's thrown away"
+    },
+    {
+      "ANSWER": "TKIP (Temporal Key Integrity Protocol)",
+      "QUESTION": "To address the shortcomings of WEP security"
+    },
+    {
+      "ANSWER": "TLS 1.2",
+      "QUESTION": "The current recommended revision of SSL"
+    },
+    {
+      "ANSWER": "TLS 1.2 with AES GCM",
+      "QUESTION": "A specific mode of operation for the AES block cipher that essentially turns it into a stream cipher"
+    },
+    {
+      "ANSWER": "TLS Handshake",
+      "QUESTION": "A mechanism to initially establish a channel for an application to communicate with a service"
+    },
+    {
+      "ANSWER": "Top Level Domain (TLD)",
+      "QUESTION": "The top level of the DNS or the last part of a domain name. For example, the “com” in www.weather.com"
+    },
+    {
+      "ANSWER": "Total hops",
+      "QUESTION": "The total number of devices data passes through to get from its source to its destination. Routers try to choose the shortest path, so fewest hops possible. The routing table is used to keep track of this"
+    },
+    {
+      "ANSWER": "Total length field",
+      "QUESTION": "A 16-bit field that indicates the total length of the IP datagram it's attached to"
+    },
+    {
+      "ANSWER": "TPM (Trusted Platform Module)",
+      "QUESTION": "This is a hardware device that's typically integrated into the hardware of a computer, that's a dedicated crypto processor"
+    },
+    {
+      "ANSWER": "Traffic class field",
+      "QUESTION": "An 8-bit field that defines the type of traffic contained within the IP datagram and allows for different classes of traffic to receive different priorities"
+    },
+    {
+      "ANSWER": "Transfer Control Protocol (TCP)",
+      "QUESTION": "A protocol that handles reliable delivery of information from one network to another"
+    },
+    {
+      "ANSWER": "Transmission Control Protocol (TCP)",
+      "QUESTION": "The data transfer protocol most commonly used in the fourth layer. This protocol requires an established connection between the client and server"
+    },
+    {
+      "ANSWER": "Transmitter address",
+      "QUESTION": "The MAC address of whatever has just transmitted the frame"
+    },
+    {
+      "ANSWER": "Transport layer",
+      "QUESTION": "The network layer that sorts out which client and server programs are supposed to get the data"
+    },
+    {
+      "ANSWER": "Transport mode",
+      "QUESTION": "One of the two modes of operations supported by IPsec. When used, only the payload of the IP packet is encrypted, leaving the IP headers untouched"
+    },
+    {
+      "ANSWER": "Trim",
+      "QUESTION": "A command to delete unused data blocks so the space can be used for the computer’s storage needs"
+    },
+    {
+      "ANSWER": "Trojan",
+      "QUESTION": "Malware that disguises itself as one thing but does something else"
+    },
+    {
+      "ANSWER": "Troubleshooting",
+      "QUESTION": "The ability to diagnose and resolve a problem"
+    },
+    {
+      "ANSWER": "Trusted execution environment (TEE)",
+      "QUESTION": "It provides a full-blown isolated execution environment that runs alongside the main OS"
+    },
+    {
+      "ANSWER": "TTL",
+      "QUESTION": "The lifetime limit of data given in seconds. This number can be configured by the owner of a domain name for how long a name server is allowed to cache in entry before it should discard it and perform a full resolution again"
+    },
+    {
+      "ANSWER": "Tunnel",
+      "QUESTION": "It is provided by L2TP, which permits the passing of unmodified packets from one network to another"
+    },
+    {
+      "ANSWER": "Tunnel mode",
+      "QUESTION": "One of the two modes of operations supported by IPsec. When used, the entire IP packet, header, payload, and all, is encrypted and encapsulated inside a new IP packet with new headers"
+    },
+    {
+      "ANSWER": "Twisted pair cable",
+      "QUESTION": "The most common type of cabling used for connecting computing devices. It features pairs of copper wires that are twisted together"
+    },
+    {
+      "ANSWER": "Two-factor authentication",
+      "QUESTION": "A technique where more than just a username and password are required to authenticate. Usually, a short-lived numerical token is generated by the user through a specialized piece of hardware or software"
+    },
+    {
+      "ANSWER": "TXT record",
+      "QUESTION": "It stands for text and was originally intended to be used only for associating some descriptive text with a domain name for human consumption"
+    },
+    {
+      "ANSWER": "Type-C connector",
+      "QUESTION": "A type of USB connector meant to replace many peripheral connections"
+    },
+    {
+      "ANSWER": "Types of DNS servers",
+      "QUESTION": "There are five primary types of DNS servers; caching name servers, recursive name servers, root name servers, TLD name servers, and authoritative name servers"
+    },
+    {
+      "ANSWER": "U2F (Universal 2nd Factor)",
+      "QUESTION": "It's a standard developed jointly by Google, Yubico and NXP Semiconductors that incorporates a challenge-response mechanism, along with public key cryptography to implement a more secure and more convenient second-factor authentication solution"
+    },
+    {
+      "ANSWER": "Ubuntu",
+      "QUESTION": "The most popular Linux consumer distribution"
+    },
+    {
+      "ANSWER": "UEFI",
+      "QUESTION": "United Extensible Firmware Interface, a new standard for BIOS"
+    },
+    {
+      "ANSWER": "Unbind",
+      "QUESTION": "It closes the connection to the LDAP server"
+    },
+    {
+      "ANSWER": "Unicast transmission",
+      "QUESTION": "A unicast transmission is always meant for just one receiving address"
+    },
+    {
+      "ANSWER": "Uniform Resource Locator (URL)",
+      "QUESTION": "A web address similar to a home address"
+    },
+    {
+      "ANSWER": "Universal",
+      "QUESTION": "The tool that is used to group global roles in a forest"
+    },
+    {
+      "ANSWER": "Unix epoch",
+      "QUESTION": "It is the number of seconds since midnight on January first, 1970. It's a 'Zero Hour' for Unix based computers to anchor their concept of time"
+    },
+    {
+      "ANSWER": "Urgent pointer field",
+      "QUESTION": "A field used in conjunction with one of the TCP control flags to point out particular segments that might be more important than others"
+    },
+    {
+      "ANSWER": "URG flag",
+      "QUESTION": "One of the TCP control flags. URG is short for urgent. A value of one here indicates that the segment is considered urgent and that the urgent pointer field has more data about this"
+    },
+    {
+      "ANSWER": "USB (Universal Serial Bus)",
+      "QUESTION": "A connection standard for connecting peripherals to devices such as computers"
+    },
+    {
+      "ANSWER": "USB-C adapter",
+      "QUESTION": "One of the standard power, data and display connector types used in mobile devices"
+    },
+    {
+      "ANSWER": "User configuration",
+      "QUESTION": "Contained within a Group Policy Object (GPO)"
+    },
+    {
+      "ANSWER": "User Datagram Protocol (UDP)",
+      "QUESTION": "A transfer protocol that does not rely on connections. This protocol does not support the concept of an acknowledgement. With UDP, you just set a destination port and send the data packet"
+    },
+    {
+      "ANSWER": "User Groups",
+      "QUESTION": "The management of resources on a computer and on a network through organizing user accounts into various groups"
+    },
+    {
+      "ANSWER": "User name",
+      "QUESTION": "A unique identifier for a user account"
+    },
+    {
+      "ANSWER": "Username and password authentication",
+      "QUESTION": "Can be used in conjunction with certificate authentication, providing additional layers of security"
+    },
+    {
+      "ANSWER": "User space",
+      "QUESTION": "The aspect of an operating system that humans interact with directly like programs, such as text editors, music players, system settings, user interfaces, et cetera"
+    },
+    {
+      "ANSWER": "UTF-8",
+      "QUESTION": "The most prevalent encoding standard used today"
+    },
+    {
+      "ANSWER": "UUID",
+      "QUESTION": "Universally Unique ID"
+    },
+    {
+      "ANSWER": "Validity",
+      "QUESTION": "This field contains two subfields, Not Before and Not After, which define the dates when the certificate is valid for"
+    },
+    {
+      "ANSWER": "Variable",
+      "QUESTION": "Files that constantly change"
+    },
+    {
+      "ANSWER": "Vendor risk review",
+      "QUESTION": "Questionnaire that covers different aspects of their security policies procedures and defenses"
+    },
+    {
+      "ANSWER": "Version",
+      "QUESTION": "What version of the X.509 standard certificate adheres to"
+    },
+    {
+      "ANSWER": "Version field",
+      "QUESTION": "First field in an IP header that specifies the version of IP"
+    },
+    {
+      "ANSWER": "Virtual Box",
+      "QUESTION": "An application you can use to install Linux and have it completely isolated from your machine"
+    },
+    {
+      "ANSWER": "Virtual instance",
+      "QUESTION": "A single virtual machine"
+    },
+    {
+      "ANSWER": "Virtualization",
+      "QUESTION": "A single physical machine called a host runs many individual virtual instances called guests"
+    },
+    {
+      "ANSWER": "Virtual LAN (VLAN)",
+      "QUESTION": "It is a technique that lets you have multiple logical LANs operating on the same physical equipment"
+    },
+    {
+      "ANSWER": "Virtual machine (VM)",
+      "QUESTION": "An application that uses physical resources like memory, CPU and storage, but they offer the added benefit of running multiple operating systems at once"
+    },
+    {
+      "ANSWER": "Virtual memory",
+      "QUESTION": "A combination of hard drive space and RAM that acts like memory which our processes can use"
+    },
+    {
+      "ANSWER": "Viruses",
+      "QUESTION": "The best known type of malware"
+    },
+    {
+      "ANSWER": "VLAN header",
+      "QUESTION": "A piece of data that indicates what the frame itself is. In a data packet it is followed by the EtherType"
+    },
+    {
+      "ANSWER": "Volume",
+      "QUESTION": "A format for a filesystem on a partition"
+    },
+    {
+      "ANSWER": "VPN (Virtual Private Network)",
+      "QUESTION": "A secure method of connecting a device to a private network over the internet"
+    },
+    {
+      "ANSWER": "Vulnerability",
+      "QUESTION": "A flaw in the system that could be exploited to compromise the system"
+    },
+    {
+      "ANSWER": "Vulnerability scanner",
+      "QUESTION": "Detect lots of things, ranging from misconfigured services that represent potential risks, to detecting the presence of back doors and systems"
+    },
+    {
+      "ANSWER": "WannaCry Attack",
+      "QUESTION": "A cyber attack that started in Europe and infected hundreds of thousands of computers across the world"
+    },
+    {
+      "ANSWER": "Web of trust",
+      "QUESTION": "It is where individuals instead of certificate authorities sign other individuals' public keys"
+    },
+    {
+      "ANSWER": "Web server",
+      "QUESTION": "A web server stores and serves content to clients through the Internet."
+    },
+    {
+      "ANSWER": "WEP (Wired Equivalent Privacy)",
+      "QUESTION": "First security protocol introduced for Wi-FI networks"
+    },
+    {
+      "ANSWER": "Wide area network",
+      "QUESTION": "Acts like a single network but spans across multiple physical locations. WAN technologies usually require that you contract a link across the Internet with your ISP"
+    },
+    {
+      "ANSWER": "Wi-Fi Protected Access (WPA)",
+      "QUESTION": "A security program that uses a 128-bit key to protect wireless computer networks, which makes it more difficult to crack than WEP"
+    },
+    {
+      "ANSWER": "Wildcard",
+      "QUESTION": "A character that is used to help select files based on a certain pattern"
+    },
+    {
+      "ANSWER": "Windows domain",
+      "QUESTION": "A network of computers and users that are added to a central database"
+    },
+    {
+      "ANSWER": "Windows management instrumentation (WMI)",
+      "QUESTION": "The container that is used to define powerful targeting rules for your GPO"
+    },
+    {
+      "ANSWER": "Windows registry",
+      "QUESTION": "A hierarchical database of settings that Windows, and Windows applications, use for storing configuration data"
+    },
+    {
+      "ANSWER": "Windows Search service",
+      "QUESTION": "A service that indexes files on your computer by looking through them on a schedule"
+    },
+    {
+      "ANSWER": "Windows store",
+      "QUESTION": "A Windows store is an application repository or warehouse where you can download and instal universal Windows platform apps"
+    },
+    {
+      "ANSWER": "Windows update client service",
+      "QUESTION": "System that runs in the background on your computer to download and install updates and patches for your operating system"
+    },
+    {
+      "ANSWER": "Wired Equivalence Privacy (WEP)",
+      "QUESTION": "An encryption technology that provides a very low level of privacy. WEP should really only be seen as being as safe as sending unencrypted data over a wired connection"
+    },
+    {
+      "ANSWER": "Wireless access point",
+      "QUESTION": "A device that bridges the wireless and wired portions of a network"
+    },
+    {
+      "ANSWER": "Wireless LANS (WLANS)",
+      "QUESTION": "One or more access points act as a bridge between a wireless and a wired network"
+    },
+    {
+      "ANSWER": "Wireless networking",
+      "QUESTION": "Networks you connect to through radios and antennas"
+    },
+    {
+      "ANSWER": "Wireshark",
+      "QUESTION": "It's another packet capture and analysis tool that you can use, but it's way more powerful when it comes to application and packet analysis, compared to tcpdump"
+    },
+    {
+      "ANSWER": "WMI filter",
+      "QUESTION": "A tool to make group policies apply more selectively on the configuration of the computer"
+    },
+    {
+      "ANSWER": "Work group computer",
+      "QUESTION": "A Windows computer that isn't joined to a domain"
+    },
+    {
+      "ANSWER": "World Wide Web (WWW)",
+      "QUESTION": "The information system that enables documents and other web resources to be accessed over the Internet"
+    },
+    {
+      "ANSWER": "Worms",
+      "QUESTION": "Similar to viruses except that instead of having to attach themselves onto something to spread, they can live on their own and spread through channels like the network"
+    },
+    {
+      "ANSWER": "WPA (Wi-fi protected access)",
+      "QUESTION": "Designed as a short-term replacement that would be compatible with older WEP-enabled hardware with a simple firmware update"
+    },
+    {
+      "ANSWER": "WPA2 Enterprise",
+      "QUESTION": "It's an 802.1x authentication to Wi-Fi networks"
+    },
+    {
+      "ANSWER": "WPS (Wifi Protected Setup)",
+      "QUESTION": "It's a convenience feature designed to make it easier for clients to join a WPA-PSK protected network"
+    },
+    {
+      "ANSWER": "Write permission",
+      "QUESTION": "A permission that allows you to make changes to a file"
+    },
+    {
+      "ANSWER": "X.500 directory",
+      "QUESTION": "The agreed upon directory standard that wa approved in 1988 that includes, DAP, DSP, DISP, DOP, DAP, and LDAP"
+    },
+    {
+      "ANSWER": "X.509 standard",
+      "QUESTION": "It is what defines the format of digital certificates, as well as a certificate revocation list or CRL"
+    },
+    {
+      "ANSWER": "XTACACS",
+      "QUESTION": "It stands for Extended TACACS, which was a Cisco proprietary extension on top of TACACS"
+    },
+    {
+      "ANSWER": "Zone Files",
+      "QUESTION": "Simple configuration files that declare all resource records for a particular zone"
+    },
+    {
+      "ANSWER": "0-Day Vulnerability (Zero Day)",
+      "QUESTION": "A vulnerability that is not known to the software developer or vendor, but is known to an attacker"
+    }
+  ]
+}

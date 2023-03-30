@@ -308,7 +308,7 @@ Finder: The file manager for all Macs
 FIPS (Federal Information Processing Standard): The DES that was adopted as a federal standard for encrypting and securing government data
 Firewall: It is a device that blocks or allows traffic based on established rules
 Firmware: Software that's permanently stored on a computer component
-Five layer model: A model used to explain how network devices communicate. This model has five layers that stack on top of each other: Physical, Data Link, Network, Transport, and Application
+Five layer model: A model used to explain how network devices communicate. This model has five layers that stack on top of each other - Physical, Data Link, Network, Transport, and Application
 Fixed allocation: Requires a manually specified list of MAC address and the corresponding IPs
 Flag field: It is used to indicate if a datagram is allowed to be fragmented, or to indicate that the datagram has already been fragmented
 Flat file: A collection of records/information that follow a consistent format with rules around stored values. On a host computer, one use is to have a list of network address and host name pairs (a hosts file)
@@ -385,8 +385,7 @@ Hubs: Devices that serve as a central location through which data travels throug
 Hubs: Devices that serve as a central location through which data travels through; a quick and dirty way of getting packets mirrored to your capture interface
 Hybrid cloud: Used to describe situations where companies might run things like their most sensitive proprietary technologies on a private cloud or on premise while entrusting their less sensitive servers to a public cloud
 Hybrid cloud: Used to describe situations where companies might run things like their most sensitive proprietary technologies on a private cloud or on premise while entrusting their less sensitive servers to a public cloud
-Hypervisor: A piece of software that runs and manages virtual machines while also
-offering guests a virtual operating platform that's indistinguishable from actual hardware
+Hypervisor: A piece of software that runs and manages virtual machines while also offering guests a virtual operating platform that's indistinguishable from actual hardware
 I/O management: Anything that can give us input or that we can use for output of data
 I/O Streams: An input stream handles data flowing into and out of a program
 IANA: The Internet Assigned Numbers Authority, is a non-profit organization that helps manage things like IP address allocation
@@ -560,7 +559,7 @@ Options field: It is sometimes used for more complicated flow control protocols
 Organizationally Unique Identifier (OUI): The first three octets of a MAC address
 Organizational units (OU): A hierarchical model of objects and containers that can contain objects or more organizational units
 Organizational units (OUs): Folders that let us group related objects into units like people or groups to distinguish between individual user accounts and groups that accounts can belong to
-OSI model: A model used to define how network devices communicate. This model has seven layers that stack on top of each other: Physical, Data Link, Network, Transport, Session, Presentation, and Application
+OSI model: A model used to define how network devices communicate. This model has seven layers that stack on top of each other - Physical, Data Link, Network, Transport, Session, Presentation, and Application
 OTA update: A type of update that is installed by the mobile device itself
 Overclocking: it increases the rate of your CPU clock cycles in order to perform more tasks
 Packaged archives: The core or source software files that are compressed into one file
@@ -586,7 +585,7 @@ PCI DSS: Payment Card Industry Data Security Standard
 PCI Express: Peripheral Component Interconnect Express
 PDA (Personal Digital Assistant): Allows computing to go mobile
 Penetration testing: The practice of attempting to break into a system or network to verify the systems in place
-Peripherals: the external devices which we connect to our computer that add functionality, like: a mouse, a keyboard, and a monitor
+Peripherals: the external devices which we connect to our computer that add functionality, like - a mouse, a keyboard, and a monitor
 Permission denied: An error message you might find when accessing a protected file
 Personal package archives: A software repository for uploading source packages to be built and published
 PGP (Pretty Good Privacy) encryption: An encryption application that allows authentication of data along with privacy from third parties relying upon asymmetric encryption to achieve this
@@ -715,7 +714,7 @@ Router: A device that knows how to forward data between independent networks
 Router: A device that knows how to forward data between independent networks
 Routing protocols: Special protocols the routers use to speak to each other in order to share what information they might have
 RPM: Revolutions per minute
-RSA: One of the first practical asymmetric cryptography systems to be developed, named for the initials of the three co-inventors: Ron Rivest, Adi Shamir and Leonard Adleman
+RSA: One of the first practical asymmetric cryptography systems to be developed, named for the initials of the three co-inventors - Ron Rivest, Adi Shamir and Leonard Adleman
 RSOP report: The process of troubleshooting group policy and comparing what you expect to be applied to a computer and the resultant set of policy report
 RST flag: One of the TCP control flags. RST is short for reset. This flag means that one of the sides in a TCP connection hasn't been able to properly recover from a series of missing or malformed segments
 SACL's: System Access Control List
