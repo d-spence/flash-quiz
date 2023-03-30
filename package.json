@@ -5,7 +5,6 @@
   "main": "flash-quiz.js",
   "scripts": {
     "server": "json-server --watch quiz-questions.json"
-
   },
   "repository": {
     "type": "git",

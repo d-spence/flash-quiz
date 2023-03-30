@@ -20,7 +20,7 @@ const fetchQuestions = async () => {
 
 const updateCard = () => {
   cardHeadingEl.innerText = `QUESTION #${cardIdx + 1}`;
-  cardTextEl.innerText = questions[cardIdx].QUESTION;
+  cardTextEl.innerText = `${questions[cardIdx].QUESTION}?`;
   flipped = false;
 }
 
@@ -28,7 +28,7 @@ const flipCard = () => {
   if (flipped) {
     setTimeout(() => {
       cardHeadingEl.innerText = `QUESTION #${cardIdx + 1}`;
-      cardTextEl.innerText = questions[cardIdx].QUESTION;
+      cardTextEl.innerText = `${questions[cardIdx].QUESTION}?`;
     }, 500);
     flipped = false;
   } else {
@@ -43,6 +43,7 @@ const flipCard = () => {
   cardHeadingEl.classList.remove('flipped');
   cardTextEl.classList.remove('flipped');
   void cardEl.offsetWidth; // trigger reflow
+  void cardHeadingEl.offsetWidth;
   void cardTextEl.offsetWidth;
   cardEl.classList.add('flipped');
   cardHeadingEl.classList.add('flipped');
@@ -51,21 +52,17 @@ const flipCard = () => {
 
 const nextCard = () => {
   cardIdx += 1;
-
   if (cardIdx >= questions.length) {
     cardIdx = 0;
   }
-
   updateCard();
 }
 
 const prevCard = () => {
   cardIdx -= 1;
-
   if (cardIdx < 0) {
     cardIdx = questions.length - 1;
   }
-
   updateCard();
 }
 
