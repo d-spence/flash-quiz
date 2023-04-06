@@ -6,13 +6,13 @@ const nextBtn = document.getElementById('next');
 const prevBtn = document.getElementById('prev');
 const randomBtn = document.getElementById('random');
 
-const questionsURL = 'http://localhost:3000/Questions';
+const quizURL = 'http://localhost:3000/Quiz';
 let questions;
 let cardIdx = 0;
 let flipped = false;
 
 const fetchQuestions = async () => {
-  const res = await fetch(questionsURL);
+  const res = await fetch(quizURL);
   questions = await res.json();
 
   randomCard();

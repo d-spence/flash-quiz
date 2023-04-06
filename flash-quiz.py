@@ -4,7 +4,7 @@ import os
 from tabulate import tabulate
 
 questions = []
-questions_file_path = 'quiz-questions.txt'
+questions_file_path = 'quiz-glossary.txt'
 prompt1 = 'Press ENTER to see answer... '
 prompt2 = 'Press ENTER to continue or CTRL+C to exit... '
 width = 64
