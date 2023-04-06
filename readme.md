@@ -1,6 +1,6 @@
 # Flash Quiz
 
-A digital flash card quiz program. It loads the questions from a csv-like file and will display a random card with the answer hidden until the user interacts. It keeps displaying new questions until user-interaction. There are two versions available: A terminal-based script that runs in Python and a web app.
+A digital flash card quiz program. It loads the questions from a csv-like file and will display a random card with the answer hidden until the user interacts with it. It continues displaying new questions until the user exits. There are two versions available: A terminal-based script that runs in Python and a web app.
 
 ![Flash Quiz running in the terminal](example.png)
 
