@@ -1,0 +1,19 @@
+{
+  "name": "flash_quiz",
+  "version": "1.0.0",
+  "description": "A digital flash card quiz program written in Python. It loads the questions from a csv-like file and will display a random row in the form of a question. It keeps displaying new questions until the user exits.",
+  "main": "flash-quiz.js",
+  "scripts": {
+    "quiz-glossary": "json-server --watch ./quizzes/quiz-glossary.json"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/d-spence/flash-quiz.git"
+  },
+  "author": "Dan Spencer",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/d-spence/flash-quiz/issues"
+  },
+  "homepage": "https://github.com/d-spence/flash-quiz#readme"
+}

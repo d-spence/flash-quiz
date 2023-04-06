@@ -1,21 +1,32 @@
 # Flash Quiz
 
-A digital flash card quiz program written in Python. It loads the questions from a csv-like file and will display a random row in the form of a question. It keeps displaying new questions until the user exits.
+A digital flash card quiz program. It loads the questions from a csv-like file and will display a random card with the answer hidden until the user interacts. It keeps displaying new questions until user-interaction. There are two versions available: A terminal-based script that runs in Python and a web app.
 
 ![Flash Quiz running in the terminal](example.png)
 
 ## Usage
 
+### Python
 Simply run the script using Python. Press the **ENTER** key to display the answer and press **ENTER** again to show the next question. To exit press **CTRL+C**. These controls will also be displayed on the first question.
 
 `python flash-quiz.py`
 
+### Web
+Install json-server and then run the npm script called 'quiz-glossary' which serves the quiz data to the web app. Then open 'index.html' in a web browser. Click on the card to flip it over and use the buttons on the bottom to navigate or choose a random card.
+
+`npm run quiz-glossary`
+
 ## Requirements
 
+### Python
 - Python 3
 - tabulate
 
 `pip install tabulate`
+
+### Web
+- Node/NPM
+- json-server
 
 ## FAQ
 
