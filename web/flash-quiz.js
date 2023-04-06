@@ -6,37 +6,49 @@ const nextBtn = document.getElementById('next');
 const prevBtn = document.getElementById('prev');
 const randomBtn = document.getElementById('random');
 
+const settingsURL = 'http://localhost:3000/Settings';
 const quizURL = 'http://localhost:3000/Quiz';
-let questions;
+let quiz;
+let settings;
 let cardIdx = 0;
-let flipped = false;
+let cardIsFlipped = false; // the question side of the card is the unflipped side
 
-const fetchQuestions = async () => {
-  const res = await fetch(quizURL);
-  questions = await res.json();
+const fetchQuizData = async () => {
+  const resQuiz = await fetch(quizURL);
+  const resSettings = await fetch(settingsURL);
+  quiz = await resQuiz.json();
+  settings = await resSettings.json();
+  cardIsFlipped = settings.startFlipped;
 
   randomCard();
 }
 
-const updateCard = () => {
-  cardHeadingEl.innerText = `QUESTION #${cardIdx + 1}`;
-  cardTextEl.innerText = `${questions[cardIdx].QUESTION}?`;
-  flipped = false;
+const updateCard = (showAnswer=false, newCard=false) => {
+  if (newCard) {
+    console.log('new card is flipped: ', settings.startFlipped)
+    showAnswer = (settings && settings.startFlipped);
+  }
+
+  if (showAnswer) {
+    cardHeadingEl.innerText = "ANSWER";
+    cardTextEl.innerText = quiz[cardIdx].ANSWER;
+    cardIsFlipped = true;
+    console.log('card updated (answer side)');
+  } else {
+    cardHeadingEl.innerText = `QUESTION #${cardIdx + 1}`;
+    cardTextEl.innerText = `${quiz[cardIdx].QUESTION}${settings.showQMark ? '?': ''}`;
+    cardIsFlipped = false;
+    console.log('card updated (question side)');
+  }
 }
 
 const flipCard = () => {
-  if (flipped) {
-    setTimeout(() => {
-      cardHeadingEl.innerText = `QUESTION #${cardIdx + 1}`;
-      cardTextEl.innerText = `${questions[cardIdx].QUESTION}?`;
-    }, 250);
-    flipped = false;
+  if (cardIsFlipped) {
+    setTimeout(() => updateCard(showAnswer=false), 250);
+    console.log('card is flipping (to question side)');
   } else {
-    setTimeout(() => {
-      cardHeadingEl.innerText = "ANSWER";
-      cardTextEl.innerText = questions[cardIdx].ANSWER;
-    }, 250);
-    flipped = true;
+    setTimeout(() => updateCard(showAnswer=true), 250);
+    console.log('card is flipping (to answer side)');
   }
 
   cardEl.classList.remove('flipped'); // reset animation
@@ -52,26 +64,26 @@ const flipCard = () => {
 
 const nextCard = () => {
   cardIdx += 1;
-  if (cardIdx >= questions.length) {
+  if (cardIdx >= quiz.length) {
     cardIdx = 0;
   }
-  updateCard();
+  updateCard(showAnswer=false, newCard=true);
 }
 
 const prevCard = () => {
   cardIdx -= 1;
   if (cardIdx < 0) {
-    cardIdx = questions.length - 1;
+    cardIdx = quiz.length - 1;
   }
-  updateCard();
+  updateCard(showAnswer=false, newCard=true);
 }
 
 const randomCard = () => {
-  cardIdx = Math.floor(Math.random() * questions.length - 0);
-  updateCard();
+  cardIdx = Math.floor(Math.random() * quiz.length - 0);
+  updateCard(showAnswer=false, newCard=true);
 }
 
-fetchQuestions();
+fetchQuizData();
 
 cardTextEl.addEventListener('click', () => flipCard());
 nextBtn.addEventListener('click', () => nextCard());

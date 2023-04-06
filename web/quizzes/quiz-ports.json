@@ -1,4 +1,8 @@
 {
+  "Settings": {
+    "startFlipped": true,
+    "showQMark": false
+  },
   "Quiz": [
     {
       "ANSWER":"7",
