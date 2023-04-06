@@ -41,12 +41,12 @@ h1 {
   border-radius: 5px;
   width: 500px;
   height: 300px;
-  transition: 0.5s linear all;
+  transition: 0.3s linear all;
   transform:rotateY(0deg);
 }
 
 .card.flipped {
-  animation: 1s linear forwards flipCard;
+  animation: 0.5s linear forwards flipCard;
 }
 
 .card span {
@@ -66,7 +66,7 @@ h1 {
 }
 
 #card-heading.flipped {
-  animation: 1s linear forwards flipText;
+  animation: 0.5s linear forwards flipText;
 }
 
 #card-text {
@@ -79,11 +79,11 @@ h1 {
   height: 300px;
   padding: 20px;
   cursor: pointer;
-  transition: 0.5s linear all;
+  transition: 0.3s linear all;
 }
 
 #card-text.flipped {
-  animation: 1s linear forwards flipText;
+  animation: 0.5s linear forwards flipText;
 }
 
 .controls {

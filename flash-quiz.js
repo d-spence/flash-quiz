@@ -29,13 +29,13 @@ const flipCard = () => {
     setTimeout(() => {
       cardHeadingEl.innerText = `QUESTION #${cardIdx + 1}`;
       cardTextEl.innerText = `${questions[cardIdx].QUESTION}?`;
-    }, 500);
+    }, 250);
     flipped = false;
   } else {
     setTimeout(() => {
       cardHeadingEl.innerText = "ANSWER";
       cardTextEl.innerText = questions[cardIdx].ANSWER;
-    }, 500);
+    }, 250);
     flipped = true;
   }
 
